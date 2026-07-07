@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Nhãn sinh ra (tái tạo được từ notebook) — bỏ comment nếu không muốn commit
+labels/

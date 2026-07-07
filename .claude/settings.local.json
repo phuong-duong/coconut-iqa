@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p scratch_preview)",
+      "Bash(cp \"Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot001.jpg\" scratch_preview/1_GrayLeafSpot.jpg)",
+      "Bash(cp \"Dataset/Coconut Tree Disease Dataset/Leaf Rot/$\\(ls 'Dataset/Coconut Tree Disease Dataset/Leaf Rot')",
+      "Bash(rm -rf scratch_preview)",
+      "Bash(command -v identify)",
+      "Bash(command -v python3)",
+      "Bash(python3 -c \"import cv2; print\\('opencv', cv2.__version__\\)\")",
+      "Bash(python3 -)",
+      "Bash(rm -f scripts/label_dataset.py)",
+      "Bash(ls scripts *)",
+      "Bash(python3 -c \"import jupyter\")",
+      "Bash(command -v jupyter)",
+      "Bash(jupyter nbconvert *)",
+      "Skill(claude-api)",
+      "Bash(python3 -c \"import json; json.load\\(open\\('notebooks/pilot_vision_label.ipynb'\\)\\); print\\('notebook JSON hợp lệ'\\)\")",
+      "Bash(python3 -m pip install -q anthropic)",
+      "Bash(python3 -c \"import anthropic; print\\('anthropic', anthropic.__version__\\)\")",
+      "Bash(mkdir -p scratch_demo)",
+      "Bash(cp '__TRACKED_VAR__/Gray Leaf Spot/__CMDSUB_OUTPUT__')",
+      "Bash(python3 -c \"import json; json.load\\(open\\('notebooks/pilot_vision_label.ipynb'\\)\\); print\\('notebook hợp lệ'\\)\")",
+      "Bash(rm -rf scratch_demo)",
+      "Bash(find . -name '.DS_Store' -not -path './.git/*')",
+      "Bash(ls -la scripts/)",
+      "Bash(ls -la notebooks/labels/)",
+      "Bash(wc -l)",
+      "Bash(diff -q labels/manifest.csv notebooks/labels/manifest.csv)",
+      "Bash(find . -iname 'AGENTS.md' -not -path './.git/*')",
+      "Bash(echo \"exit=$?\")",
+      "Bash(rm -f coconut-iqa-labeling-plan.md)",
+      "Bash(printf '# Memory Index\\\\n')"
+    ]
+  }
+}
