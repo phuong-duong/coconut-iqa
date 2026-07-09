@@ -29,9 +29,9 @@ tác vụ nào.
 | `2_foliar_disease` | Chẩn bệnh trên lá (cận cảnh lá) | Gray Leaf Spot, Leaf Rot |
 | `3_trunk_disease` | Chẩn bệnh thân (bề mặt thân) | Stem Bleeding |
 | `4_crown_disease` | Chẩn bệnh đọt/crown (đỉnh đọt, nhìn từ trên xuống) | Bud Rot |
-| `5_wholetree_decline` | Suy tàn toàn cây, sàng lọc bệnh rễ/rụng chồi (dáng cây từ xa) | Bud Root Dropping |
+| `5_petiole` | Đánh giá tình trạng tàu lá (sàng lọc bệnh rễ/rụng chồi) | Bud Root Dropping |
 
-Các tác vụ phân theo *required-view* — ảnh phải thể hiện đúng đối tượng/góc nhìn (trái / lá / thân / đọt nhìn từ trên xuống / toàn cây).
+Các tác vụ phân theo *required-view* — ảnh phải thể hiện đúng đối tượng/góc nhìn (trái / lá / thân / đọt nhìn từ trên xuống / cuống lá + độ rủ).
 
 Ngưỡng quyết định `τ_k` mỗi tác vụ hiệu chỉnh trên tập kiểm định (tối đa hóa F1), không cố định 0.5.
 
@@ -58,7 +58,7 @@ Thư mục `Dataset/`:
 - `Dataset/Coconut Tree Disease Dataset/` — bộ bệnh (Mendeley `gh56wbsnj5`), 5 thư mục lớp:
   Gray Leaf Spot (2135), Leaf Rot (1673) → `2_foliar_disease`;
   Stem Bleeding (1006) → `3_trunk_disease`; Bud Rot (470) → `4_crown_disease`;
-  Bud Root Dropping (514) → `5_wholetree_decline`.
+  Bud Root Dropping (514) → `5_petiole`.
 
 Tổng ~6746 ảnh. Ground-truth cho cả 5 tác vụ đều có sẵn trong hai bộ trên (mỗi ảnh có GT cho đúng một tác vụ theo nguồn).
 
@@ -74,23 +74,23 @@ Tổng ~6746 ảnh. Ground-truth cho cả 5 tác vụ đều có sẵn trong hai
 - **Gold seed** (~300–500 ảnh người gán, phân tầng): calibrate label model, báo cáo Cohen's κ, và làm
   **tập kiểm thử vàng**. Đánh giá cuối cùng phải trên gold seed, không trên nhãn tự sinh.
 
-Bảng labeling function + kế hoạch chi tiết: `paper/Labeling_Plan.md`.
+Bảng labeling function + kế hoạch chi tiết: `docs/Labeling_Plan.md`.
 
 ## 6. Bản đồ file
 
 ```
 paper/Methodology.md                   # Mục Phương pháp hoàn chỉnh — nguồn chân lý về thiết kế
-paper/Labeling_Plan.md                 # Bảng LF + kế hoạch triển khai + ước lượng công sức
-notebooks/label_correctness.ipynb      # LF1–5: sinh nhãn correctness; mô hình hạ nguồn là hàm giữ chỗ (stub, khả thay)
-notebooks/pilot_vision_label.ipynb     # LF7: gán nhãn bằng vision model + cổng chất lượng
+docs/Labeling_Plan.md                  # Bảng LF + kế hoạch triển khai + ước lượng công sức (nội bộ, không thuộc paper)
+notebooks/01_label_correctness.ipynb   # (chạy trước) LF1–5: sinh nhãn correctness; mô hình hạ nguồn là hàm giữ chỗ (stub, khả thay)
+notebooks/02_pilot_vision_label.ipynb  # (chạy sau)  LF7: gán nhãn bằng vision model + cổng chất lượng
 Dataset/                               # Dữ liệu (xem mục 4)
 ```
 
 ## 7. Lộ trình triển khai (thứ tự ưu tiên)
 
 1. **Gold seed**: gán tay ~300–500 ảnh cho 5 tác vụ + viết annotation protocol. (Đòn bẩy cao nhất.)
-2. **Huấn luyện & tích hợp 5 mô hình hạ nguồn** (độ-chín trên `dry/green/tender`; bệnh-lá; bệnh-thân; bệnh-đọt; suy-tàn-toàn-cây) vào
-   `DownstreamModels` trong `notebooks/label_correctness.ipynb` (xem mục 8).
+2. **Huấn luyện & tích hợp 5 mô hình hạ nguồn** (độ-chín trên `dry/green/tender`; bệnh-lá; bệnh-thân; bệnh-đọt; tàu-lá) vào
+   `DownstreamModels` trong `notebooks/01_label_correctness.ipynb` (xem mục 8).
 3. **Degradation LF**: bộ suy giảm có kiểm soát + dò điểm gãy cho từng tác vụ × từng trục.
 4. **Label model** (Snorkel hoặc biểu quyết có trọng số) hợp nhất các LF → nhãn xác suất; calibrate theo gold seed.
 5. **Split 70/15/15 group theo ảnh gốc** (gộp ×3 augment cùng split).
@@ -100,8 +100,8 @@ Dataset/                               # Dữ liệu (xem mục 4)
 
 ## 8. Cách chạy & mở rộng
 
-Mở `notebooks/label_correctness.ipynb` và chạy tuần tự các cell. Khi mô hình hạ nguồn chưa được
-tích hợp (còn là hàm giữ chỗ), manifest sinh ra ở `labels/correctness_manifest.csv` với các cột nhãn để trống.
+Mở `notebooks/01_label_correctness.ipynb` và chạy tuần tự các cell. Khi mô hình hạ nguồn chưa được
+tích hợp (còn là hàm giữ chỗ), manifest sinh ra ở `labels/lf1-5_correctness_manifest.csv` với các cột nhãn để trống.
 
 Tích hợp mô hình hạ nguồn thực (sửa cell tạo `DownstreamModels` ở cuối notebook):
 ```python
@@ -110,7 +110,7 @@ models = DownstreamModels(
     predict_foliar    = lambda p: my_foliar_clf.predict(p),     # bool
     predict_trunk     = lambda p: my_trunk_clf.predict(p),      # bool
     predict_crown     = lambda p: my_crown_clf.predict(p),      # bool
-    predict_wholetree = lambda p: my_wholetree_clf.predict(p),  # bool
+    predict_petiole = lambda p: my_petiole_clf.predict(p),  # bool
 )
 ```
 Logic correctness: `maturity_correct` (đúng nếu mức dự đoán ∈ tập mức thật của ảnh),
@@ -119,6 +119,7 @@ Logic correctness: `maturity_correct` (đúng nếu mức dự đoán ∈ tập 
 ## 9. Nguyên tắc không được vi phạm
 
 - Multi-label: mỗi nhãn một sigmoid độc lập, **không softmax**.
+- Hữu dụng = thấy rõ đối tượng đủ để **đánh giá** (kể cả kết luận khỏe mạnh), KHÔNG đòi triệu chứng bệnh.
 - **Group-split theo ảnh gốc** — bộ Roboflow có ×3 bản augment, dễ rò rỉ train/test.
 - Nhãn là **proxy** → xác thực bằng gold seed người gán (κ); đánh giá cuối trên gold seed, không trên nhãn tự sinh.
 - Báo cáo hiệu năng **per-source** để phát hiện shortcut (model học phân biệt nguồn thay vì độ hữu dụng).

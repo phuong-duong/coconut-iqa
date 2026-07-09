@@ -30,7 +30,8 @@
       "Bash(find . -iname 'AGENTS.md' -not -path './.git/*')",
       "Bash(echo \"exit=$?\")",
       "Bash(rm -f coconut-iqa-labeling-plan.md)",
-      "Bash(printf '# Memory Index\\\\n')"
+      "Bash(printf '# Memory Index\\\\n')",
+      "Bash(git mv *)"
     ]
   }
 }

@@ -19,7 +19,7 @@ Gọi $x$ là một ảnh đầu vào. Ta xét $K = 5$ tác vụ hạ nguồn, p
 - $t_2$ — chẩn đoán bệnh trên lá (`2_foliar_disease`);
 - $t_3$ — chẩn đoán bệnh thân (`3_trunk_disease`);
 - $t_4$ — chẩn đoán bệnh đọt/crown (`4_crown_disease`);
-- $t_5$ — sàng lọc suy tàn toàn cây / bệnh rễ-rụng chồi (`5_wholetree_decline`).
+- $t_5$ — đánh giá tình trạng tàu lá, sàng lọc bệnh rễ-rụng chồi (`5_petiole`).
 
 Bài toán được hình thức hóa dưới dạng **phân loại đa nhãn** (*multi-label classification*): mô hình $f_\theta$ ánh xạ mỗi ảnh $x$ thành một vector xác suất
 
@@ -27,7 +27,7 @@ $$\hat{y} = f_\theta(x) \in [0,1]^K,$$
 
 trong đó $\hat{y}_k$ là xác suất ảnh $x$ phù hợp cho tác vụ $t_k$, và nhãn thật $y_k \in \{0,1\}$. Thiết kế đa nhãn (thay vì đa lớp loại trừ lẫn nhau) phản ánh thực tế rằng một ảnh có thể đồng thời phù hợp cho nhiều tác vụ, phù hợp cho một số và không cho số còn lại, hoặc không cho tác vụ nào. Mỗi nhãn dùng một hàm kích hoạt *sigmoid* độc lập.
 
-**Tiêu chí phù hợp theo tác vụ** (mỗi tác vụ gắn với một *required-view*): độ chín cần thấy rõ **trái** với kích thước/hình dạng/màu vỏ trung thực; bệnh lá cần thấy rõ **phiến lá** và triệu chứng; bệnh thân cần thấy rõ **bề mặt thân** (vết chảy nhựa); bệnh đọt/crown cần thấy rõ **đỉnh đọt** (lý tưởng nhìn từ trên xuống) với dấu hiệu thối/đổi màu; suy tàn toàn cây cần thấy **dáng cây tổng thể từ xa** (còi cọc, tán rủ, vàng úa).
+**Tiêu chí phù hợp theo tác vụ** (mỗi tác vụ gắn với một *required-view*; hữu dụng nghĩa là thấy rõ đối tượng **đủ để đánh giá** — kể cả kết luận khỏe mạnh — chứ không đòi triệu chứng): độ chín cần thấy rõ **trái** (kích thước/hình dạng/màu vỏ trung thực); bệnh lá cần thấy rõ **phiến lá**; bệnh thân cần thấy rõ **bề mặt thân**; bệnh đọt/crown cần thấy rõ **đỉnh đọt** (lý tưởng nhìn từ trên xuống); tình trạng tàu lá cần thấy **cuống lá hoặc độ rủ của tàu lá** (đủ để đánh giá độ rủ/vàng úa/còi cọc hay khỏe mạnh; thấy lờ mờ cũng đủ).
 
 ## 3.3. Xây dựng tập dữ liệu và sinh nhãn
 
@@ -36,7 +36,7 @@ trong đó $\hat{y}_k$ là xác suất ảnh $x$ phù hợp cho tác vụ $t_k$,
 Dữ liệu được tổng hợp từ các nguồn ảnh dừa công khai:
 
 - **Độ chín** — bộ *coconut* (v5) trên Roboflow Universe [1] (giấy phép CC BY 4.0; 392 ảnh gốc, 948 ảnh sau tăng cường ×3 ở tập huấn luyện), định dạng YOLO với nhãn **3 mức độ chín** (`dry`, `green`, `tender`) gán cho từng trái. Nhờ đó độ chín có đáp án đúng ở cấp độ từng trái và được gán bằng correctness (xem 3.3.2).
-- **Bệnh cây dừa** — bộ *Coconut Tree Disease Dataset* trên Mendeley Data [2], gồm các lớp bệnh: Gray Leaf Spot, Leaf Rot (bệnh lá → `2_foliar_disease`); Stem Bleeding (bệnh thân → `3_trunk_disease`); Bud Rot (bệnh đọt/crown → `4_crown_disease`); Bud Root Dropping (suy tàn toàn cây → `5_wholetree_decline`).
+- **Bệnh cây dừa** — bộ *Coconut Tree Disease Dataset* trên Mendeley Data [2], gồm các lớp bệnh: Gray Leaf Spot, Leaf Rot (bệnh lá → `2_foliar_disease`); Stem Bleeding (bệnh thân → `3_trunk_disease`); Bud Rot (bệnh đọt/crown → `4_crown_disease`); Bud Root Dropping (tình trạng tàu lá → `5_petiole`).
 
 **Nguồn tham khảo dữ liệu:**
 [1] coconut dataset (v5), nit-calicut, Roboflow Universe (CC BY 4.0). https://universe.roboflow.com/nit-calicut/coconut-veirf
@@ -91,5 +91,5 @@ Chúng tôi công bố minh bạch các giới hạn sau cùng biện pháp gi�
 - **Tiền xử lý sẵn ở bộ Roboflow (độ chín)** (ảnh đã qua resize stretch, auto-contrast và tăng cường phơi sáng ×3 khi xuất) làm sai lệch tín hiệu chất lượng và tạo ảnh gần trùng. Giảm thiểu: group split theo ảnh gốc; không dùng ảnh đã chuẩn hóa để đánh giá cổng chất lượng.
 - **Nhãn đặc thù theo mô hình hạ nguồn.** Định nghĩa "hữu dụng = tác vụ thành công" khiến nhãn phụ thuộc năng lực mô hình hạ nguồn; đổi mô hình có thể đổi nhãn. Khung lại đúng bản chất: mô hình IQA dự đoán *khả năng thành công của tác vụ hạ nguồn*.
 - **Lệch phân phối với triển khai thực tế.** Dữ liệu là ảnh dataset đã chuẩn hóa/cận cảnh, khác ảnh điện thoại chụp ngoài đồng. Giảm thiểu: thu thập một tập kiểm thử nhỏ ảnh hiện trường thật (hướng phát triển).
-- **Bệnh tách theo required-view.** Bốn bệnh được tách thành các tác vụ riêng theo đối tượng/góc nhìn chẩn đoán (`3_trunk_disease`, `4_crown_disease`, `5_wholetree_decline`) thay vì gộp chung, vì mỗi bệnh cần một loại ảnh khác nhau (bề mặt thân / đỉnh đọt nhìn từ trên xuống / dáng cây từ xa).
-- **Tín hiệu `5_wholetree_decline` kém đặc hiệu.** Dấu hiệu suy tàn toàn cây (tán rủ, vàng úa) do nhiều nguyên nhân, nên tác vụ này phù hợp cho sàng lọc bước đầu hơn là chẩn xác; xác nhận bệnh rễ/rụng chồi cần quan sát rễ (ngoài phạm vi ảnh chụp thông thường).
+- **Bệnh tách theo required-view.** Bốn bệnh được tách thành các tác vụ riêng theo đối tượng/góc nhìn chẩn đoán (`3_trunk_disease`, `4_crown_disease`, `5_petiole`) thay vì gộp chung, vì mỗi bệnh cần một loại ảnh khác nhau (bề mặt thân / đỉnh đọt nhìn từ trên xuống / cuống lá + độ rủ).
+- **Tín hiệu `5_petiole` kém đặc hiệu.** Suy tàn tàu lá (rủ, vàng úa) do nhiều nguyên nhân, nên tác vụ này phù hợp cho sàng lọc bước đầu hơn là chẩn xác; xác nhận bệnh rễ/rụng chồi cần quan sát rễ (ngoài phạm vi ảnh chụp thông thường).
