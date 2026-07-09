@@ -13,11 +13,13 @@ Nhờ suy luận tại biên (*edge inference*), hệ thống loại bỏ độ 
 
 ## 3.2. Phát biểu bài toán
 
-Gọi $x$ là một ảnh đầu vào. Ta xét $K = 3$ tác vụ hạ nguồn:
+Gọi $x$ là một ảnh đầu vào. Ta xét $K = 5$ tác vụ hạ nguồn, phân theo *required-view* (ảnh phải thể hiện đúng đối tượng/góc nhìn):
 
 - $t_1$ — đánh giá độ chín (`1_maturity_evaluation`);
 - $t_2$ — chẩn đoán bệnh trên lá (`2_foliar_disease`);
-- $t_3$ — chẩn đoán bệnh thân/ngọn (`3_trunk_crown_disease`).
+- $t_3$ — chẩn đoán bệnh thân (`3_trunk_disease`);
+- $t_4$ — chẩn đoán bệnh đọt/crown (`4_crown_disease`);
+- $t_5$ — sàng lọc suy tàn toàn cây / bệnh rễ-rụng chồi (`5_wholetree_decline`).
 
 Bài toán được hình thức hóa dưới dạng **phân loại đa nhãn** (*multi-label classification*): mô hình $f_\theta$ ánh xạ mỗi ảnh $x$ thành một vector xác suất
 
@@ -25,7 +27,7 @@ $$\hat{y} = f_\theta(x) \in [0,1]^K,$$
 
 trong đó $\hat{y}_k$ là xác suất ảnh $x$ phù hợp cho tác vụ $t_k$, và nhãn thật $y_k \in \{0,1\}$. Thiết kế đa nhãn (thay vì đa lớp loại trừ lẫn nhau) phản ánh thực tế rằng một ảnh có thể đồng thời phù hợp cho nhiều tác vụ, phù hợp cho một số và không cho số còn lại, hoặc không cho tác vụ nào. Mỗi nhãn dùng một hàm kích hoạt *sigmoid* độc lập.
 
-**Tiêu chí phù hợp theo tác vụ** (tri thức lĩnh vực): độ chín đòi hỏi thấy rõ trái với kích thước/hình dạng/màu vỏ được tái hiện trung thực; bệnh lá đòi hỏi thấy rõ phiến lá và triệu chứng tổn thương đủ nét; bệnh thân/ngọn đòi hỏi thấy rõ thân/gốc/ngọn với dấu hiệu bệnh (chảy nhựa thân, thối/rụng đọt) đủ nét.
+**Tiêu chí phù hợp theo tác vụ** (mỗi tác vụ gắn với một *required-view*): độ chín cần thấy rõ **trái** với kích thước/hình dạng/màu vỏ trung thực; bệnh lá cần thấy rõ **phiến lá** và triệu chứng; bệnh thân cần thấy rõ **bề mặt thân** (vết chảy nhựa); bệnh đọt/crown cần thấy rõ **đỉnh đọt** (lý tưởng nhìn từ trên xuống) với dấu hiệu thối/đổi màu; suy tàn toàn cây cần thấy **dáng cây tổng thể từ xa** (còi cọc, tán rủ, vàng úa).
 
 ## 3.3. Xây dựng tập dữ liệu và sinh nhãn
 
@@ -34,7 +36,7 @@ trong đó $\hat{y}_k$ là xác suất ảnh $x$ phù hợp cho tác vụ $t_k$,
 Dữ liệu được tổng hợp từ các nguồn ảnh dừa công khai:
 
 - **Độ chín** — bộ *coconut* (v5) trên Roboflow Universe [1] (giấy phép CC BY 4.0; 392 ảnh gốc, 948 ảnh sau tăng cường ×3 ở tập huấn luyện), định dạng YOLO với nhãn **3 mức độ chín** (`dry`, `green`, `tender`) gán cho từng trái. Nhờ đó độ chín có đáp án đúng ở cấp độ từng trái và được gán bằng correctness (xem 3.3.2).
-- **Bệnh cây dừa** — bộ *Coconut Tree Disease Dataset* trên Mendeley Data [2], gồm các lớp bệnh: Gray Leaf Spot, Leaf Rot (bệnh lá → `2_foliar_disease`); Stem Bleeding, Bud Rot, Bud Root Dropping (bệnh thân/ngọn → `3_trunk_crown_disease`).
+- **Bệnh cây dừa** — bộ *Coconut Tree Disease Dataset* trên Mendeley Data [2], gồm các lớp bệnh: Gray Leaf Spot, Leaf Rot (bệnh lá → `2_foliar_disease`); Stem Bleeding (bệnh thân → `3_trunk_disease`); Bud Rot (bệnh đọt/crown → `4_crown_disease`); Bud Root Dropping (suy tàn toàn cây → `5_wholetree_decline`).
 
 **Nguồn tham khảo dữ liệu:**
 [1] coconut dataset (v5), nit-calicut, Roboflow Universe (CC BY 4.0). https://universe.roboflow.com/nit-calicut/coconut-veirf
@@ -46,7 +48,7 @@ Dữ liệu được tổng hợp từ các nguồn ảnh dừa công khai:
 
 Nhãn được sinh bằng cách **hợp nhất nhiều tín hiệu yếu (weak-supervision fusion) neo vào một tập nhỏ do người gán (gold seed)**, với ba nhóm tín hiệu chính:
 
-1. **Tính đúng so với đáp án sẵn có (correctness vs. ground-truth).** Cả ba tác vụ đều có đáp án đúng trong dữ liệu: độ chín (nhãn mức `dry`/`green`/`tender` từng trái), bệnh lá và bệnh thân/ngọn (nhãn lớp bệnh). Độ hữu dụng được xác định bằng việc mô hình hạ nguồn dự đoán *đúng* trên ảnh đó hay không (với độ chín: đọc đúng mức chín so với nhãn thật). Đây là tín hiệu đáng tin nhất.
+1. **Tính đúng so với đáp án sẵn có (correctness vs. ground-truth).** Cả năm tác vụ đều có đáp án đúng trong dữ liệu: độ chín (nhãn mức `dry`/`green`/`tender` từng trái), và bốn tác vụ bệnh (nhãn lớp bệnh tương ứng của bộ Coconut Tree Disease Dataset). Mỗi ảnh có đáp án cho đúng một tác vụ theo nguồn của nó. Độ hữu dụng được xác định bằng việc mô hình hạ nguồn dự đoán *đúng* trên ảnh đó hay không (với độ chín: đọc đúng mức chín so với nhãn thật). Đây là tín hiệu đáng tin nhất.
 2. **Suy giảm có kiểm soát (controlled degradation).** Từ các ảnh mà tác vụ hạ nguồn xử lý thành công, ta chủ động làm suy giảm theo từng trục mô phỏng lỗi chụp thực tế (mờ, phơi sáng sai, giảm phân giải/nén, che khuất, lệch cân bằng trắng) và xác định mức suy giảm mà tại đó tác vụ bắt đầu thất bại. Cách này sinh nhiều mẫu quanh đúng ranh giới hữu dụng và cho quan hệ nhân quả rõ ràng; đặc biệt quan trọng ở trục chất lượng.
 3. **Confidence đã hiệu chỉnh / phát hiện ngoài phân phối (OOD).** Chỉ dùng ở nơi thiếu đáp án đúng; điểm tin cậy phải được hiệu chỉnh (calibration) trước khi dùng, vì mô hình học sâu thường tự tin nhưng sai trên ảnh xấu.
 
@@ -62,7 +64,7 @@ Tập dữ liệu được chia huấn luyện/kiểm định/kiểm thử theo 
 
 ## 3.5. Kiến trúc mô hình
 
-Vì mục tiêu triển khai trên điện thoại tại hiện trường, chúng tôi ưu tiên backbone tích chập nhẹ dành cho thiết bị biên như **MobileNetV3** hoặc **EfficientNet-Lite**, khởi tạo bằng trọng số tiền huấn luyện trên ImageNet và tinh chỉnh trên dữ liệu dừa. Phần đầu phân loại được thay bằng một lớp fully-connected sinh $K = 3$ đầu ra, mỗi đầu ra qua hàm *sigmoid* độc lập (không dùng *softmax*) để phù hợp với thiết lập đa nhãn. Backbone dùng chung cho cả ba tác vụ theo cơ chế học đa nhiệm, tái sử dụng đặc trưng thị giác cấp thấp và giảm mạnh số tham số so với ba mô hình riêng — yếu tố then chốt cho ràng buộc bộ nhớ/năng lượng của thiết bị di động.
+Vì mục tiêu triển khai trên điện thoại tại hiện trường, chúng tôi ưu tiên backbone tích chập nhẹ dành cho thiết bị biên như **MobileNetV3** hoặc **EfficientNet-Lite**, khởi tạo bằng trọng số tiền huấn luyện trên ImageNet và tinh chỉnh trên dữ liệu dừa. Phần đầu phân loại được thay bằng một lớp fully-connected sinh $K = 5$ đầu ra, mỗi đầu ra qua hàm *sigmoid* độc lập (không dùng *softmax*) để phù hợp với thiết lập đa nhãn. Backbone dùng chung cho cả năm tác vụ theo cơ chế học đa nhiệm, tái sử dụng đặc trưng thị giác cấp thấp và giảm mạnh số tham số so với năm mô hình riêng — yếu tố then chốt cho ràng buộc bộ nhớ/năng lượng của thiết bị di động.
 
 ## 3.6. Huấn luyện
 
@@ -78,7 +80,7 @@ Việc chọn độ phân giải đầu vào được thực hiện như một b
 
 ## 3.8. Chỉ số đánh giá
 
-Do bài toán đa nhãn và mất cân bằng, hiệu năng được đánh giá trên từng tác vụ và tổng hợp bằng: precision, recall, F1 (macro và micro), độ chính xác từng nhãn và AUC-ROC cho mỗi tác vụ; bổ sung *subset accuracy* (đúng đồng thời cả 3 nhãn) và *Hamming loss* ở cấp độ vector nhãn. Về vận hành, chúng tôi chú trọng *recall* của lớp "không phù hợp" cho mỗi tác vụ, vì bỏ sót một ảnh kém (để lọt vào tác vụ hạ nguồn) tốn kém hơn việc yêu cầu chụp lại. Bộ tiền kiểm chất lượng được đánh giá riêng, và hiệu quả triển khai được báo cáo song song qua độ trễ và kích thước mô hình.
+Do bài toán đa nhãn và mất cân bằng, hiệu năng được đánh giá trên từng tác vụ và tổng hợp bằng: precision, recall, F1 (macro và micro), độ chính xác từng nhãn và AUC-ROC cho mỗi tác vụ; bổ sung *subset accuracy* (đúng đồng thời cả 5 nhãn) và *Hamming loss* ở cấp độ vector nhãn. Về vận hành, chúng tôi chú trọng *recall* của lớp "không phù hợp" cho mỗi tác vụ, vì bỏ sót một ảnh kém (để lọt vào tác vụ hạ nguồn) tốn kém hơn việc yêu cầu chụp lại. Bộ tiền kiểm chất lượng được đánh giá riêng, và hiệu quả triển khai được báo cáo song song qua độ trễ và kích thước mô hình.
 
 ## 3.9. Nguy cơ đối với tính hiệu lực (Threats to Validity)
 
@@ -89,4 +91,5 @@ Chúng tôi công bố minh bạch các giới hạn sau cùng biện pháp gi�
 - **Tiền xử lý sẵn ở bộ Roboflow (độ chín)** (ảnh đã qua resize stretch, auto-contrast và tăng cường phơi sáng ×3 khi xuất) làm sai lệch tín hiệu chất lượng và tạo ảnh gần trùng. Giảm thiểu: group split theo ảnh gốc; không dùng ảnh đã chuẩn hóa để đánh giá cổng chất lượng.
 - **Nhãn đặc thù theo mô hình hạ nguồn.** Định nghĩa "hữu dụng = tác vụ thành công" khiến nhãn phụ thuộc năng lực mô hình hạ nguồn; đổi mô hình có thể đổi nhãn. Khung lại đúng bản chất: mô hình IQA dự đoán *khả năng thành công của tác vụ hạ nguồn*.
 - **Lệch phân phối với triển khai thực tế.** Dữ liệu là ảnh dataset đã chuẩn hóa/cận cảnh, khác ảnh điện thoại chụp ngoài đồng. Giảm thiểu: thu thập một tập kiểm thử nhỏ ảnh hiện trường thật (hướng phát triển).
-- **Phạm vi tác vụ bệnh thân/ngọn.** Do dữ liệu chỉ có bệnh thân/ngọn, tác vụ `3_trunk_crown_disease` giới hạn ở phạm vi này.
+- **Bệnh tách theo required-view.** Bốn bệnh được tách thành các tác vụ riêng theo đối tượng/góc nhìn chẩn đoán (`3_trunk_disease`, `4_crown_disease`, `5_wholetree_decline`) thay vì gộp chung, vì mỗi bệnh cần một loại ảnh khác nhau (bề mặt thân / đỉnh đọt nhìn từ trên xuống / dáng cây từ xa).
+- **Tín hiệu `5_wholetree_decline` kém đặc hiệu.** Dấu hiệu suy tàn toàn cây (tán rủ, vàng úa) do nhiều nguyên nhân, nên tác vụ này phù hợp cho sàng lọc bước đầu hơn là chẩn xác; xác nhận bệnh rễ/rụng chồi cần quan sát rễ (ngoài phạm vi ảnh chụp thông thường).

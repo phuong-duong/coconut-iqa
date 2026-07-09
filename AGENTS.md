@@ -19,22 +19,26 @@ thẩm mỹ chung.
 
 ## 2. Bài toán & bộ nhãn
 
-Phân loại **đa nhãn (multi-label)**: mỗi ảnh → vector 3 chiều, mỗi chiều một **sigmoid độc lập**
+Phân loại **đa nhãn (multi-label)**: mỗi ảnh → vector 5 chiều, mỗi chiều một **sigmoid độc lập**
 (không dùng softmax). Nhãn thật `y_k ∈ {0,1}`. Một ảnh có thể phù hợp cho nhiều, một, hoặc không
 tác vụ nào.
 
 | Mã | Tác vụ | Ground-truth |
 |----|--------|--------------|
 | `1_maturity_evaluation` | Đánh giá độ chín | Nhãn mức chín `dry`/`green`/`tender` từng trái (bộ Roboflow) |
-| `2_foliar_disease` | Chẩn bệnh trên lá | Lớp bệnh: Gray Leaf Spot, Leaf Rot |
-| `3_trunk_crown_disease` | Chẩn bệnh thân/ngọn | Lớp bệnh: Stem Bleeding, Bud Rot, Bud Root Dropping |
+| `2_foliar_disease` | Chẩn bệnh trên lá (cận cảnh lá) | Gray Leaf Spot, Leaf Rot |
+| `3_trunk_disease` | Chẩn bệnh thân (bề mặt thân) | Stem Bleeding |
+| `4_crown_disease` | Chẩn bệnh đọt/crown (đỉnh đọt, nhìn từ trên xuống) | Bud Rot |
+| `5_wholetree_decline` | Suy tàn toàn cây, sàng lọc bệnh rễ/rụng chồi (dáng cây từ xa) | Bud Root Dropping |
+
+Các tác vụ phân theo *required-view* — ảnh phải thể hiện đúng đối tượng/góc nhìn (trái / lá / thân / đọt nhìn từ trên xuống / toàn cây).
 
 Ngưỡng quyết định `τ_k` mỗi tác vụ hiệu chỉnh trên tập kiểm định (tối đa hóa F1), không cố định 0.5.
 
 ## 3. Pipeline
 
 Mô hình đa nhãn nhẹ (**MobileNetV3 / EfficientNet-Lite**, pretrained ImageNet, tinh chỉnh trên dữ
-liệu dừa), backbone dùng chung cho 3 tác vụ (multi-task), đầu ra 3 sigmoid.
+liệu dừa), backbone dùng chung cho 5 tác vụ (multi-task), đầu ra 5 sigmoid.
 
 Để phục vụ mục tiêu phản hồi tức thời, có thể đặt một **bộ tiền kiểm chất lượng nhẹ** (đo mờ / phơi
 sáng / độ phân giải) chạy trên thiết bị trước khi gọi mô hình: ảnh quá kém → báo chụp lại ngay.
@@ -53,16 +57,17 @@ Thư mục `Dataset/`:
   một ảnh gốc PHẢI nằm cùng split (chống rò rỉ), và không dùng ảnh này để đánh giá tín hiệu chất lượng.
 - `Dataset/Coconut Tree Disease Dataset/` — bộ bệnh (Mendeley `gh56wbsnj5`), 5 thư mục lớp:
   Gray Leaf Spot (2135), Leaf Rot (1673) → `2_foliar_disease`;
-  Stem Bleeding (1006), Bud Rot (470), Bud Root Dropping (514) → `3_trunk_crown_disease`.
+  Stem Bleeding (1006) → `3_trunk_disease`; Bud Rot (470) → `4_crown_disease`;
+  Bud Root Dropping (514) → `5_wholetree_decline`.
 
-Tổng ~6746 ảnh. Ground-truth cho cả 3 tác vụ đều có sẵn trong hai bộ trên.
+Tổng ~6746 ảnh. Ground-truth cho cả 5 tác vụ đều có sẵn trong hai bộ trên (mỗi ảnh có GT cho đúng một tác vụ theo nguồn).
 
 ## 5. Chiến lược gán nhãn (task-driven)
 
 Độ hữu dụng = tác vụ hạ nguồn thành công. Sinh nhãn bằng **weak-supervision fusion neo vào gold seed**:
 
 - **Correctness vs ground-truth** (tín hiệu mạnh nhất): mô hình hạ nguồn dự đoán ĐÚNG trên ảnh → ảnh
-  hữu dụng cho tác vụ đó. Cả 3 tác vụ đều có GT.
+  hữu dụng cho tác vụ đó. Cả 5 tác vụ đều có GT.
 - **Suy giảm có kiểm soát (controlled degradation)**: làm hỏng dần ảnh tốt, dò mức mà tác vụ bắt đầu
   thất bại → sinh mẫu quanh ranh giới hữu dụng.
 - **Vision LF / confidence đã calibrate / OOD / TTA**: bổ sung nơi correctness thưa.
@@ -76,20 +81,20 @@ Bảng labeling function + kế hoạch chi tiết: `paper/Labeling_Plan.md`.
 ```
 paper/Methodology.md                   # Mục Phương pháp hoàn chỉnh — nguồn chân lý về thiết kế
 paper/Labeling_Plan.md                 # Bảng LF + kế hoạch triển khai + ước lượng công sức
-notebooks/label_correctness.ipynb      # LF1–3: sinh nhãn correctness; mô hình hạ nguồn là hàm giữ chỗ (stub, khả thay)
-notebooks/pilot_vision_label.ipynb     # LF5: gán nhãn bằng vision model + cổng chất lượng
+notebooks/label_correctness.ipynb      # LF1–5: sinh nhãn correctness; mô hình hạ nguồn là hàm giữ chỗ (stub, khả thay)
+notebooks/pilot_vision_label.ipynb     # LF7: gán nhãn bằng vision model + cổng chất lượng
 Dataset/                               # Dữ liệu (xem mục 4)
 ```
 
 ## 7. Lộ trình triển khai (thứ tự ưu tiên)
 
-1. **Gold seed**: gán tay ~300–500 ảnh cho 3 tác vụ + viết annotation protocol. (Đòn bẩy cao nhất.)
-2. **Huấn luyện & tích hợp 3 mô hình hạ nguồn** (độ-chín trên `dry/green/tender`; bệnh-lá; bệnh-thân) vào
+1. **Gold seed**: gán tay ~300–500 ảnh cho 5 tác vụ + viết annotation protocol. (Đòn bẩy cao nhất.)
+2. **Huấn luyện & tích hợp 5 mô hình hạ nguồn** (độ-chín trên `dry/green/tender`; bệnh-lá; bệnh-thân; bệnh-đọt; suy-tàn-toàn-cây) vào
    `DownstreamModels` trong `notebooks/label_correctness.ipynb` (xem mục 8).
 3. **Degradation LF**: bộ suy giảm có kiểm soát + dò điểm gãy cho từng tác vụ × từng trục.
 4. **Label model** (Snorkel hoặc biểu quyết có trọng số) hợp nhất các LF → nhãn xác suất; calibrate theo gold seed.
 5. **Split 70/15/15 group theo ảnh gốc** (gộp ×3 augment cùng split).
-6. **Train mô hình IQA** nhẹ, 3 sigmoid heads, BCE có trọng số lớp; **dò kích thước đầu vào** (224/320/384) như siêu tham số.
+6. **Train mô hình IQA** nhẹ, 5 sigmoid heads, BCE có trọng số lớp; **dò kích thước đầu vào** (224/320/384) như siêu tham số.
 7. **Đánh giá** trên gold seed: macro/micro-F1, AUC, per-source; hiệu chỉnh `τ_k` theo F1.
 8. **Nén** INT8 → TFLite/ONNX Mobile; đo latency + size; dựng đường cong accuracy–latency.
 
@@ -101,13 +106,15 @@ tích hợp (còn là hàm giữ chỗ), manifest sinh ra ở `labels/correctnes
 Tích hợp mô hình hạ nguồn thực (sửa cell tạo `DownstreamModels` ở cuối notebook):
 ```python
 models = DownstreamModels(
-    predict_maturity    = lambda p: my_maturity_clf.predict(p),   # trả 'dry'/'green'/'tender'
-    predict_foliar      = lambda p: my_leaf_clf.predict(p) in FOLIAR_CLASSES,   # -> bool
-    predict_trunk_crown = lambda p: my_trunk_clf.predict(p) in TRUNK_CLASSES,   # -> bool
+    predict_maturity  = lambda p: my_maturity_clf.predict(p),   # 'dry'/'green'/'tender'
+    predict_foliar    = lambda p: my_foliar_clf.predict(p),     # bool
+    predict_trunk     = lambda p: my_trunk_clf.predict(p),      # bool
+    predict_crown     = lambda p: my_crown_clf.predict(p),      # bool
+    predict_wholetree = lambda p: my_wholetree_clf.predict(p),  # bool
 )
 ```
 Logic correctness: `maturity_correct` (đúng nếu mức dự đoán ∈ tập mức thật của ảnh),
-`cls_correct` (đúng lớp bệnh → hữu dụng; trả None/abstain nếu ảnh không thuộc tác vụ đó).
+`cls_correct` (đúng lớp bệnh → hữu dụng). Mỗi ảnh bệnh chỉ gán tác vụ gốc (nơi có GT); tác vụ khác để trống (abstain).
 
 ## 9. Nguyên tắc không được vi phạm
 
@@ -154,7 +161,7 @@ Giải thích ngắn cho các thuật ngữ dùng trong repo này.
 | Ngưỡng τ_k (threshold) | Mức xác suất để chốt nhãn = 1 cho tác vụ k; hiệu chỉnh theo F1 thay vì cố định 0.5. |
 | F1 (macro / micro) | Chỉ số cân bằng precision & recall. Macro = trung bình đều các tác vụ; micro = gộp toàn bộ. |
 | AUC-ROC | Đo khả năng phân biệt của model, không phụ thuộc ngưỡng. |
-| Subset accuracy | Tỉ lệ ảnh dự đoán đúng **đồng thời cả 3 nhãn**. |
+| Subset accuracy | Tỉ lệ ảnh dự đoán đúng **đồng thời cả 5 nhãn**. |
 | Hamming loss | Tỉ lệ nhãn (từng ô) bị dự đoán sai trên toàn bộ vector nhãn. |
 | Data leakage (rò rỉ) | Thông tin từ tập test lọt vào train → điểm số ảo. Ở đây do ×3 bản augment cùng ảnh gốc. |
 | Group split | Chia train/val/test theo **ảnh gốc** để mọi biến thể của một ảnh nằm cùng một tập (chống rò rỉ). |
