@@ -1,0 +1,301 @@
+gold_id,image_id,source,task_native,path
+G001,635_jpg.rf.a059885df2bce4a69f2999e926631bc3,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/635_jpg.rf.a059885df2bce4a69f2999e926631bc3.jpg
+G002,107_jpg.rf.5f9841f56e824f142c0f3f483285b93c,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/107_jpg.rf.5f9841f56e824f142c0f3f483285b93c.jpg
+G003,40_jpg.rf.76a4805d480e15118c23b8d12afd4406,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/40_jpg.rf.76a4805d480e15118c23b8d12afd4406.jpg
+G004,47_jpg.rf.876ae0012f9fcdcf1b35cc5e6b89c905,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/47_jpg.rf.876ae0012f9fcdcf1b35cc5e6b89c905.jpg
+G005,631_jpg.rf.37becedc41eec2729f5118284c33e49d,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/631_jpg.rf.37becedc41eec2729f5118284c33e49d.jpg
+G006,613_jpg.rf.dbf55b4e2bd013c6413c709ce72a9419,coconut-veirf-v5/test,1_maturity_evaluation,Dataset/coconut-veirf-v5/test/images/613_jpg.rf.dbf55b4e2bd013c6413c709ce72a9419.jpg
+G007,524_jpg.rf.53f036f4af2f03761aa073c575bde87a,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/524_jpg.rf.53f036f4af2f03761aa073c575bde87a.jpg
+G008,135_jpg.rf.b210e4eec9664f6abdceb849b997b708,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/135_jpg.rf.b210e4eec9664f6abdceb849b997b708.jpg
+G009,642_jpg.rf.4fd26fe482783d44c5d6491712f0f9ab,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/642_jpg.rf.4fd26fe482783d44c5d6491712f0f9ab.jpg
+G010,676_jpg.rf.adf41f42fbd37e45830b822a54e7031b,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/676_jpg.rf.adf41f42fbd37e45830b822a54e7031b.jpg
+G011,526_jpg.rf.642462b3b16c75fc0576416d96795c27,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/526_jpg.rf.642462b3b16c75fc0576416d96795c27.jpg
+G012,689_jpg.rf.171c98bb07051ad9521ec227756883d1,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/689_jpg.rf.171c98bb07051ad9521ec227756883d1.jpg
+G013,049_jpeg.rf.1b21d2bcad75110f76a7d8ea4c143ee9,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/049_jpeg.rf.1b21d2bcad75110f76a7d8ea4c143ee9.jpg
+G014,70_jpg.rf.352f4779d1fdedaf856cc42d9e6c8ffd,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/70_jpg.rf.352f4779d1fdedaf856cc42d9e6c8ffd.jpg
+G015,89_jpg.rf.0ef84b970f393e9a3ac7d374e4659da2,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/89_jpg.rf.0ef84b970f393e9a3ac7d374e4659da2.jpg
+G016,748_jpg.rf.682425bc996dd9267e812025f251e96c,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/748_jpg.rf.682425bc996dd9267e812025f251e96c.jpg
+G017,053_jpg.rf.0a5abe5fbf66f06c41dcb869cb43248b,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/053_jpg.rf.0a5abe5fbf66f06c41dcb869cb43248b.jpg
+G018,601_jpg.rf.3e4c772567ccc26f3eb77b04cf1a8c5f,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/601_jpg.rf.3e4c772567ccc26f3eb77b04cf1a8c5f.jpg
+G019,111_jpg.rf.153d0f62cd94c6c3bf44b4d7bc967278,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/111_jpg.rf.153d0f62cd94c6c3bf44b4d7bc967278.jpg
+G020,062_jpg.rf.ac95db25f27ea09ca0c30238c43e8095,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/062_jpg.rf.ac95db25f27ea09ca0c30238c43e8095.jpg
+G021,657_jpg.rf.0d9711505e045d97085937a3dd034d02,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/657_jpg.rf.0d9711505e045d97085937a3dd034d02.jpg
+G022,503_jpg.rf.9cb32c1b22f1a465a62cc09d8d76d701,coconut-veirf-v5/test,1_maturity_evaluation,Dataset/coconut-veirf-v5/test/images/503_jpg.rf.9cb32c1b22f1a465a62cc09d8d76d701.jpg
+G023,637_jpg.rf.314812f2336cd2096a42f2e2ed60c2b6,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/637_jpg.rf.314812f2336cd2096a42f2e2ed60c2b6.jpg
+G024,090_jpg.rf.746355ed00064913ca06f842f30c30ca,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/090_jpg.rf.746355ed00064913ca06f842f30c30ca.jpg
+G025,02_jpg.rf.1a1d0ce506e8a23fe8f78a880e1ba3e5,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/02_jpg.rf.1a1d0ce506e8a23fe8f78a880e1ba3e5.jpg
+G026,081_jpg.rf.449d3c0358eaf9bec929a92fbd41a970,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/081_jpg.rf.449d3c0358eaf9bec929a92fbd41a970.jpg
+G027,534_jpg.rf.3662e186d5a4c86278f2554c5fe5d0f8,coconut-veirf-v5/test,1_maturity_evaluation,Dataset/coconut-veirf-v5/test/images/534_jpg.rf.3662e186d5a4c86278f2554c5fe5d0f8.jpg
+G028,0100_jpg.rf.0d343bad8dab2daf913d921a776694e7,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/0100_jpg.rf.0d343bad8dab2daf913d921a776694e7.jpg
+G029,756_jpg.rf.6310ca62273111c54bd451111b485f7d,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/756_jpg.rf.6310ca62273111c54bd451111b485f7d.jpg
+G030,714_jpg.rf.cd5ae7fc3335a8659e318d3b0612ef5e,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/714_jpg.rf.cd5ae7fc3335a8659e318d3b0612ef5e.jpg
+G031,90_jpg.rf.1a6838e653005182b1cfc4bc1e7deafe,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/90_jpg.rf.1a6838e653005182b1cfc4bc1e7deafe.jpg
+G032,639_jpg.rf.b3f264e182e2e87ad17be685e8f5b430,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/639_jpg.rf.b3f264e182e2e87ad17be685e8f5b430.jpg
+G033,63_jpg.rf.80a6fb58202f20939c4dc429ccf137b9,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/63_jpg.rf.80a6fb58202f20939c4dc429ccf137b9.jpg
+G034,55_jpeg.rf.1b2dd7bacf946b5ba085df8a1d4e7869,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/55_jpeg.rf.1b2dd7bacf946b5ba085df8a1d4e7869.jpg
+G035,065_jpg.rf.74d068653c1483b865ce3ca36bf93714,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/065_jpg.rf.74d068653c1483b865ce3ca36bf93714.jpg
+G036,046_jpeg.rf.18fc9e843c6d9d7ff00f26f088357550,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/046_jpeg.rf.18fc9e843c6d9d7ff00f26f088357550.jpg
+G037,736_jpg.rf.21603b63999ebce50e1372f53d920366,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/736_jpg.rf.21603b63999ebce50e1372f53d920366.jpg
+G038,646_jpg.rf.163c6b3086ff4905a600c6af037760d1,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/646_jpg.rf.163c6b3086ff4905a600c6af037760d1.jpg
+G039,07_jpg.rf.0f23d3d4c678de04e163a34aee36da16,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/07_jpg.rf.0f23d3d4c678de04e163a34aee36da16.jpg
+G040,629_jpg.rf.20d7d60339bcdfccb53f55ff730007a2,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/629_jpg.rf.20d7d60339bcdfccb53f55ff730007a2.jpg
+G041,85_jpg.rf.8d2d5ea75e6701843381e74b682a9b28,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/85_jpg.rf.8d2d5ea75e6701843381e74b682a9b28.jpg
+G042,673_jpg.rf.25a7badcde431c1470c6cd0d0a7e67fa,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/673_jpg.rf.25a7badcde431c1470c6cd0d0a7e67fa.jpg
+G043,616_jpg.rf.4035ce0e3872d6d3fd9f57b9c8612655,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/616_jpg.rf.4035ce0e3872d6d3fd9f57b9c8612655.jpg
+G044,88_jpg.rf.08ec1f6f2f0d6170b4fc018f72a12543,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/88_jpg.rf.08ec1f6f2f0d6170b4fc018f72a12543.jpg
+G045,04_jpg.rf.1ac4fcee4634cad16b6d444f2ec38d3c,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/04_jpg.rf.1ac4fcee4634cad16b6d444f2ec38d3c.jpg
+G046,713_jpg.rf.5b815bd6bdf3b29074453947269bb20f,coconut-veirf-v5/test,1_maturity_evaluation,Dataset/coconut-veirf-v5/test/images/713_jpg.rf.5b815bd6bdf3b29074453947269bb20f.jpg
+G047,626_jpg.rf.64e1c5346ff31fccb9e639c6fced54a6,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/626_jpg.rf.64e1c5346ff31fccb9e639c6fced54a6.jpg
+G048,11_jpg.rf.4abe98a1e65a34a5611aec3a6deb1a1d,coconut-veirf-v5/test,1_maturity_evaluation,Dataset/coconut-veirf-v5/test/images/11_jpg.rf.4abe98a1e65a34a5611aec3a6deb1a1d.jpg
+G049,721_jpg.rf.4d0734c31e6de0559b311e9f3482334f,coconut-veirf-v5/test,1_maturity_evaluation,Dataset/coconut-veirf-v5/test/images/721_jpg.rf.4d0734c31e6de0559b311e9f3482334f.jpg
+G050,26_jpg.rf.b4ad46d76046277a59923eea1ca19add,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/26_jpg.rf.b4ad46d76046277a59923eea1ca19add.jpg
+G051,51_jpg.rf.5268b43c8550382ff1a17187c5e610d7,coconut-veirf-v5/test,1_maturity_evaluation,Dataset/coconut-veirf-v5/test/images/51_jpg.rf.5268b43c8550382ff1a17187c5e610d7.jpg
+G052,08_jpg.rf.0286ef27b25b2857d4ffab88bb5ffaad,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/08_jpg.rf.0286ef27b25b2857d4ffab88bb5ffaad.jpg
+G053,732_jpg.rf.30cffc07083b4ac771c53383970bf763,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/732_jpg.rf.30cffc07083b4ac771c53383970bf763.jpg
+G054,055_jpeg.rf.48b25d091dadf1161944a77b019a0985,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/055_jpeg.rf.48b25d091dadf1161944a77b019a0985.jpg
+G055,612_jpg.rf.3637976aeb727ff87995e468c1ee4dcf,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/612_jpg.rf.3637976aeb727ff87995e468c1ee4dcf.jpg
+G056,27_jpg.rf.a678d2aafba8b585fe5274b44f81df57,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/27_jpg.rf.a678d2aafba8b585fe5274b44f81df57.jpg
+G057,58_jpg.rf.04ec6de6b183c7dacc6f7bde7cb42774,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/58_jpg.rf.04ec6de6b183c7dacc6f7bde7cb42774.jpg
+G058,089_jpg.rf.fa1ba0a7d3f53d8e5987bd14527ffc0d,coconut-veirf-v5/valid,1_maturity_evaluation,Dataset/coconut-veirf-v5/valid/images/089_jpg.rf.fa1ba0a7d3f53d8e5987bd14527ffc0d.jpg
+G059,757_jpg.rf.22ac0c9431289496601e452c8607b49b,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/757_jpg.rf.22ac0c9431289496601e452c8607b49b.jpg
+G060,718_jpg.rf.23047ea4a26eeecb5d70b2db7d6c86b9,coconut-veirf-v5/train,1_maturity_evaluation,Dataset/coconut-veirf-v5/train/images/718_jpg.rf.23047ea4a26eeecb5d70b2db7d6c86b9.jpg
+G061,GrayLeafSpot1960,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1960.jpg
+G062,GrayLeafSpot2083,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot2083.jpg
+G063,GrayLeafSpot781,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot781.jpg
+G064,LeafRot164,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot164.jpg
+G065,LeafRot166,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot166.jpg
+G066,GrayLeafSpot245,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot245.jpg
+G067,LeafRot1659,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1659.jpg
+G068,LeafRot1219,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1219.jpg
+G069,GrayLeafSpot999,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot999.jpg
+G070,GrayLeafSpot1026,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1026.jpg
+G071,GrayLeafSpot704,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot704.jpg
+G072,LeafRot772,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot772.jpg
+G073,LeafRot372,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot372.jpg
+G074,GrayLeafSpot1693,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1693.jpg
+G075,GrayLeafSpot934,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot934.jpg
+G076,LeafRot1503,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1503.jpg
+G077,LeafRot994,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot994.jpg
+G078,LeafRot365,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot365.jpg
+G079,GrayLeafSpot1702,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1702.jpg
+G080,GrayLeafSpot1998,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1998.jpg
+G081,GrayLeafSpot349,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot349.jpg
+G082,GrayLeafSpot512,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot512.jpg
+G083,GrayLeafSpot1951,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1951.jpg
+G084,LeafRot086,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot086.jpg
+G085,LeafRot437,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot437.jpg
+G086,LeafRot140,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot140.jpg
+G087,GrayLeafSpot1416,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1416.jpg
+G088,GrayLeafSpot1238,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1238.jpg
+G089,LeafRot1182,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1182.jpg
+G090,GrayLeafSpot1668,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1668.jpg
+G091,LeafRot889,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot889.jpg
+G092,GrayLeafSpot364,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot364.jpg
+G093,GrayLeafSpot695,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot695.jpg
+G094,GrayLeafSpot1427,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1427.jpg
+G095,GrayLeafSpot517,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot517.jpg
+G096,GrayLeafSpot378,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot378.jpg
+G097,LeafRot513,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot513.jpg
+G098,LeafRot1525,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1525.jpg
+G099,LeafRot617,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot617.jpg
+G100,LeafRot139,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot139.jpg
+G101,LeafRot1012,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1012.jpg
+G102,GrayLeafSpot1828,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1828.jpg
+G103,LeafRot1250,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1250.jpg
+G104,GrayLeafSpot729,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot729.jpg
+G105,LeafRot1590,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1590.jpg
+G106,LeafRot392,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot392.jpg
+G107,GrayLeafSpot157,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot157.jpg
+G108,LeafRot711,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot711.jpg
+G109,LeafRot1591,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1591.jpg
+G110,GrayLeafSpot1162,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1162.jpg
+G111,GrayLeafSpot1325,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1325.jpg
+G112,GrayLeafSpot1172,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1172.jpg
+G113,GrayLeafSpot1647,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1647.jpg
+G114,GrayLeafSpot1117,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1117.jpg
+G115,LeafRot1628,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot1628.jpg
+G116,LeafRot986,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot986.jpg
+G117,LeafRot501,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot501.jpg
+G118,LeafRot193,disease/Leaf Rot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Leaf Rot/LeafRot193.jpg
+G119,GrayLeafSpot1727,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1727.jpg
+G120,GrayLeafSpot1123,disease/Gray Leaf Spot,2_foliar_disease,Dataset/Coconut Tree Disease Dataset/Gray Leaf Spot/GrayLeafSpot1123.jpg
+G121,StemBleeding194,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding194.jpg
+G122,StemBleeding572,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding572.jpg
+G123,StemBleeding106,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding106.jpg
+G124,StemBleeding907,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding907.jpg
+G125,StemBleeding201,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding201.jpg
+G126,StemBleeding022,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding022.jpg
+G127,StemBleeding307,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding307.jpg
+G128,StemBleeding641,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding641.jpg
+G129,StemBleeding016,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding016.jpg
+G130,StemBleeding990,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding990.jpg
+G131,StemBleeding432,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding432.jpg
+G132,StemBleeding612,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding612.jpg
+G133,StemBleeding805,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding805.jpg
+G134,StemBleeding397,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding397.jpg
+G135,StemBleeding211,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding211.jpg
+G136,StemBleeding813,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding813.jpg
+G137,StemBleeding315,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding315.jpg
+G138,StemBleeding668,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding668.jpg
+G139,StemBleeding130,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding130.jpg
+G140,StemBleeding419,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding419.jpg
+G141,StemBleeding539,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding539.jpg
+G142,StemBleeding758,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding758.jpg
+G143,StemBleeding182,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding182.jpg
+G144,StemBleeding270,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding270.jpg
+G145,StemBleeding540,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding540.jpg
+G146,StemBleeding289,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding289.jpg
+G147,StemBleeding018,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding018.jpg
+G148,StemBleeding626,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding626.jpg
+G149,StemBleeding544,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding544.jpg
+G150,StemBleeding095,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding095.jpg
+G151,StemBleeding928,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding928.jpg
+G152,StemBleeding436,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding436.jpg
+G153,StemBleeding472,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding472.jpg
+G154,StemBleeding974,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding974.jpg
+G155,StemBleeding720,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding720.jpg
+G156,StemBleeding880,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding880.jpg
+G157,StemBleeding385,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding385.jpg
+G158,StemBleeding665,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding665.jpg
+G159,StemBleeding122,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding122.jpg
+G160,StemBleeding637,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding637.jpg
+G161,StemBleeding971,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding971.jpg
+G162,StemBleeding505,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding505.jpg
+G163,StemBleeding798,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding798.jpg
+G164,StemBleeding230,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding230.jpg
+G165,StemBleeding105,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding105.jpg
+G166,StemBleeding392,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding392.jpg
+G167,StemBleeding566,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding566.jpg
+G168,StemBleeding268,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding268.jpg
+G169,StemBleeding103,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding103.jpg
+G170,StemBleeding817,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding817.jpg
+G171,StemBleeding174,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding174.jpg
+G172,StemBleeding723,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding723.jpg
+G173,StemBleeding875,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding875.jpg
+G174,StemBleeding113,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding113.jpg
+G175,StemBleeding430,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding430.jpg
+G176,StemBleeding914,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding914.jpg
+G177,StemBleeding119,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding119.jpg
+G178,StemBleeding606,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding606.jpg
+G179,StemBleeding290,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding290.jpg
+G180,StemBleeding783,disease/Stem Bleeding,3_trunk_disease,Dataset/Coconut Tree Disease Dataset/Stem Bleeding/StemBleeding783.jpg
+G181,BudRot459,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot459.jpg
+G182,BudRot056,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot056.jpg
+G183,BudRot387,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot387.jpg
+G184,BudRot154,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot154.jpg
+G185,BudRot390,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot390.jpg
+G186,BudRot172,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot172.jpg
+G187,BudRot141,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot141.jpg
+G188,BudRot128,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot128.jpg
+G189,BudRot090,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot090.jpg
+G190,BudRot180,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot180.jpg
+G191,BudRot458,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot458.jpg
+G192,BudRot042,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot042.jpg
+G193,BudRot215,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot215.jpg
+G194,BudRot182,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot182.jpg
+G195,BudRot049,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot049.jpg
+G196,BudRot305,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot305.jpg
+G197,BudRot136,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot136.jpg
+G198,BudRot026,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot026.jpg
+G199,BudRot402,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot402.jpg
+G200,BudRot181,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot181.jpg
+G201,BudRot409,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot409.jpg
+G202,BudRot167,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot167.jpg
+G203,BudRot014,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot014.jpg
+G204,BudRot159,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot159.jpg
+G205,BudRot240,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot240.jpg
+G206,BudRot241,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot241.jpg
+G207,BudRot001,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot001.jpg
+G208,BudRot148,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot148.jpg
+G209,BudRot137,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot137.jpg
+G210,BudRot122,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot122.jpg
+G211,BudRot257,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot257.jpg
+G212,BudRot080,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot080.jpg
+G213,BudRot040,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot040.jpg
+G214,BudRot088,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot088.jpg
+G215,BudRot413,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot413.jpg
+G216,BudRot063,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot063.jpg
+G217,BudRot312,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot312.jpg
+G218,BudRot273,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot273.jpg
+G219,BudRot391,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot391.jpg
+G220,BudRot031,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot031.jpg
+G221,BudRot228,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot228.jpg
+G222,BudRot234,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot234.jpg
+G223,BudRot118,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot118.jpg
+G224,BudRot262,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot262.jpg
+G225,BudRot103,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot103.jpg
+G226,BudRot385,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot385.jpg
+G227,BudRot348,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot348.jpg
+G228,BudRot462,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot462.jpg
+G229,BudRot378,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot378.jpg
+G230,BudRot210,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot210.jpg
+G231,BudRot007,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot007.jpg
+G232,BudRot356,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot356.jpg
+G233,BudRot448,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot448.jpg
+G234,BudRot025,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot025.jpg
+G235,BudRot307,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot307.jpg
+G236,BudRot226,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot226.jpg
+G237,BudRot186,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot186.jpg
+G238,BudRot206,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot206.jpg
+G239,BudRot260,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot260.jpg
+G240,BudRot444,disease/Bud Rot,4_crown_disease,Dataset/Coconut Tree Disease Dataset/Bud Rot/BudRot444.jpg
+G241,BudRootDropping120,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping120.jpg
+G242,BudRootDropping368,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping368.jpg
+G243,BudRootDropping273,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping273.jpg
+G244,BudRootDropping002,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping002.jpg
+G245,BudRootDropping238,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping238.jpg
+G246,BudRootDropping126,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping126.jpg
+G247,BudRootDropping341,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping341.jpg
+G248,BudRootDropping303,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping303.jpg
+G249,BudRootDropping044,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping044.jpg
+G250,BudRootDropping224,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping224.jpg
+G251,BudRootDropping095,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping095.jpg
+G252,BudRootDropping510,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping510.jpg
+G253,BudRootDropping222,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping222.jpg
+G254,BudRootDropping339,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping339.jpg
+G255,BudRootDropping465,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping465.jpg
+G256,BudRootDropping483,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping483.jpg
+G257,BudRootDropping139,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping139.jpg
+G258,BudRootDropping342,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping342.jpg
+G259,BudRootDropping154,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping154.jpg
+G260,BudRootDropping356,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping356.jpg
+G261,BudRootDropping489,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping489.jpg
+G262,BudRootDropping079,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping079.jpg
+G263,BudRootDropping064,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping064.jpg
+G264,BudRootDropping211,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping211.jpg
+G265,BudRootDropping140,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping140.jpg
+G266,BudRootDropping454,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping454.jpg
+G267,BudRootDropping166,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping166.jpg
+G268,BudRootDropping218,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping218.jpg
+G269,BudRootDropping171,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping171.jpg
+G270,BudRootDropping446,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping446.jpg
+G271,BudRootDropping366,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping366.jpg
+G272,BudRootDropping476,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping476.jpg
+G273,BudRootDropping380,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping380.jpg
+G274,BudRootDropping184,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping184.jpg
+G275,BudRootDropping010,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping010.jpg
+G276,BudRootDropping335,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping335.jpg
+G277,BudRootDropping231,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping231.jpg
+G278,BudRootDropping367,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping367.jpg
+G279,BudRootDropping429,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping429.jpg
+G280,BudRootDropping029,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping029.jpg
+G281,BudRootDropping431,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping431.jpg
+G282,BudRootDropping325,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping325.jpg
+G283,BudRootDropping389,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping389.jpg
+G284,BudRootDropping107,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping107.jpg
+G285,BudRootDropping023,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping023.jpg
+G286,BudRootDropping243,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping243.jpg
+G287,BudRootDropping170,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping170.jpg
+G288,BudRootDropping049,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping049.jpg
+G289,BudRootDropping382,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping382.jpg
+G290,BudRootDropping169,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping169.jpg
+G291,BudRootDropping513,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping513.jpg
+G292,BudRootDropping127,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping127.jpg
+G293,BudRootDropping474,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping474.jpg
+G294,BudRootDropping490,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping490.jpg
+G295,BudRootDropping281,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping281.jpg
+G296,BudRootDropping160,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping160.jpg
+G297,BudRootDropping198,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping198.jpg
+G298,BudRootDropping298,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping298.jpg
+G299,BudRootDropping012,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping012.jpg
+G300,BudRootDropping163,disease/Bud Root Dropping,5_petiole,Dataset/Coconut Tree Disease Dataset/Bud Root Dropping/BudRootDropping163.jpg

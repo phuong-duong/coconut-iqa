@@ -1,0 +1,4 @@
+train: /Users/peggy/Documents/Projects/HK2/coconut-iqa/labels/lf1_yolov8/runs/fold1/train.txt
+val: /Users/peggy/Documents/Projects/HK2/coconut-iqa/labels/lf1_yolov8/runs/fold1/val.txt
+nc: 3
+names: ['dry', 'green', 'tender']

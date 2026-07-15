@@ -1,0 +1,3809 @@
+image_id,fold,pred_class,confidence
+GrayLeafSpot004,0,Gray Leaf Spot,1.0
+GrayLeafSpot007,0,Gray Leaf Spot,1.0
+GrayLeafSpot016,0,Gray Leaf Spot,1.0
+GrayLeafSpot020,0,Gray Leaf Spot,1.0
+GrayLeafSpot023,0,Gray Leaf Spot,1.0
+GrayLeafSpot024,0,Gray Leaf Spot,1.0
+GrayLeafSpot026,0,Gray Leaf Spot,1.0
+GrayLeafSpot035,0,Gray Leaf Spot,1.0
+GrayLeafSpot036,0,Gray Leaf Spot,1.0
+GrayLeafSpot040,0,Gray Leaf Spot,1.0
+GrayLeafSpot047,0,Gray Leaf Spot,1.0
+GrayLeafSpot053,0,Gray Leaf Spot,1.0
+GrayLeafSpot054,0,Gray Leaf Spot,1.0
+GrayLeafSpot055,0,Gray Leaf Spot,1.0
+GrayLeafSpot060,0,Gray Leaf Spot,1.0
+GrayLeafSpot069,0,Gray Leaf Spot,1.0
+GrayLeafSpot077,0,Gray Leaf Spot,1.0
+GrayLeafSpot078,0,Gray Leaf Spot,1.0
+GrayLeafSpot082,0,Gray Leaf Spot,1.0
+GrayLeafSpot089,0,Gray Leaf Spot,1.0
+GrayLeafSpot095,0,Gray Leaf Spot,1.0
+GrayLeafSpot097,0,Gray Leaf Spot,1.0
+GrayLeafSpot099,0,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot1004,0,Gray Leaf Spot,1.0
+GrayLeafSpot1011,0,Gray Leaf Spot,1.0
+GrayLeafSpot1016,0,Gray Leaf Spot,1.0
+GrayLeafSpot1019,0,Gray Leaf Spot,1.0
+GrayLeafSpot1026,0,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1028,0,Gray Leaf Spot,1.0
+GrayLeafSpot1032,0,Gray Leaf Spot,1.0
+GrayLeafSpot1037,0,Gray Leaf Spot,1.0
+GrayLeafSpot104,0,Gray Leaf Spot,1.0
+GrayLeafSpot1050,0,Gray Leaf Spot,1.0
+GrayLeafSpot1051,0,Gray Leaf Spot,1.0
+GrayLeafSpot1053,0,Gray Leaf Spot,1.0
+GrayLeafSpot1055,0,Gray Leaf Spot,1.0
+GrayLeafSpot1063,0,Gray Leaf Spot,1.0
+GrayLeafSpot1066,0,Gray Leaf Spot,1.0
+GrayLeafSpot107,0,Gray Leaf Spot,1.0
+GrayLeafSpot1076,0,Gray Leaf Spot,1.0
+GrayLeafSpot1077,0,Gray Leaf Spot,1.0
+GrayLeafSpot1081,0,Gray Leaf Spot,1.0
+GrayLeafSpot1083,0,Gray Leaf Spot,1.0
+GrayLeafSpot1085,0,Gray Leaf Spot,1.0
+GrayLeafSpot1089,0,Gray Leaf Spot,1.0
+GrayLeafSpot1093,0,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1096,0,Gray Leaf Spot,1.0
+GrayLeafSpot1097,0,Gray Leaf Spot,1.0
+GrayLeafSpot1098,0,Gray Leaf Spot,1.0
+GrayLeafSpot1103,0,Gray Leaf Spot,1.0
+GrayLeafSpot1109,0,Gray Leaf Spot,1.0
+GrayLeafSpot1112,0,Gray Leaf Spot,1.0
+GrayLeafSpot1122,0,Gray Leaf Spot,1.0
+GrayLeafSpot1137,0,Gray Leaf Spot,1.0
+GrayLeafSpot1144,0,Gray Leaf Spot,1.0
+GrayLeafSpot1145,0,Gray Leaf Spot,1.0
+GrayLeafSpot1152,0,Gray Leaf Spot,1.0
+GrayLeafSpot1155,0,Gray Leaf Spot,1.0
+GrayLeafSpot1157,0,Gray Leaf Spot,1.0
+GrayLeafSpot1159,0,Gray Leaf Spot,1.0
+GrayLeafSpot1160,0,Gray Leaf Spot,1.0
+GrayLeafSpot1168,0,Gray Leaf Spot,1.0
+GrayLeafSpot1169,0,Gray Leaf Spot,1.0
+GrayLeafSpot1173,0,Gray Leaf Spot,1.0
+GrayLeafSpot1174,0,Gray Leaf Spot,1.0
+GrayLeafSpot1178,0,Gray Leaf Spot,1.0
+GrayLeafSpot1184,0,Gray Leaf Spot,1.0
+GrayLeafSpot1190,0,Gray Leaf Spot,1.0
+GrayLeafSpot1191,0,Gray Leaf Spot,1.0
+GrayLeafSpot1199,0,Gray Leaf Spot,1.0
+GrayLeafSpot1201,0,Gray Leaf Spot,1.0
+GrayLeafSpot1206,0,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1208,0,Gray Leaf Spot,1.0
+GrayLeafSpot1211,0,Gray Leaf Spot,1.0
+GrayLeafSpot1216,0,Gray Leaf Spot,1.0
+GrayLeafSpot122,0,Gray Leaf Spot,1.0
+GrayLeafSpot1221,0,Gray Leaf Spot,1.0
+GrayLeafSpot1223,0,Gray Leaf Spot,1.0
+GrayLeafSpot1226,0,Gray Leaf Spot,1.0
+GrayLeafSpot1227,0,Gray Leaf Spot,1.0
+GrayLeafSpot123,0,Gray Leaf Spot,1.0
+GrayLeafSpot1230,0,Gray Leaf Spot,1.0
+GrayLeafSpot1233,0,Gray Leaf Spot,1.0
+GrayLeafSpot1235,0,Gray Leaf Spot,1.0
+GrayLeafSpot1237,0,Gray Leaf Spot,1.0
+GrayLeafSpot1238,0,Gray Leaf Spot,1.0
+GrayLeafSpot1247,0,Gray Leaf Spot,1.0
+GrayLeafSpot1248,0,Gray Leaf Spot,1.0
+GrayLeafSpot1249,0,Gray Leaf Spot,1.0
+GrayLeafSpot1265,0,Gray Leaf Spot,1.0
+GrayLeafSpot1267,0,Gray Leaf Spot,1.0
+GrayLeafSpot1268,0,Gray Leaf Spot,1.0
+GrayLeafSpot1271,0,Gray Leaf Spot,1.0
+GrayLeafSpot1276,0,Gray Leaf Spot,1.0
+GrayLeafSpot1278,0,Gray Leaf Spot,1.0
+GrayLeafSpot128,0,Gray Leaf Spot,1.0
+GrayLeafSpot1289,0,Gray Leaf Spot,1.0
+GrayLeafSpot1290,0,Gray Leaf Spot,0.9993618130683899
+GrayLeafSpot1307,0,Gray Leaf Spot,0.9998973608016968
+GrayLeafSpot1308,0,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot131,0,Gray Leaf Spot,1.0
+GrayLeafSpot1320,0,Gray Leaf Spot,1.0
+GrayLeafSpot1328,0,Gray Leaf Spot,1.0
+GrayLeafSpot1331,0,Gray Leaf Spot,1.0
+GrayLeafSpot1333,0,Gray Leaf Spot,1.0
+GrayLeafSpot1341,0,Gray Leaf Spot,1.0
+GrayLeafSpot1342,0,Gray Leaf Spot,1.0
+GrayLeafSpot1343,0,Gray Leaf Spot,1.0
+GrayLeafSpot1348,0,Gray Leaf Spot,1.0
+GrayLeafSpot1350,0,Gray Leaf Spot,1.0
+GrayLeafSpot1358,0,Gray Leaf Spot,1.0
+GrayLeafSpot1363,0,Gray Leaf Spot,1.0
+GrayLeafSpot1370,0,Gray Leaf Spot,1.0
+GrayLeafSpot1372,0,Gray Leaf Spot,1.0
+GrayLeafSpot1382,0,Gray Leaf Spot,1.0
+GrayLeafSpot1386,0,Gray Leaf Spot,1.0
+GrayLeafSpot139,0,Gray Leaf Spot,0.9998103976249695
+GrayLeafSpot1391,0,Gray Leaf Spot,0.9999974966049194
+GrayLeafSpot1394,0,Gray Leaf Spot,0.9999908208847046
+GrayLeafSpot1399,0,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1400,0,Gray Leaf Spot,1.0
+GrayLeafSpot1408,0,Gray Leaf Spot,1.0
+GrayLeafSpot1412,0,Gray Leaf Spot,1.0
+GrayLeafSpot1415,0,Gray Leaf Spot,1.0
+GrayLeafSpot1427,0,Gray Leaf Spot,1.0
+GrayLeafSpot1428,0,Gray Leaf Spot,1.0
+GrayLeafSpot1438,0,Gray Leaf Spot,1.0
+GrayLeafSpot1439,0,Gray Leaf Spot,1.0
+GrayLeafSpot1440,0,Gray Leaf Spot,1.0
+GrayLeafSpot1457,0,Gray Leaf Spot,1.0
+GrayLeafSpot1461,0,Gray Leaf Spot,1.0
+GrayLeafSpot1478,0,Gray Leaf Spot,1.0
+GrayLeafSpot1481,0,Gray Leaf Spot,1.0
+GrayLeafSpot1482,0,Gray Leaf Spot,1.0
+GrayLeafSpot1484,0,Gray Leaf Spot,1.0
+GrayLeafSpot1485,0,Gray Leaf Spot,1.0
+GrayLeafSpot149,0,Gray Leaf Spot,1.0
+GrayLeafSpot1493,0,Gray Leaf Spot,1.0
+GrayLeafSpot1494,0,Gray Leaf Spot,1.0
+GrayLeafSpot1510,0,Gray Leaf Spot,1.0
+GrayLeafSpot1512,0,Gray Leaf Spot,1.0
+GrayLeafSpot1522,0,Gray Leaf Spot,1.0
+GrayLeafSpot153,0,Gray Leaf Spot,1.0
+GrayLeafSpot1550,0,Gray Leaf Spot,1.0
+GrayLeafSpot1553,0,Gray Leaf Spot,1.0
+GrayLeafSpot1557,0,Gray Leaf Spot,1.0
+GrayLeafSpot1563,0,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot1568,0,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot157,0,Gray Leaf Spot,1.0
+GrayLeafSpot1583,0,Gray Leaf Spot,1.0
+GrayLeafSpot1599,0,Gray Leaf Spot,0.9985228180885315
+GrayLeafSpot1603,0,Gray Leaf Spot,0.9999566078186035
+GrayLeafSpot161,0,Gray Leaf Spot,1.0
+GrayLeafSpot1613,0,Gray Leaf Spot,0.9596620798110962
+GrayLeafSpot1618,0,Gray Leaf Spot,0.9999831914901733
+GrayLeafSpot1626,0,Gray Leaf Spot,1.0
+GrayLeafSpot163,0,Gray Leaf Spot,1.0
+GrayLeafSpot1638,0,Gray Leaf Spot,1.0
+GrayLeafSpot1654,0,Gray Leaf Spot,1.0
+GrayLeafSpot1655,0,Gray Leaf Spot,1.0
+GrayLeafSpot166,0,Gray Leaf Spot,1.0
+GrayLeafSpot1660,0,Gray Leaf Spot,1.0
+GrayLeafSpot1661,0,Gray Leaf Spot,1.0
+GrayLeafSpot1662,0,Gray Leaf Spot,1.0
+GrayLeafSpot1668,0,Gray Leaf Spot,1.0
+GrayLeafSpot1675,0,Gray Leaf Spot,1.0
+GrayLeafSpot1682,0,Gray Leaf Spot,0.9997588992118835
+GrayLeafSpot1697,0,Gray Leaf Spot,1.0
+GrayLeafSpot1704,0,Gray Leaf Spot,1.0
+GrayLeafSpot1708,0,Gray Leaf Spot,1.0
+GrayLeafSpot1711,0,Gray Leaf Spot,1.0
+GrayLeafSpot1712,0,Gray Leaf Spot,1.0
+GrayLeafSpot1719,0,Gray Leaf Spot,1.0
+GrayLeafSpot172,0,Gray Leaf Spot,1.0
+GrayLeafSpot1721,0,Gray Leaf Spot,1.0
+GrayLeafSpot1722,0,Gray Leaf Spot,1.0
+GrayLeafSpot1725,0,Gray Leaf Spot,1.0
+GrayLeafSpot1727,0,Gray Leaf Spot,1.0
+GrayLeafSpot174,0,Gray Leaf Spot,1.0
+GrayLeafSpot1744,0,Gray Leaf Spot,1.0
+GrayLeafSpot1755,0,Gray Leaf Spot,1.0
+GrayLeafSpot1767,0,Gray Leaf Spot,1.0
+GrayLeafSpot1771,0,Gray Leaf Spot,1.0
+GrayLeafSpot1775,0,Gray Leaf Spot,1.0
+GrayLeafSpot1776,0,Gray Leaf Spot,1.0
+GrayLeafSpot1777,0,Gray Leaf Spot,1.0
+GrayLeafSpot1778,0,Gray Leaf Spot,1.0
+GrayLeafSpot1782,0,Gray Leaf Spot,1.0
+GrayLeafSpot1796,0,Gray Leaf Spot,1.0
+GrayLeafSpot1798,0,Gray Leaf Spot,1.0
+GrayLeafSpot1806,0,Gray Leaf Spot,1.0
+GrayLeafSpot1808,0,Gray Leaf Spot,1.0
+GrayLeafSpot1813,0,Gray Leaf Spot,1.0
+GrayLeafSpot1815,0,Gray Leaf Spot,1.0
+GrayLeafSpot1818,0,Gray Leaf Spot,1.0
+GrayLeafSpot1831,0,Gray Leaf Spot,1.0
+GrayLeafSpot1838,0,Gray Leaf Spot,1.0
+GrayLeafSpot185,0,Gray Leaf Spot,1.0
+GrayLeafSpot1855,0,Gray Leaf Spot,1.0
+GrayLeafSpot1858,0,Gray Leaf Spot,1.0
+GrayLeafSpot1859,0,Gray Leaf Spot,1.0
+GrayLeafSpot1864,0,Gray Leaf Spot,1.0
+GrayLeafSpot1866,0,Gray Leaf Spot,1.0
+GrayLeafSpot1868,0,Gray Leaf Spot,1.0
+GrayLeafSpot187,0,Gray Leaf Spot,1.0
+GrayLeafSpot1871,0,Gray Leaf Spot,1.0
+GrayLeafSpot1875,0,Gray Leaf Spot,1.0
+GrayLeafSpot1878,0,Gray Leaf Spot,1.0
+GrayLeafSpot1881,0,Gray Leaf Spot,1.0
+GrayLeafSpot1882,0,Gray Leaf Spot,1.0
+GrayLeafSpot1894,0,Gray Leaf Spot,1.0
+GrayLeafSpot1908,0,Gray Leaf Spot,1.0
+GrayLeafSpot191,0,Gray Leaf Spot,1.0
+GrayLeafSpot1915,0,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot1922,0,Gray Leaf Spot,1.0
+GrayLeafSpot1924,0,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1934,0,Gray Leaf Spot,1.0
+GrayLeafSpot1942,0,Gray Leaf Spot,1.0
+GrayLeafSpot1948,0,Gray Leaf Spot,1.0
+GrayLeafSpot1950,0,Gray Leaf Spot,1.0
+GrayLeafSpot1951,0,Gray Leaf Spot,1.0
+GrayLeafSpot1958,0,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot196,0,Gray Leaf Spot,1.0
+GrayLeafSpot1962,0,Gray Leaf Spot,1.0
+GrayLeafSpot1969,0,Gray Leaf Spot,1.0
+GrayLeafSpot1974,0,Gray Leaf Spot,1.0
+GrayLeafSpot1985,0,Gray Leaf Spot,1.0
+GrayLeafSpot199,0,Gray Leaf Spot,1.0
+GrayLeafSpot1992,0,Gray Leaf Spot,1.0
+GrayLeafSpot2001,0,Gray Leaf Spot,1.0
+GrayLeafSpot2002,0,Gray Leaf Spot,1.0
+GrayLeafSpot2006,0,Gray Leaf Spot,1.0
+GrayLeafSpot2012,0,Gray Leaf Spot,1.0
+GrayLeafSpot2019,0,Gray Leaf Spot,1.0
+GrayLeafSpot202,0,Gray Leaf Spot,1.0
+GrayLeafSpot2025,0,Gray Leaf Spot,1.0
+GrayLeafSpot2030,0,Gray Leaf Spot,1.0
+GrayLeafSpot2031,0,Gray Leaf Spot,1.0
+GrayLeafSpot2032,0,Gray Leaf Spot,1.0
+GrayLeafSpot2033,0,Gray Leaf Spot,1.0
+GrayLeafSpot2035,0,Gray Leaf Spot,1.0
+GrayLeafSpot2036,0,Gray Leaf Spot,1.0
+GrayLeafSpot2038,0,Gray Leaf Spot,1.0
+GrayLeafSpot2039,0,Gray Leaf Spot,1.0
+GrayLeafSpot204,0,Gray Leaf Spot,1.0
+GrayLeafSpot2041,0,Gray Leaf Spot,1.0
+GrayLeafSpot2042,0,Gray Leaf Spot,1.0
+GrayLeafSpot2044,0,Gray Leaf Spot,1.0
+GrayLeafSpot2049,0,Gray Leaf Spot,1.0
+GrayLeafSpot2052,0,Gray Leaf Spot,1.0
+GrayLeafSpot2070,0,Gray Leaf Spot,1.0
+GrayLeafSpot2071,0,Gray Leaf Spot,1.0
+GrayLeafSpot2074,0,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot2076,0,Gray Leaf Spot,1.0
+GrayLeafSpot2084,0,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot2086,0,Gray Leaf Spot,1.0
+GrayLeafSpot2087,0,Gray Leaf Spot,1.0
+GrayLeafSpot2094,0,Gray Leaf Spot,0.9999983310699463
+GrayLeafSpot2103,0,Gray Leaf Spot,1.0
+GrayLeafSpot2107,0,Gray Leaf Spot,1.0
+GrayLeafSpot2124,0,Gray Leaf Spot,1.0
+GrayLeafSpot2128,0,Gray Leaf Spot,1.0
+GrayLeafSpot218,0,Gray Leaf Spot,1.0
+GrayLeafSpot221,0,Gray Leaf Spot,1.0
+GrayLeafSpot230,0,Gray Leaf Spot,1.0
+GrayLeafSpot242,0,Gray Leaf Spot,1.0
+GrayLeafSpot243,0,Gray Leaf Spot,1.0
+GrayLeafSpot247,0,Gray Leaf Spot,1.0
+GrayLeafSpot253,0,Gray Leaf Spot,1.0
+GrayLeafSpot256,0,Gray Leaf Spot,1.0
+GrayLeafSpot257,0,Gray Leaf Spot,1.0
+GrayLeafSpot258,0,Gray Leaf Spot,1.0
+GrayLeafSpot266,0,Gray Leaf Spot,1.0
+GrayLeafSpot270,0,Gray Leaf Spot,1.0
+GrayLeafSpot285,0,Gray Leaf Spot,1.0
+GrayLeafSpot290,0,Gray Leaf Spot,1.0
+GrayLeafSpot292,0,Gray Leaf Spot,1.0
+GrayLeafSpot293,0,Gray Leaf Spot,1.0
+GrayLeafSpot297,0,Gray Leaf Spot,1.0
+GrayLeafSpot309,0,Gray Leaf Spot,1.0
+GrayLeafSpot311,0,Gray Leaf Spot,1.0
+GrayLeafSpot314,0,Gray Leaf Spot,1.0
+GrayLeafSpot318,0,Leaf Rot,0.6798632144927979
+GrayLeafSpot323,0,Leaf Rot,0.7024667263031006
+GrayLeafSpot325,0,Leaf Rot,0.624460756778717
+GrayLeafSpot330,0,Leaf Rot,0.5801932215690613
+GrayLeafSpot331,0,Leaf Rot,0.6581442952156067
+GrayLeafSpot332,0,Leaf Rot,0.638947069644928
+GrayLeafSpot344,0,Leaf Rot,0.622735857963562
+GrayLeafSpot361,0,Gray Leaf Spot,1.0
+GrayLeafSpot366,0,Gray Leaf Spot,1.0
+GrayLeafSpot371,0,Gray Leaf Spot,1.0
+GrayLeafSpot372,0,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot375,0,Gray Leaf Spot,0.9999978542327881
+GrayLeafSpot394,0,Gray Leaf Spot,1.0
+GrayLeafSpot398,0,Gray Leaf Spot,1.0
+GrayLeafSpot402,0,Gray Leaf Spot,1.0
+GrayLeafSpot411,0,Gray Leaf Spot,1.0
+GrayLeafSpot417,0,Gray Leaf Spot,1.0
+GrayLeafSpot421,0,Gray Leaf Spot,1.0
+GrayLeafSpot422,0,Gray Leaf Spot,1.0
+GrayLeafSpot433,0,Gray Leaf Spot,1.0
+GrayLeafSpot440,0,Gray Leaf Spot,1.0
+GrayLeafSpot448,0,Gray Leaf Spot,1.0
+GrayLeafSpot461,0,Gray Leaf Spot,1.0
+GrayLeafSpot464,0,Gray Leaf Spot,1.0
+GrayLeafSpot473,0,Gray Leaf Spot,1.0
+GrayLeafSpot479,0,Gray Leaf Spot,1.0
+GrayLeafSpot487,0,Gray Leaf Spot,1.0
+GrayLeafSpot490,0,Gray Leaf Spot,1.0
+GrayLeafSpot493,0,Gray Leaf Spot,1.0
+GrayLeafSpot494,0,Gray Leaf Spot,1.0
+GrayLeafSpot499,0,Gray Leaf Spot,1.0
+GrayLeafSpot511,0,Gray Leaf Spot,1.0
+GrayLeafSpot525,0,Gray Leaf Spot,1.0
+GrayLeafSpot526,0,Gray Leaf Spot,1.0
+GrayLeafSpot538,0,Gray Leaf Spot,1.0
+GrayLeafSpot539,0,Gray Leaf Spot,1.0
+GrayLeafSpot548,0,Gray Leaf Spot,1.0
+GrayLeafSpot549,0,Gray Leaf Spot,1.0
+GrayLeafSpot562,0,Gray Leaf Spot,1.0
+GrayLeafSpot564,0,Gray Leaf Spot,1.0
+GrayLeafSpot568,0,Gray Leaf Spot,1.0
+GrayLeafSpot569,0,Gray Leaf Spot,1.0
+GrayLeafSpot571,0,Gray Leaf Spot,1.0
+GrayLeafSpot573,0,Gray Leaf Spot,1.0
+GrayLeafSpot574,0,Gray Leaf Spot,1.0
+GrayLeafSpot576,0,Gray Leaf Spot,1.0
+GrayLeafSpot579,0,Gray Leaf Spot,1.0
+GrayLeafSpot580,0,Gray Leaf Spot,1.0
+GrayLeafSpot581,0,Gray Leaf Spot,1.0
+GrayLeafSpot585,0,Gray Leaf Spot,1.0
+GrayLeafSpot587,0,Gray Leaf Spot,1.0
+GrayLeafSpot593,0,Gray Leaf Spot,1.0
+GrayLeafSpot600,0,Gray Leaf Spot,1.0
+GrayLeafSpot610,0,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot617,0,Gray Leaf Spot,1.0
+GrayLeafSpot619,0,Gray Leaf Spot,1.0
+GrayLeafSpot621,0,Gray Leaf Spot,1.0
+GrayLeafSpot629,0,Gray Leaf Spot,1.0
+GrayLeafSpot637,0,Gray Leaf Spot,1.0
+GrayLeafSpot638,0,Gray Leaf Spot,1.0
+GrayLeafSpot653,0,Gray Leaf Spot,1.0
+GrayLeafSpot655,0,Gray Leaf Spot,1.0
+GrayLeafSpot658,0,Gray Leaf Spot,1.0
+GrayLeafSpot661,0,Gray Leaf Spot,1.0
+GrayLeafSpot663,0,Gray Leaf Spot,1.0
+GrayLeafSpot670,0,Gray Leaf Spot,1.0
+GrayLeafSpot673,0,Gray Leaf Spot,1.0
+GrayLeafSpot679,0,Gray Leaf Spot,1.0
+GrayLeafSpot682,0,Gray Leaf Spot,1.0
+GrayLeafSpot683,0,Gray Leaf Spot,1.0
+GrayLeafSpot692,0,Gray Leaf Spot,1.0
+GrayLeafSpot698,0,Gray Leaf Spot,1.0
+GrayLeafSpot702,0,Gray Leaf Spot,1.0
+GrayLeafSpot704,0,Gray Leaf Spot,1.0
+GrayLeafSpot705,0,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot708,0,Gray Leaf Spot,1.0
+GrayLeafSpot711,0,Gray Leaf Spot,1.0
+GrayLeafSpot713,0,Gray Leaf Spot,1.0
+GrayLeafSpot722,0,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot731,0,Gray Leaf Spot,1.0
+GrayLeafSpot733,0,Gray Leaf Spot,1.0
+GrayLeafSpot735,0,Gray Leaf Spot,1.0
+GrayLeafSpot736,0,Gray Leaf Spot,1.0
+GrayLeafSpot738,0,Gray Leaf Spot,1.0
+GrayLeafSpot739,0,Gray Leaf Spot,1.0
+GrayLeafSpot749,0,Gray Leaf Spot,1.0
+GrayLeafSpot751,0,Gray Leaf Spot,0.9999228715896606
+GrayLeafSpot763,0,Gray Leaf Spot,1.0
+GrayLeafSpot765,0,Gray Leaf Spot,1.0
+GrayLeafSpot767,0,Gray Leaf Spot,1.0
+GrayLeafSpot770,0,Gray Leaf Spot,1.0
+GrayLeafSpot776,0,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot778,0,Gray Leaf Spot,1.0
+GrayLeafSpot789,0,Gray Leaf Spot,1.0
+GrayLeafSpot793,0,Gray Leaf Spot,1.0
+GrayLeafSpot811,0,Gray Leaf Spot,1.0
+GrayLeafSpot817,0,Gray Leaf Spot,1.0
+GrayLeafSpot818,0,Gray Leaf Spot,1.0
+GrayLeafSpot819,0,Gray Leaf Spot,1.0
+GrayLeafSpot827,0,Gray Leaf Spot,1.0
+GrayLeafSpot832,0,Gray Leaf Spot,1.0
+GrayLeafSpot835,0,Gray Leaf Spot,1.0
+GrayLeafSpot845,0,Gray Leaf Spot,1.0
+GrayLeafSpot848,0,Gray Leaf Spot,1.0
+GrayLeafSpot870,0,Gray Leaf Spot,1.0
+GrayLeafSpot877,0,Gray Leaf Spot,1.0
+GrayLeafSpot878,0,Gray Leaf Spot,1.0
+GrayLeafSpot885,0,Gray Leaf Spot,1.0
+GrayLeafSpot896,0,Gray Leaf Spot,1.0
+GrayLeafSpot903,0,Gray Leaf Spot,1.0
+GrayLeafSpot919,0,Gray Leaf Spot,1.0
+GrayLeafSpot922,0,Gray Leaf Spot,1.0
+GrayLeafSpot924,0,Gray Leaf Spot,1.0
+GrayLeafSpot932,0,Gray Leaf Spot,1.0
+GrayLeafSpot937,0,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot938,0,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot940,0,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot943,0,Gray Leaf Spot,0.9999552965164185
+GrayLeafSpot945,0,Gray Leaf Spot,0.9999560117721558
+GrayLeafSpot947,0,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot954,0,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot955,0,Gray Leaf Spot,0.9999955892562866
+GrayLeafSpot957,0,Gray Leaf Spot,0.999982476234436
+GrayLeafSpot958,0,Gray Leaf Spot,0.9999896287918091
+GrayLeafSpot960,0,Gray Leaf Spot,0.999963641166687
+GrayLeafSpot962,0,Gray Leaf Spot,0.9999514818191528
+GrayLeafSpot965,0,Gray Leaf Spot,0.9999631643295288
+GrayLeafSpot976,0,Gray Leaf Spot,1.0
+GrayLeafSpot981,0,Gray Leaf Spot,1.0
+GrayLeafSpot999,0,Gray Leaf Spot,1.0
+LeafRot004,0,Leaf Rot,0.9999698400497437
+LeafRot012,0,Leaf Rot,0.9992848038673401
+LeafRot019,0,Leaf Rot,0.9985511898994446
+LeafRot022,0,Leaf Rot,0.9997968077659607
+LeafRot036,0,Leaf Rot,0.620219886302948
+LeafRot040,0,Leaf Rot,0.5801932215690613
+LeafRot046,0,Leaf Rot,0.6864415407180786
+LeafRot059,0,Leaf Rot,1.0
+LeafRot067,0,Leaf Rot,0.9999415874481201
+LeafRot071,0,Leaf Rot,0.9999274015426636
+LeafRot078,0,Leaf Rot,0.9999996423721313
+LeafRot087,0,Leaf Rot,1.0
+LeafRot088,0,Leaf Rot,1.0
+LeafRot090,0,Leaf Rot,1.0
+LeafRot091,0,Leaf Rot,1.0
+LeafRot099,0,Leaf Rot,0.9999998807907104
+LeafRot1010,0,Leaf Rot,0.9999972581863403
+LeafRot1011,0,Leaf Rot,0.999997615814209
+LeafRot1017,0,Leaf Rot,1.0
+LeafRot1022,0,Leaf Rot,0.9999970197677612
+LeafRot1037,0,Leaf Rot,0.9999641180038452
+LeafRot1040,0,Leaf Rot,0.99998939037323
+LeafRot1049,0,Leaf Rot,0.9999562501907349
+LeafRot1053,0,Leaf Rot,0.9999996423721313
+LeafRot1055,0,Leaf Rot,0.9999995231628418
+LeafRot1059,0,Leaf Rot,0.9998809099197388
+LeafRot1061,0,Leaf Rot,0.9999806880950928
+LeafRot1075,0,Leaf Rot,0.999683141708374
+LeafRot1078,0,Leaf Rot,0.9999645948410034
+LeafRot108,0,Leaf Rot,0.9998891353607178
+LeafRot1082,0,Leaf Rot,0.999833345413208
+LeafRot1093,0,Leaf Rot,0.9999991655349731
+LeafRot1097,0,Leaf Rot,0.9999978542327881
+LeafRot1106,0,Leaf Rot,0.9999996423721313
+LeafRot1107,0,Leaf Rot,0.9999992847442627
+LeafRot1113,0,Leaf Rot,0.9998326301574707
+LeafRot1114,0,Leaf Rot,0.9999866485595703
+LeafRot1123,0,Leaf Rot,0.9999960660934448
+LeafRot1127,0,Leaf Rot,0.9999954700469971
+LeafRot113,0,Leaf Rot,0.9980939030647278
+LeafRot1141,0,Leaf Rot,0.9999157190322876
+LeafRot1145,0,Leaf Rot,0.9999990463256836
+LeafRot1146,0,Leaf Rot,0.9999992847442627
+LeafRot1153,0,Leaf Rot,0.9998455047607422
+LeafRot1154,0,Leaf Rot,0.9998621940612793
+LeafRot1157,0,Leaf Rot,0.9998701810836792
+LeafRot1158,0,Leaf Rot,0.9998552799224854
+LeafRot1159,0,Leaf Rot,0.9997925162315369
+LeafRot116,0,Leaf Rot,0.9999401569366455
+LeafRot1160,0,Leaf Rot,0.9998840093612671
+LeafRot1161,0,Leaf Rot,0.9999499320983887
+LeafRot1166,0,Leaf Rot,0.9999850988388062
+LeafRot1170,0,Leaf Rot,0.9999879598617554
+LeafRot1176,0,Leaf Rot,0.9999992847442627
+LeafRot1184,0,Leaf Rot,0.9999996423721313
+LeafRot1186,0,Leaf Rot,0.9999998807907104
+LeafRot1196,0,Leaf Rot,0.9999865293502808
+LeafRot1197,0,Leaf Rot,0.999998927116394
+LeafRot1201,0,Leaf Rot,0.9999970197677612
+LeafRot1202,0,Leaf Rot,0.9999452829360962
+LeafRot1203,0,Leaf Rot,0.9998133778572083
+LeafRot1205,0,Leaf Rot,0.9999606609344482
+LeafRot1208,0,Leaf Rot,0.9999998807907104
+LeafRot1214,0,Leaf Rot,0.9999517202377319
+LeafRot1215,0,Leaf Rot,0.9999377727508545
+LeafRot1216,0,Leaf Rot,0.9999088048934937
+LeafRot1217,0,Leaf Rot,0.9999326467514038
+LeafRot1218,0,Leaf Rot,0.9999817609786987
+LeafRot1224,0,Leaf Rot,0.9999943971633911
+LeafRot1227,0,Leaf Rot,0.9999817609786987
+LeafRot125,0,Leaf Rot,0.9999550580978394
+LeafRot1260,0,Leaf Rot,1.0
+LeafRot127,0,Leaf Rot,0.9983682036399841
+LeafRot1270,0,Leaf Rot,1.0
+LeafRot1276,0,Leaf Rot,1.0
+LeafRot1283,0,Leaf Rot,1.0
+LeafRot1285,0,Leaf Rot,1.0
+LeafRot1300,0,Leaf Rot,0.9999986886978149
+LeafRot1308,0,Leaf Rot,1.0
+LeafRot1309,0,Leaf Rot,1.0
+LeafRot1311,0,Leaf Rot,1.0
+LeafRot132,0,Leaf Rot,0.9985927939414978
+LeafRot1322,0,Leaf Rot,1.0
+LeafRot1324,0,Leaf Rot,1.0
+LeafRot1330,0,Leaf Rot,1.0
+LeafRot1331,0,Leaf Rot,1.0
+LeafRot1332,0,Leaf Rot,1.0
+LeafRot1339,0,Leaf Rot,1.0
+LeafRot1358,0,Leaf Rot,1.0
+LeafRot1361,0,Leaf Rot,1.0
+LeafRot1367,0,Leaf Rot,0.9999973773956299
+LeafRot1370,0,Leaf Rot,0.9999971389770508
+LeafRot1385,0,Leaf Rot,0.9999991655349731
+LeafRot1388,0,Leaf Rot,0.9999998807907104
+LeafRot1398,0,Leaf Rot,0.999956488609314
+LeafRot1399,0,Leaf Rot,0.9999474287033081
+LeafRot141,0,Leaf Rot,0.9999011754989624
+LeafRot1410,0,Leaf Rot,0.9999994039535522
+LeafRot1413,0,Leaf Rot,0.9999984502792358
+LeafRot1416,0,Leaf Rot,0.9999997615814209
+LeafRot1420,0,Leaf Rot,0.9999996423721313
+LeafRot1424,0,Leaf Rot,0.9999998807907104
+LeafRot1426,0,Leaf Rot,0.9999983310699463
+LeafRot1428,0,Leaf Rot,0.9999992847442627
+LeafRot1429,0,Leaf Rot,0.9999986886978149
+LeafRot1432,0,Leaf Rot,1.0
+LeafRot1435,0,Leaf Rot,1.0
+LeafRot1436,0,Leaf Rot,1.0
+LeafRot1437,0,Leaf Rot,1.0
+LeafRot1439,0,Leaf Rot,1.0
+LeafRot1443,0,Leaf Rot,1.0
+LeafRot1444,0,Leaf Rot,1.0
+LeafRot1451,0,Leaf Rot,1.0
+LeafRot1452,0,Leaf Rot,0.999998927116394
+LeafRot1455,0,Leaf Rot,0.9999825954437256
+LeafRot1457,0,Leaf Rot,0.9999825954437256
+LeafRot1460,0,Leaf Rot,0.9999877214431763
+LeafRot1466,0,Leaf Rot,0.9999994039535522
+LeafRot1467,0,Leaf Rot,0.9999979734420776
+LeafRot1475,0,Leaf Rot,0.9999748468399048
+LeafRot1482,0,Leaf Rot,0.9999997615814209
+LeafRot1485,0,Leaf Rot,0.9999984502792358
+LeafRot1486,0,Leaf Rot,0.9999961853027344
+LeafRot1487,0,Leaf Rot,0.9999538660049438
+LeafRot1492,0,Leaf Rot,0.9999634027481079
+LeafRot1495,0,Leaf Rot,0.9999978542327881
+LeafRot1501,0,Leaf Rot,0.999995231628418
+LeafRot1512,0,Leaf Rot,1.0
+LeafRot1513,0,Leaf Rot,1.0
+LeafRot1514,0,Leaf Rot,0.9999998807907104
+LeafRot1527,0,Leaf Rot,0.9999939203262329
+LeafRot1528,0,Leaf Rot,0.9999834299087524
+LeafRot1537,0,Leaf Rot,1.0
+LeafRot1539,0,Leaf Rot,1.0
+LeafRot1540,0,Leaf Rot,1.0
+LeafRot1545,0,Leaf Rot,1.0
+LeafRot1549,0,Leaf Rot,1.0
+LeafRot155,0,Leaf Rot,0.9999938011169434
+LeafRot1553,0,Leaf Rot,1.0
+LeafRot1560,0,Leaf Rot,1.0
+LeafRot1564,0,Leaf Rot,0.9999998807907104
+LeafRot1569,0,Leaf Rot,1.0
+LeafRot157,0,Leaf Rot,0.9999995231628418
+LeafRot1570,0,Leaf Rot,1.0
+LeafRot1573,0,Leaf Rot,0.9999996423721313
+LeafRot1581,0,Leaf Rot,0.9999988079071045
+LeafRot1587,0,Leaf Rot,0.9999998807907104
+LeafRot1592,0,Leaf Rot,1.0
+LeafRot1599,0,Leaf Rot,1.0
+LeafRot1602,0,Leaf Rot,1.0
+LeafRot1604,0,Leaf Rot,1.0
+LeafRot1605,0,Leaf Rot,1.0
+LeafRot1606,0,Leaf Rot,1.0
+LeafRot1614,0,Leaf Rot,1.0
+LeafRot1618,0,Leaf Rot,0.9999998807907104
+LeafRot162,0,Leaf Rot,0.9999998807907104
+LeafRot1630,0,Leaf Rot,0.9971622824668884
+LeafRot1631,0,Leaf Rot,0.9992227554321289
+LeafRot1635,0,Leaf Rot,1.0
+LeafRot1636,0,Leaf Rot,1.0
+LeafRot164,0,Leaf Rot,0.9999978542327881
+LeafRot165,0,Leaf Rot,0.9999969005584717
+LeafRot1656,0,Leaf Rot,1.0
+LeafRot166,0,Leaf Rot,0.9999971389770508
+LeafRot1664,0,Leaf Rot,1.0
+LeafRot1666,0,Leaf Rot,1.0
+LeafRot171,0,Leaf Rot,1.0
+LeafRot180,0,Leaf Rot,0.9999997615814209
+LeafRot183,0,Leaf Rot,0.9999998807907104
+LeafRot189,0,Leaf Rot,0.9999269247055054
+LeafRot197,0,Leaf Rot,0.999982476234436
+LeafRot203,0,Leaf Rot,0.9999994039535522
+LeafRot210,0,Leaf Rot,0.9999990463256836
+LeafRot211,0,Leaf Rot,0.9999983310699463
+LeafRot215,0,Leaf Rot,1.0
+LeafRot216,0,Leaf Rot,1.0
+LeafRot218,0,Leaf Rot,0.9999997615814209
+LeafRot220,0,Leaf Rot,0.9999998807907104
+LeafRot221,0,Leaf Rot,1.0
+LeafRot225,0,Leaf Rot,0.9999998807907104
+LeafRot228,0,Leaf Rot,0.9999957084655762
+LeafRot232,0,Leaf Rot,0.9999991655349731
+LeafRot241,0,Leaf Rot,0.999998927116394
+LeafRot243,0,Leaf Rot,1.0
+LeafRot245,0,Leaf Rot,1.0
+LeafRot249,0,Leaf Rot,1.0
+LeafRot251,0,Leaf Rot,1.0
+LeafRot265,0,Leaf Rot,0.999990701675415
+LeafRot266,0,Leaf Rot,0.9999794960021973
+LeafRot267,0,Leaf Rot,0.9989719390869141
+LeafRot268,0,Leaf Rot,0.9998806715011597
+LeafRot270,0,Leaf Rot,0.9999845027923584
+LeafRot273,0,Leaf Rot,1.0
+LeafRot282,0,Leaf Rot,1.0
+LeafRot286,0,Leaf Rot,0.9999977350234985
+LeafRot290,0,Leaf Rot,0.9999885559082031
+LeafRot291,0,Leaf Rot,0.9999809265136719
+LeafRot292,0,Leaf Rot,0.9999022483825684
+LeafRot296,0,Leaf Rot,0.999749481678009
+LeafRot297,0,Leaf Rot,0.9998511075973511
+LeafRot300,0,Leaf Rot,0.9988366961479187
+LeafRot307,0,Leaf Rot,1.0
+LeafRot315,0,Leaf Rot,1.0
+LeafRot317,0,Leaf Rot,1.0
+LeafRot318,0,Leaf Rot,1.0
+LeafRot327,0,Leaf Rot,1.0
+LeafRot332,0,Leaf Rot,0.9999997615814209
+LeafRot336,0,Leaf Rot,0.9999997615814209
+LeafRot338,0,Leaf Rot,1.0
+LeafRot339,0,Leaf Rot,1.0
+LeafRot341,0,Leaf Rot,1.0
+LeafRot354,0,Leaf Rot,1.0
+LeafRot356,0,Leaf Rot,1.0
+LeafRot386,0,Leaf Rot,0.9999998807907104
+LeafRot387,0,Leaf Rot,0.9999996423721313
+LeafRot392,0,Leaf Rot,0.9999992847442627
+LeafRot396,0,Leaf Rot,0.999840497970581
+LeafRot398,0,Leaf Rot,0.9999895095825195
+LeafRot399,0,Leaf Rot,0.9999935626983643
+LeafRot401,0,Leaf Rot,0.9999614953994751
+LeafRot403,0,Leaf Rot,0.9998390674591064
+LeafRot404,0,Leaf Rot,0.9995552897453308
+LeafRot405,0,Leaf Rot,0.9997344613075256
+LeafRot407,0,Leaf Rot,0.9999443292617798
+LeafRot408,0,Leaf Rot,0.9999710321426392
+LeafRot422,0,Leaf Rot,0.9999955892562866
+LeafRot435,0,Leaf Rot,0.9999639987945557
+LeafRot443,0,Leaf Rot,0.9997425675392151
+LeafRot461,0,Leaf Rot,0.9999682903289795
+LeafRot464,0,Leaf Rot,0.9999386072158813
+LeafRot468,0,Leaf Rot,0.9999992847442627
+LeafRot473,0,Leaf Rot,0.9999994039535522
+LeafRot474,0,Leaf Rot,0.9999988079071045
+LeafRot477,0,Leaf Rot,0.9999982118606567
+LeafRot478,0,Leaf Rot,0.9999938011169434
+LeafRot483,0,Leaf Rot,0.9997499585151672
+LeafRot487,0,Leaf Rot,0.999997615814209
+LeafRot489,0,Leaf Rot,0.9999840259552002
+LeafRot490,0,Leaf Rot,0.9996558427810669
+LeafRot501,0,Leaf Rot,1.0
+LeafRot503,0,Leaf Rot,1.0
+LeafRot511,0,Leaf Rot,0.99998939037323
+LeafRot513,0,Leaf Rot,0.9999926090240479
+LeafRot515,0,Leaf Rot,0.9999815225601196
+LeafRot520,0,Leaf Rot,0.9999991655349731
+LeafRot523,0,Leaf Rot,0.9999991655349731
+LeafRot536,0,Leaf Rot,0.9999971389770508
+LeafRot544,0,Leaf Rot,0.9999992847442627
+LeafRot548,0,Leaf Rot,0.9999998807907104
+LeafRot554,0,Leaf Rot,1.0
+LeafRot558,0,Leaf Rot,0.9999997615814209
+LeafRot568,0,Leaf Rot,0.9999916553497314
+LeafRot572,0,Leaf Rot,0.9999616146087646
+LeafRot577,0,Leaf Rot,0.9999998807907104
+LeafRot582,0,Leaf Rot,0.9999709129333496
+LeafRot592,0,Leaf Rot,0.9998157620429993
+LeafRot600,0,Leaf Rot,0.9999943971633911
+LeafRot603,0,Leaf Rot,0.9999282360076904
+LeafRot604,0,Leaf Rot,0.9999780654907227
+LeafRot605,0,Leaf Rot,0.9999550580978394
+LeafRot611,0,Leaf Rot,1.0
+LeafRot612,0,Leaf Rot,1.0
+LeafRot616,0,Leaf Rot,1.0
+LeafRot623,0,Leaf Rot,1.0
+LeafRot630,0,Leaf Rot,0.9999980926513672
+LeafRot633,0,Leaf Rot,1.0
+LeafRot634,0,Leaf Rot,1.0
+LeafRot643,0,Leaf Rot,1.0
+LeafRot644,0,Leaf Rot,1.0
+LeafRot650,0,Leaf Rot,1.0
+LeafRot655,0,Leaf Rot,1.0
+LeafRot659,0,Leaf Rot,1.0
+LeafRot666,0,Leaf Rot,1.0
+LeafRot668,0,Leaf Rot,1.0
+LeafRot670,0,Leaf Rot,1.0
+LeafRot671,0,Leaf Rot,0.9752399325370789
+LeafRot673,0,Leaf Rot,0.9999961853027344
+LeafRot676,0,Leaf Rot,0.999995231628418
+LeafRot677,0,Leaf Rot,0.9999988079071045
+LeafRot679,0,Leaf Rot,0.9999998807907104
+LeafRot683,0,Leaf Rot,1.0
+LeafRot685,0,Leaf Rot,1.0
+LeafRot701,0,Leaf Rot,1.0
+LeafRot705,0,Leaf Rot,1.0
+LeafRot708,0,Leaf Rot,1.0
+LeafRot710,0,Leaf Rot,1.0
+LeafRot717,0,Leaf Rot,0.9999969005584717
+LeafRot722,0,Leaf Rot,1.0
+LeafRot730,0,Leaf Rot,0.9999779462814331
+LeafRot741,0,Leaf Rot,1.0
+LeafRot746,0,Leaf Rot,0.9999998807907104
+LeafRot750,0,Leaf Rot,1.0
+LeafRot754,0,Leaf Rot,0.9993658661842346
+LeafRot756,0,Leaf Rot,0.9999675750732422
+LeafRot759,0,Leaf Rot,0.9999409914016724
+LeafRot771,0,Leaf Rot,0.9998558759689331
+LeafRot776,0,Leaf Rot,0.9999995231628418
+LeafRot779,0,Leaf Rot,1.0
+LeafRot781,0,Leaf Rot,1.0
+LeafRot782,0,Leaf Rot,1.0
+LeafRot788,0,Leaf Rot,0.9999979734420776
+LeafRot792,0,Leaf Rot,0.9999951124191284
+LeafRot795,0,Leaf Rot,0.9999974966049194
+LeafRot804,0,Leaf Rot,0.9999984502792358
+LeafRot805,0,Leaf Rot,0.9999996423721313
+LeafRot806,0,Leaf Rot,0.9999998807907104
+LeafRot807,0,Leaf Rot,1.0
+LeafRot857,0,Leaf Rot,0.9999997615814209
+LeafRot860,0,Leaf Rot,1.0
+LeafRot861,0,Leaf Rot,1.0
+LeafRot864,0,Leaf Rot,0.9999994039535522
+LeafRot865,0,Leaf Rot,0.9999973773956299
+LeafRot873,0,Leaf Rot,0.9999958276748657
+LeafRot874,0,Leaf Rot,0.9999996423721313
+LeafRot880,0,Leaf Rot,0.9999963045120239
+LeafRot883,0,Leaf Rot,0.9999141693115234
+LeafRot884,0,Leaf Rot,0.9999314546585083
+LeafRot892,0,Leaf Rot,1.0
+LeafRot896,0,Leaf Rot,1.0
+LeafRot901,0,Leaf Rot,1.0
+LeafRot918,0,Leaf Rot,0.9999998807907104
+LeafRot923,0,Leaf Rot,0.9878262877464294
+LeafRot925,0,Leaf Rot,1.0
+LeafRot926,0,Leaf Rot,1.0
+LeafRot933,0,Leaf Rot,1.0
+LeafRot937,0,Leaf Rot,1.0
+LeafRot939,0,Leaf Rot,1.0
+LeafRot951,0,Leaf Rot,0.9995419979095459
+LeafRot977,0,Leaf Rot,0.9999953508377075
+LeafRot987,0,Leaf Rot,0.9999990463256836
+LeafRot988,0,Leaf Rot,0.9999990463256836
+LeafRot990,0,Leaf Rot,0.9999927282333374
+LeafRot993,0,Leaf Rot,0.9999854564666748
+LeafRot998,0,Leaf Rot,0.9999886751174927
+GrayLeafSpot002,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot009,1,Gray Leaf Spot,1.0
+GrayLeafSpot011,1,Gray Leaf Spot,1.0
+GrayLeafSpot043,1,Gray Leaf Spot,1.0
+GrayLeafSpot046,1,Gray Leaf Spot,0.9999969005584717
+GrayLeafSpot050,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot056,1,Gray Leaf Spot,1.0
+GrayLeafSpot066,1,Gray Leaf Spot,1.0
+GrayLeafSpot068,1,Gray Leaf Spot,1.0
+GrayLeafSpot072,1,Gray Leaf Spot,0.9999979734420776
+GrayLeafSpot079,1,Gray Leaf Spot,0.9999600648880005
+GrayLeafSpot083,1,Gray Leaf Spot,0.9999933242797852
+GrayLeafSpot094,1,Gray Leaf Spot,1.0
+GrayLeafSpot096,1,Gray Leaf Spot,1.0
+GrayLeafSpot098,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1001,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1003,1,Gray Leaf Spot,1.0
+GrayLeafSpot1012,1,Gray Leaf Spot,1.0
+GrayLeafSpot1018,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1027,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1029,1,Gray Leaf Spot,1.0
+GrayLeafSpot103,1,Gray Leaf Spot,1.0
+GrayLeafSpot1043,1,Gray Leaf Spot,1.0
+GrayLeafSpot1046,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1047,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1056,1,Gray Leaf Spot,0.9999970197677612
+GrayLeafSpot106,1,Gray Leaf Spot,1.0
+GrayLeafSpot1064,1,Gray Leaf Spot,0.9999861717224121
+GrayLeafSpot1075,1,Gray Leaf Spot,0.9999901056289673
+GrayLeafSpot1084,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1086,1,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot1090,1,Gray Leaf Spot,0.9999980926513672
+GrayLeafSpot1101,1,Gray Leaf Spot,1.0
+GrayLeafSpot1104,1,Gray Leaf Spot,1.0
+GrayLeafSpot1108,1,Gray Leaf Spot,1.0
+GrayLeafSpot111,1,Gray Leaf Spot,1.0
+GrayLeafSpot1114,1,Gray Leaf Spot,1.0
+GrayLeafSpot112,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1123,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1124,1,Gray Leaf Spot,1.0
+GrayLeafSpot1127,1,Gray Leaf Spot,1.0
+GrayLeafSpot1133,1,Gray Leaf Spot,1.0
+GrayLeafSpot1141,1,Gray Leaf Spot,1.0
+GrayLeafSpot115,1,Gray Leaf Spot,1.0
+GrayLeafSpot1153,1,Gray Leaf Spot,1.0
+GrayLeafSpot1172,1,Gray Leaf Spot,1.0
+GrayLeafSpot1179,1,Gray Leaf Spot,0.9999971389770508
+GrayLeafSpot118,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1182,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot119,1,Gray Leaf Spot,1.0
+GrayLeafSpot1193,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1194,1,Gray Leaf Spot,1.0
+GrayLeafSpot1198,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1203,1,Gray Leaf Spot,0.9999923706054688
+GrayLeafSpot1207,1,Gray Leaf Spot,0.9996457099914551
+GrayLeafSpot121,1,Gray Leaf Spot,1.0
+GrayLeafSpot1210,1,Gray Leaf Spot,0.9999923706054688
+GrayLeafSpot1213,1,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1215,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1220,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1224,1,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1228,1,Gray Leaf Spot,0.999997615814209
+GrayLeafSpot1229,1,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot1231,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1232,1,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot1234,1,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1239,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot124,1,Gray Leaf Spot,1.0
+GrayLeafSpot1246,1,Gray Leaf Spot,1.0
+GrayLeafSpot1250,1,Gray Leaf Spot,1.0
+GrayLeafSpot1255,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1259,1,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot126,1,Gray Leaf Spot,1.0
+GrayLeafSpot1262,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1269,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1270,1,Gray Leaf Spot,0.9999983310699463
+GrayLeafSpot1275,1,Gray Leaf Spot,0.9999969005584717
+GrayLeafSpot1277,1,Gray Leaf Spot,0.9999833106994629
+GrayLeafSpot1283,1,Gray Leaf Spot,0.9999796152114868
+GrayLeafSpot1291,1,Gray Leaf Spot,0.9935619831085205
+GrayLeafSpot130,1,Gray Leaf Spot,1.0
+GrayLeafSpot1301,1,Gray Leaf Spot,0.9999163150787354
+GrayLeafSpot1303,1,Gray Leaf Spot,0.9998338222503662
+GrayLeafSpot1304,1,Gray Leaf Spot,0.9999067783355713
+GrayLeafSpot1306,1,Gray Leaf Spot,0.999734103679657
+GrayLeafSpot1309,1,Gray Leaf Spot,0.9999434947967529
+GrayLeafSpot1315,1,Gray Leaf Spot,0.9999958276748657
+GrayLeafSpot1318,1,Gray Leaf Spot,0.9999899864196777
+GrayLeafSpot132,1,Gray Leaf Spot,1.0
+GrayLeafSpot1325,1,Gray Leaf Spot,0.9999969005584717
+GrayLeafSpot1326,1,Gray Leaf Spot,0.999997615814209
+GrayLeafSpot1329,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot134,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1360,1,Gray Leaf Spot,1.0
+GrayLeafSpot1362,1,Gray Leaf Spot,1.0
+GrayLeafSpot1364,1,Gray Leaf Spot,1.0
+GrayLeafSpot1369,1,Gray Leaf Spot,1.0
+GrayLeafSpot137,1,Gray Leaf Spot,1.0
+GrayLeafSpot1373,1,Gray Leaf Spot,1.0
+GrayLeafSpot1380,1,Gray Leaf Spot,1.0
+GrayLeafSpot1384,1,Gray Leaf Spot,1.0
+GrayLeafSpot1390,1,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot1397,1,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot1402,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1406,1,Gray Leaf Spot,1.0
+GrayLeafSpot1409,1,Gray Leaf Spot,1.0
+GrayLeafSpot1410,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1417,1,Gray Leaf Spot,1.0
+GrayLeafSpot1418,1,Gray Leaf Spot,1.0
+GrayLeafSpot1425,1,Gray Leaf Spot,1.0
+GrayLeafSpot143,1,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot1432,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1433,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1435,1,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot144,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1452,1,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1453,1,Gray Leaf Spot,0.9999963045120239
+GrayLeafSpot1456,1,Gray Leaf Spot,1.0
+GrayLeafSpot1458,1,Gray Leaf Spot,1.0
+GrayLeafSpot1459,1,Gray Leaf Spot,1.0
+GrayLeafSpot146,1,Gray Leaf Spot,1.0
+GrayLeafSpot1462,1,Gray Leaf Spot,0.9999929666519165
+GrayLeafSpot1463,1,Gray Leaf Spot,0.9999936819076538
+GrayLeafSpot1466,1,Gray Leaf Spot,0.9999947547912598
+GrayLeafSpot1469,1,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot147,1,Gray Leaf Spot,1.0
+GrayLeafSpot1470,1,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot1475,1,Gray Leaf Spot,1.0
+GrayLeafSpot148,1,Gray Leaf Spot,1.0
+GrayLeafSpot1489,1,Gray Leaf Spot,0.9999878406524658
+GrayLeafSpot1492,1,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot1496,1,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot150,1,Gray Leaf Spot,1.0
+GrayLeafSpot1501,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1504,1,Gray Leaf Spot,1.0
+GrayLeafSpot1507,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1532,1,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot1537,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1538,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1541,1,Gray Leaf Spot,1.0
+GrayLeafSpot1544,1,Gray Leaf Spot,0.9999971389770508
+GrayLeafSpot1548,1,Gray Leaf Spot,1.0
+GrayLeafSpot1561,1,Gray Leaf Spot,0.9999986886978149
+GrayLeafSpot1566,1,Gray Leaf Spot,0.9999927282333374
+GrayLeafSpot1567,1,Gray Leaf Spot,0.9999845027923584
+GrayLeafSpot1575,1,Gray Leaf Spot,0.9999969005584717
+GrayLeafSpot1576,1,Gray Leaf Spot,1.0
+GrayLeafSpot1580,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1584,1,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1589,1,Gray Leaf Spot,0.9999963045120239
+GrayLeafSpot159,1,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot1592,1,Gray Leaf Spot,0.9999969005584717
+GrayLeafSpot1597,1,Gray Leaf Spot,0.9995964169502258
+GrayLeafSpot160,1,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1611,1,Gray Leaf Spot,0.9985974431037903
+GrayLeafSpot1619,1,Gray Leaf Spot,0.9999574422836304
+GrayLeafSpot1620,1,Gray Leaf Spot,1.0
+GrayLeafSpot1621,1,Gray Leaf Spot,1.0
+GrayLeafSpot1628,1,Gray Leaf Spot,1.0
+GrayLeafSpot1630,1,Gray Leaf Spot,1.0
+GrayLeafSpot1633,1,Gray Leaf Spot,1.0
+GrayLeafSpot1637,1,Gray Leaf Spot,1.0
+GrayLeafSpot1639,1,Gray Leaf Spot,1.0
+GrayLeafSpot164,1,Gray Leaf Spot,0.9999967813491821
+GrayLeafSpot1641,1,Gray Leaf Spot,1.0
+GrayLeafSpot1642,1,Gray Leaf Spot,1.0
+GrayLeafSpot1647,1,Gray Leaf Spot,1.0
+GrayLeafSpot1648,1,Gray Leaf Spot,1.0
+GrayLeafSpot1649,1,Gray Leaf Spot,1.0
+GrayLeafSpot1650,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1653,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1664,1,Gray Leaf Spot,1.0
+GrayLeafSpot1665,1,Gray Leaf Spot,1.0
+GrayLeafSpot167,1,Gray Leaf Spot,0.9999951124191284
+GrayLeafSpot1670,1,Gray Leaf Spot,1.0
+GrayLeafSpot1671,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1672,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1673,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1679,1,Gray Leaf Spot,0.99997878074646
+GrayLeafSpot1687,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1688,1,Gray Leaf Spot,0.9998960494995117
+GrayLeafSpot1689,1,Gray Leaf Spot,0.999933123588562
+GrayLeafSpot1690,1,Gray Leaf Spot,0.9998970031738281
+GrayLeafSpot1693,1,Gray Leaf Spot,0.9996864795684814
+GrayLeafSpot1698,1,Gray Leaf Spot,1.0
+GrayLeafSpot170,1,Gray Leaf Spot,0.9999877214431763
+GrayLeafSpot1703,1,Gray Leaf Spot,1.0
+GrayLeafSpot1706,1,Gray Leaf Spot,1.0
+GrayLeafSpot1709,1,Gray Leaf Spot,1.0
+GrayLeafSpot171,1,Gray Leaf Spot,0.9999951124191284
+GrayLeafSpot1710,1,Gray Leaf Spot,1.0
+GrayLeafSpot1713,1,Gray Leaf Spot,1.0
+GrayLeafSpot1726,1,Gray Leaf Spot,1.0
+GrayLeafSpot1728,1,Gray Leaf Spot,1.0
+GrayLeafSpot1729,1,Gray Leaf Spot,1.0
+GrayLeafSpot173,1,Gray Leaf Spot,0.9999839067459106
+GrayLeafSpot1730,1,Gray Leaf Spot,1.0
+GrayLeafSpot1732,1,Gray Leaf Spot,1.0
+GrayLeafSpot1741,1,Gray Leaf Spot,1.0
+GrayLeafSpot1745,1,Gray Leaf Spot,1.0
+GrayLeafSpot175,1,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot1756,1,Gray Leaf Spot,1.0
+GrayLeafSpot1759,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1766,1,Gray Leaf Spot,0.9999974966049194
+GrayLeafSpot1769,1,Gray Leaf Spot,0.999995231628418
+GrayLeafSpot1781,1,Gray Leaf Spot,0.999607264995575
+GrayLeafSpot1795,1,Gray Leaf Spot,0.9999669790267944
+GrayLeafSpot1801,1,Gray Leaf Spot,0.9999805688858032
+GrayLeafSpot1804,1,Gray Leaf Spot,0.99931800365448
+GrayLeafSpot1805,1,Gray Leaf Spot,0.9999531507492065
+GrayLeafSpot1811,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1824,1,Gray Leaf Spot,0.9999306201934814
+GrayLeafSpot1825,1,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot1829,1,Gray Leaf Spot,0.9999098777770996
+GrayLeafSpot1839,1,Gray Leaf Spot,0.999976396560669
+GrayLeafSpot1846,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1850,1,Gray Leaf Spot,0.999997615814209
+GrayLeafSpot1854,1,Gray Leaf Spot,1.0
+GrayLeafSpot1861,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1873,1,Gray Leaf Spot,1.0
+GrayLeafSpot1876,1,Gray Leaf Spot,1.0
+GrayLeafSpot1884,1,Gray Leaf Spot,1.0
+GrayLeafSpot1887,1,Gray Leaf Spot,1.0
+GrayLeafSpot1890,1,Gray Leaf Spot,0.9998880624771118
+GrayLeafSpot1899,1,Gray Leaf Spot,0.9999892711639404
+GrayLeafSpot1901,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1902,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1909,1,Gray Leaf Spot,1.0
+GrayLeafSpot1912,1,Gray Leaf Spot,0.9999899864196777
+GrayLeafSpot192,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot193,1,Gray Leaf Spot,1.0
+GrayLeafSpot1931,1,Gray Leaf Spot,1.0
+GrayLeafSpot1944,1,Gray Leaf Spot,1.0
+GrayLeafSpot1956,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1961,1,Gray Leaf Spot,1.0
+GrayLeafSpot197,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1972,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1981,1,Gray Leaf Spot,0.9999006986618042
+GrayLeafSpot1987,1,Gray Leaf Spot,0.9999716281890869
+GrayLeafSpot1989,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1990,1,Gray Leaf Spot,1.0
+GrayLeafSpot1997,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1999,1,Gray Leaf Spot,1.0
+GrayLeafSpot2000,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot2008,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot2018,1,Gray Leaf Spot,1.0
+GrayLeafSpot2022,1,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot2028,1,Gray Leaf Spot,1.0
+GrayLeafSpot2037,1,Gray Leaf Spot,1.0
+GrayLeafSpot2043,1,Gray Leaf Spot,1.0
+GrayLeafSpot2045,1,Gray Leaf Spot,1.0
+GrayLeafSpot205,1,Gray Leaf Spot,1.0
+GrayLeafSpot2050,1,Gray Leaf Spot,1.0
+GrayLeafSpot2051,1,Gray Leaf Spot,1.0
+GrayLeafSpot2054,1,Gray Leaf Spot,1.0
+GrayLeafSpot2062,1,Gray Leaf Spot,0.9999607801437378
+GrayLeafSpot2064,1,Gray Leaf Spot,0.9998868703842163
+GrayLeafSpot2069,1,Gray Leaf Spot,1.0
+GrayLeafSpot2073,1,Gray Leaf Spot,0.9998230338096619
+GrayLeafSpot2075,1,Gray Leaf Spot,0.9999666213989258
+GrayLeafSpot2093,1,Gray Leaf Spot,0.9999500513076782
+GrayLeafSpot2096,1,Gray Leaf Spot,0.9999610185623169
+GrayLeafSpot2101,1,Gray Leaf Spot,0.9999978542327881
+GrayLeafSpot2102,1,Gray Leaf Spot,0.999996542930603
+GrayLeafSpot2104,1,Gray Leaf Spot,0.9999375343322754
+GrayLeafSpot2109,1,Gray Leaf Spot,0.9998278617858887
+GrayLeafSpot2110,1,Gray Leaf Spot,0.9998852014541626
+GrayLeafSpot2115,1,Gray Leaf Spot,0.9999568462371826
+GrayLeafSpot2116,1,Gray Leaf Spot,0.9999006986618042
+GrayLeafSpot2119,1,Gray Leaf Spot,0.9999425411224365
+GrayLeafSpot2122,1,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot2123,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot2127,1,Gray Leaf Spot,1.0
+GrayLeafSpot2130,1,Gray Leaf Spot,1.0
+GrayLeafSpot223,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot224,1,Gray Leaf Spot,0.9999977350234985
+GrayLeafSpot227,1,Gray Leaf Spot,1.0
+GrayLeafSpot235,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot236,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot240,1,Gray Leaf Spot,0.9999973773956299
+GrayLeafSpot241,1,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot245,1,Gray Leaf Spot,0.9999957084655762
+GrayLeafSpot250,1,Gray Leaf Spot,0.9999970197677612
+GrayLeafSpot252,1,Gray Leaf Spot,0.9999986886978149
+GrayLeafSpot259,1,Gray Leaf Spot,1.0
+GrayLeafSpot262,1,Gray Leaf Spot,1.0
+GrayLeafSpot263,1,Gray Leaf Spot,1.0
+GrayLeafSpot268,1,Gray Leaf Spot,1.0
+GrayLeafSpot273,1,Gray Leaf Spot,1.0
+GrayLeafSpot275,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot279,1,Gray Leaf Spot,0.9999914169311523
+GrayLeafSpot291,1,Gray Leaf Spot,1.0
+GrayLeafSpot296,1,Gray Leaf Spot,1.0
+GrayLeafSpot299,1,Gray Leaf Spot,1.0
+GrayLeafSpot303,1,Gray Leaf Spot,1.0
+GrayLeafSpot305,1,Gray Leaf Spot,1.0
+GrayLeafSpot308,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot315,1,Gray Leaf Spot,1.0
+GrayLeafSpot317,1,Gray Leaf Spot,0.8499577045440674
+GrayLeafSpot319,1,Gray Leaf Spot,0.8344570398330688
+GrayLeafSpot321,1,Gray Leaf Spot,0.6330602765083313
+GrayLeafSpot324,1,Leaf Rot,0.5698317289352417
+GrayLeafSpot347,1,Gray Leaf Spot,1.0
+GrayLeafSpot349,1,Gray Leaf Spot,1.0
+GrayLeafSpot351,1,Gray Leaf Spot,1.0
+GrayLeafSpot352,1,Gray Leaf Spot,1.0
+GrayLeafSpot353,1,Gray Leaf Spot,1.0
+GrayLeafSpot354,1,Gray Leaf Spot,1.0
+GrayLeafSpot360,1,Gray Leaf Spot,1.0
+GrayLeafSpot369,1,Gray Leaf Spot,1.0
+GrayLeafSpot376,1,Gray Leaf Spot,1.0
+GrayLeafSpot378,1,Gray Leaf Spot,1.0
+GrayLeafSpot379,1,Gray Leaf Spot,1.0
+GrayLeafSpot384,1,Gray Leaf Spot,1.0
+GrayLeafSpot395,1,Gray Leaf Spot,1.0
+GrayLeafSpot397,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot403,1,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot413,1,Gray Leaf Spot,1.0
+GrayLeafSpot414,1,Gray Leaf Spot,1.0
+GrayLeafSpot424,1,Gray Leaf Spot,1.0
+GrayLeafSpot426,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot431,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot442,1,Gray Leaf Spot,1.0
+GrayLeafSpot445,1,Gray Leaf Spot,1.0
+GrayLeafSpot456,1,Gray Leaf Spot,1.0
+GrayLeafSpot463,1,Gray Leaf Spot,1.0
+GrayLeafSpot467,1,Gray Leaf Spot,1.0
+GrayLeafSpot469,1,Gray Leaf Spot,1.0
+GrayLeafSpot472,1,Gray Leaf Spot,1.0
+GrayLeafSpot475,1,Gray Leaf Spot,1.0
+GrayLeafSpot476,1,Gray Leaf Spot,1.0
+GrayLeafSpot480,1,Gray Leaf Spot,1.0
+GrayLeafSpot481,1,Gray Leaf Spot,1.0
+GrayLeafSpot483,1,Gray Leaf Spot,1.0
+GrayLeafSpot492,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot497,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot500,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot503,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot508,1,Gray Leaf Spot,1.0
+GrayLeafSpot515,1,Gray Leaf Spot,1.0
+GrayLeafSpot523,1,Gray Leaf Spot,1.0
+GrayLeafSpot524,1,Gray Leaf Spot,1.0
+GrayLeafSpot529,1,Gray Leaf Spot,1.0
+GrayLeafSpot534,1,Gray Leaf Spot,1.0
+GrayLeafSpot535,1,Gray Leaf Spot,1.0
+GrayLeafSpot536,1,Gray Leaf Spot,1.0
+GrayLeafSpot541,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot542,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot544,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot558,1,Gray Leaf Spot,1.0
+GrayLeafSpot559,1,Gray Leaf Spot,1.0
+GrayLeafSpot565,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot566,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot572,1,Gray Leaf Spot,1.0
+GrayLeafSpot584,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot586,1,Gray Leaf Spot,1.0
+GrayLeafSpot603,1,Gray Leaf Spot,0.9987927675247192
+GrayLeafSpot604,1,Gray Leaf Spot,0.9994832277297974
+GrayLeafSpot607,1,Gray Leaf Spot,0.9999910593032837
+GrayLeafSpot614,1,Gray Leaf Spot,0.999996542930603
+GrayLeafSpot615,1,Gray Leaf Spot,0.9999940395355225
+GrayLeafSpot620,1,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot622,1,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot623,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot625,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot626,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot633,1,Gray Leaf Spot,0.999994158744812
+GrayLeafSpot634,1,Gray Leaf Spot,1.0
+GrayLeafSpot640,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot644,1,Gray Leaf Spot,1.0
+GrayLeafSpot645,1,Gray Leaf Spot,1.0
+GrayLeafSpot646,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot647,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot650,1,Gray Leaf Spot,1.0
+GrayLeafSpot651,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot652,1,Gray Leaf Spot,1.0
+GrayLeafSpot657,1,Gray Leaf Spot,1.0
+GrayLeafSpot660,1,Gray Leaf Spot,1.0
+GrayLeafSpot664,1,Gray Leaf Spot,1.0
+GrayLeafSpot669,1,Gray Leaf Spot,1.0
+GrayLeafSpot672,1,Gray Leaf Spot,1.0
+GrayLeafSpot674,1,Gray Leaf Spot,1.0
+GrayLeafSpot680,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot681,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot686,1,Gray Leaf Spot,1.0
+GrayLeafSpot687,1,Gray Leaf Spot,1.0
+GrayLeafSpot710,1,Gray Leaf Spot,1.0
+GrayLeafSpot718,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot721,1,Gray Leaf Spot,1.0
+GrayLeafSpot725,1,Gray Leaf Spot,1.0
+GrayLeafSpot730,1,Gray Leaf Spot,1.0
+GrayLeafSpot737,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot742,1,Gray Leaf Spot,1.0
+GrayLeafSpot747,1,Gray Leaf Spot,1.0
+GrayLeafSpot771,1,Gray Leaf Spot,1.0
+GrayLeafSpot775,1,Gray Leaf Spot,1.0
+GrayLeafSpot780,1,Gray Leaf Spot,1.0
+GrayLeafSpot781,1,Gray Leaf Spot,1.0
+GrayLeafSpot796,1,Gray Leaf Spot,1.0
+GrayLeafSpot799,1,Gray Leaf Spot,1.0
+GrayLeafSpot802,1,Gray Leaf Spot,1.0
+GrayLeafSpot805,1,Gray Leaf Spot,1.0
+GrayLeafSpot822,1,Gray Leaf Spot,1.0
+GrayLeafSpot823,1,Gray Leaf Spot,1.0
+GrayLeafSpot828,1,Gray Leaf Spot,1.0
+GrayLeafSpot838,1,Gray Leaf Spot,1.0
+GrayLeafSpot839,1,Gray Leaf Spot,1.0
+GrayLeafSpot847,1,Gray Leaf Spot,0.9999202489852905
+GrayLeafSpot851,1,Gray Leaf Spot,0.9999945163726807
+GrayLeafSpot859,1,Gray Leaf Spot,0.9999978542327881
+GrayLeafSpot860,1,Gray Leaf Spot,0.9999978542327881
+GrayLeafSpot862,1,Gray Leaf Spot,0.9999959468841553
+GrayLeafSpot871,1,Gray Leaf Spot,0.9999949932098389
+GrayLeafSpot880,1,Gray Leaf Spot,0.9999969005584717
+GrayLeafSpot882,1,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot883,1,Gray Leaf Spot,0.9999978542327881
+GrayLeafSpot891,1,Gray Leaf Spot,0.9999971389770508
+GrayLeafSpot901,1,Gray Leaf Spot,0.999739944934845
+GrayLeafSpot909,1,Gray Leaf Spot,0.9999868869781494
+GrayLeafSpot912,1,Gray Leaf Spot,0.9999986886978149
+GrayLeafSpot915,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot916,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot917,1,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot936,1,Gray Leaf Spot,0.9999902248382568
+GrayLeafSpot944,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot949,1,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot950,1,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot952,1,Gray Leaf Spot,0.9999864101409912
+GrayLeafSpot956,1,Gray Leaf Spot,0.9992654919624329
+GrayLeafSpot959,1,Gray Leaf Spot,0.9998492002487183
+GrayLeafSpot963,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot970,1,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot971,1,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot974,1,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot978,1,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot982,1,Gray Leaf Spot,0.9999902248382568
+GrayLeafSpot985,1,Gray Leaf Spot,0.9999936819076538
+GrayLeafSpot988,1,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot992,1,Gray Leaf Spot,1.0
+GrayLeafSpot993,1,Gray Leaf Spot,1.0
+GrayLeafSpot995,1,Gray Leaf Spot,1.0
+LeafRot001,1,Leaf Rot,1.0
+LeafRot009,1,Leaf Rot,1.0
+LeafRot013,1,Leaf Rot,1.0
+LeafRot026,1,Leaf Rot,0.9999991655349731
+LeafRot027,1,Gray Leaf Spot,0.8499577045440674
+LeafRot028,1,Gray Leaf Spot,0.847935676574707
+LeafRot031,1,Gray Leaf Spot,0.6330602765083313
+LeafRot033,1,Leaf Rot,0.5093504786491394
+LeafRot041,1,Gray Leaf Spot,0.551910400390625
+LeafRot043,1,Leaf Rot,0.5806456208229065
+LeafRot050,1,Leaf Rot,0.6242061853408813
+LeafRot055,1,Leaf Rot,0.5178617238998413
+LeafRot057,1,Leaf Rot,0.9999574422836304
+LeafRot061,1,Leaf Rot,0.9999558925628662
+LeafRot064,1,Leaf Rot,0.9997496008872986
+LeafRot068,1,Leaf Rot,0.9999994039535522
+LeafRot069,1,Leaf Rot,0.9999982118606567
+LeafRot070,1,Leaf Rot,0.9999996423721313
+LeafRot072,1,Leaf Rot,0.9999829530715942
+LeafRot080,1,Leaf Rot,0.9999996423721313
+LeafRot083,1,Leaf Rot,0.9999938011169434
+LeafRot086,1,Leaf Rot,0.999995231628418
+LeafRot095,1,Leaf Rot,0.9999998807907104
+LeafRot097,1,Leaf Rot,0.9999920129776001
+LeafRot1002,1,Leaf Rot,0.9999994039535522
+LeafRot1003,1,Leaf Rot,1.0
+LeafRot1008,1,Leaf Rot,0.9999994039535522
+LeafRot1014,1,Leaf Rot,1.0
+LeafRot1016,1,Leaf Rot,1.0
+LeafRot102,1,Leaf Rot,0.9998495578765869
+LeafRot1021,1,Leaf Rot,1.0
+LeafRot1028,1,Leaf Rot,0.9999996423721313
+LeafRot103,1,Leaf Rot,0.9999897480010986
+LeafRot1030,1,Leaf Rot,0.9999979734420776
+LeafRot1033,1,Leaf Rot,1.0
+LeafRot1039,1,Leaf Rot,0.9999988079071045
+LeafRot1041,1,Leaf Rot,0.9999998807907104
+LeafRot1043,1,Leaf Rot,1.0
+LeafRot1046,1,Leaf Rot,1.0
+LeafRot1047,1,Leaf Rot,1.0
+LeafRot1048,1,Leaf Rot,1.0
+LeafRot1050,1,Leaf Rot,1.0
+LeafRot1058,1,Leaf Rot,0.999338686466217
+LeafRot1062,1,Leaf Rot,1.0
+LeafRot1064,1,Leaf Rot,1.0
+LeafRot1068,1,Leaf Rot,0.9999996423721313
+LeafRot107,1,Leaf Rot,0.9997618794441223
+LeafRot1070,1,Leaf Rot,0.9999998807907104
+LeafRot1073,1,Leaf Rot,1.0
+LeafRot1076,1,Leaf Rot,1.0
+LeafRot1080,1,Leaf Rot,1.0
+LeafRot1089,1,Leaf Rot,1.0
+LeafRot1091,1,Leaf Rot,1.0
+LeafRot1103,1,Leaf Rot,1.0
+LeafRot1105,1,Leaf Rot,1.0
+LeafRot111,1,Leaf Rot,1.0
+LeafRot1110,1,Leaf Rot,0.9999872446060181
+LeafRot1115,1,Leaf Rot,1.0
+LeafRot1116,1,Leaf Rot,1.0
+LeafRot1126,1,Leaf Rot,0.9999977350234985
+LeafRot1128,1,Leaf Rot,0.9999994039535522
+LeafRot1129,1,Leaf Rot,0.9999991655349731
+LeafRot1131,1,Leaf Rot,0.9999969005584717
+LeafRot114,1,Leaf Rot,1.0
+LeafRot1148,1,Leaf Rot,0.9999918937683105
+LeafRot1171,1,Leaf Rot,1.0
+LeafRot1173,1,Leaf Rot,1.0
+LeafRot1175,1,Leaf Rot,1.0
+LeafRot118,1,Leaf Rot,1.0
+LeafRot1181,1,Leaf Rot,0.9999988079071045
+LeafRot1188,1,Leaf Rot,1.0
+LeafRot1192,1,Leaf Rot,1.0
+LeafRot1199,1,Leaf Rot,1.0
+LeafRot120,1,Leaf Rot,1.0
+LeafRot1200,1,Leaf Rot,1.0
+LeafRot121,1,Leaf Rot,1.0
+LeafRot1212,1,Leaf Rot,1.0
+LeafRot1222,1,Leaf Rot,0.9999983310699463
+LeafRot1225,1,Leaf Rot,0.9999758005142212
+LeafRot1228,1,Leaf Rot,0.999393105506897
+LeafRot123,1,Leaf Rot,1.0
+LeafRot1230,1,Leaf Rot,0.999990701675415
+LeafRot1232,1,Leaf Rot,0.9999992847442627
+LeafRot1233,1,Leaf Rot,1.0
+LeafRot1235,1,Leaf Rot,1.0
+LeafRot1236,1,Leaf Rot,1.0
+LeafRot1241,1,Leaf Rot,1.0
+LeafRot1242,1,Leaf Rot,0.9999988079071045
+LeafRot1249,1,Leaf Rot,1.0
+LeafRot1250,1,Leaf Rot,1.0
+LeafRot1251,1,Leaf Rot,1.0
+LeafRot1275,1,Leaf Rot,1.0
+LeafRot1289,1,Leaf Rot,1.0
+LeafRot1292,1,Leaf Rot,1.0
+LeafRot1294,1,Leaf Rot,1.0
+LeafRot1298,1,Leaf Rot,1.0
+LeafRot1305,1,Leaf Rot,1.0
+LeafRot1306,1,Leaf Rot,1.0
+LeafRot1325,1,Leaf Rot,1.0
+LeafRot133,1,Leaf Rot,0.9999985694885254
+LeafRot1335,1,Leaf Rot,1.0
+LeafRot1341,1,Leaf Rot,1.0
+LeafRot1357,1,Leaf Rot,1.0
+LeafRot1359,1,Leaf Rot,1.0
+LeafRot1360,1,Leaf Rot,1.0
+LeafRot1366,1,Leaf Rot,0.9992215633392334
+LeafRot1374,1,Leaf Rot,0.9995686411857605
+LeafRot1378,1,Leaf Rot,0.999464213848114
+LeafRot1379,1,Leaf Rot,0.9973752498626709
+LeafRot1380,1,Leaf Rot,0.9936663508415222
+LeafRot1382,1,Leaf Rot,0.999804675579071
+LeafRot1387,1,Leaf Rot,0.9999607801437378
+LeafRot1400,1,Leaf Rot,0.9987927675247192
+LeafRot1404,1,Leaf Rot,1.0
+LeafRot1407,1,Leaf Rot,1.0
+LeafRot1422,1,Leaf Rot,1.0
+LeafRot143,1,Leaf Rot,0.9995286464691162
+LeafRot1430,1,Leaf Rot,0.9999996423721313
+LeafRot1431,1,Leaf Rot,0.9999973773956299
+LeafRot1433,1,Leaf Rot,0.9999923706054688
+LeafRot1434,1,Leaf Rot,0.9999996423721313
+LeafRot1442,1,Leaf Rot,0.9999997615814209
+LeafRot1445,1,Leaf Rot,1.0
+LeafRot1446,1,Leaf Rot,1.0
+LeafRot1448,1,Leaf Rot,0.9999998807907104
+LeafRot145,1,Leaf Rot,0.9999743700027466
+LeafRot1453,1,Leaf Rot,1.0
+LeafRot146,1,Leaf Rot,0.9998036026954651
+LeafRot1464,1,Leaf Rot,1.0
+LeafRot147,1,Leaf Rot,0.9995286464691162
+LeafRot1476,1,Leaf Rot,1.0
+LeafRot1480,1,Leaf Rot,1.0
+LeafRot1494,1,Leaf Rot,0.9999985694885254
+LeafRot151,1,Leaf Rot,0.9999982118606567
+LeafRot1517,1,Leaf Rot,1.0
+LeafRot152,1,Leaf Rot,0.9999996423721313
+LeafRot1531,1,Leaf Rot,1.0
+LeafRot1532,1,Leaf Rot,1.0
+LeafRot1538,1,Leaf Rot,1.0
+LeafRot1542,1,Leaf Rot,1.0
+LeafRot1543,1,Leaf Rot,1.0
+LeafRot1550,1,Leaf Rot,1.0
+LeafRot1551,1,Leaf Rot,1.0
+LeafRot1556,1,Leaf Rot,1.0
+LeafRot1565,1,Leaf Rot,1.0
+LeafRot1571,1,Leaf Rot,1.0
+LeafRot1572,1,Leaf Rot,1.0
+LeafRot1579,1,Leaf Rot,1.0
+LeafRot159,1,Leaf Rot,0.9999992847442627
+LeafRot1590,1,Leaf Rot,1.0
+LeafRot1591,1,Leaf Rot,1.0
+LeafRot1593,1,Leaf Rot,1.0
+LeafRot1597,1,Leaf Rot,1.0
+LeafRot1600,1,Leaf Rot,1.0
+LeafRot1607,1,Leaf Rot,1.0
+LeafRot1608,1,Leaf Rot,1.0
+LeafRot1610,1,Leaf Rot,1.0
+LeafRot1611,1,Leaf Rot,1.0
+LeafRot1619,1,Leaf Rot,1.0
+LeafRot1623,1,Leaf Rot,1.0
+LeafRot1625,1,Leaf Rot,0.9999064207077026
+LeafRot1626,1,Leaf Rot,0.9983939528465271
+LeafRot1637,1,Leaf Rot,1.0
+LeafRot1639,1,Leaf Rot,1.0
+LeafRot1640,1,Leaf Rot,1.0
+LeafRot1641,1,Leaf Rot,1.0
+LeafRot1644,1,Leaf Rot,0.9999961853027344
+LeafRot1647,1,Leaf Rot,1.0
+LeafRot1654,1,Leaf Rot,1.0
+LeafRot1658,1,Leaf Rot,1.0
+LeafRot1660,1,Leaf Rot,1.0
+LeafRot1663,1,Leaf Rot,1.0
+LeafRot1665,1,Leaf Rot,1.0
+LeafRot1667,1,Leaf Rot,1.0
+LeafRot1668,1,Leaf Rot,1.0
+LeafRot1670,1,Leaf Rot,1.0
+LeafRot1672,1,Leaf Rot,1.0
+LeafRot1673,1,Leaf Rot,1.0
+LeafRot170,1,Leaf Rot,0.9999960660934448
+LeafRot176,1,Leaf Rot,0.9999996423721313
+LeafRot178,1,Leaf Rot,0.9999996423721313
+LeafRot192,1,Leaf Rot,0.999771773815155
+LeafRot194,1,Leaf Rot,0.9996612071990967
+LeafRot196,1,Leaf Rot,0.9997411370277405
+LeafRot207,1,Leaf Rot,0.9999986886978149
+LeafRot212,1,Leaf Rot,0.9999916553497314
+LeafRot213,1,Leaf Rot,0.9999978542327881
+LeafRot219,1,Leaf Rot,0.999998927116394
+LeafRot222,1,Leaf Rot,0.9999943971633911
+LeafRot224,1,Leaf Rot,0.9999929666519165
+LeafRot229,1,Leaf Rot,0.9999904632568359
+LeafRot230,1,Leaf Rot,0.9999876022338867
+LeafRot237,1,Leaf Rot,0.997829258441925
+LeafRot242,1,Leaf Rot,0.9998817443847656
+LeafRot259,1,Leaf Rot,0.9999998807907104
+LeafRot260,1,Leaf Rot,0.9999997615814209
+LeafRot262,1,Leaf Rot,0.9999910593032837
+LeafRot274,1,Leaf Rot,1.0
+LeafRot278,1,Leaf Rot,1.0
+LeafRot284,1,Leaf Rot,1.0
+LeafRot285,1,Leaf Rot,1.0
+LeafRot298,1,Leaf Rot,0.9999998807907104
+LeafRot302,1,Leaf Rot,0.9999998807907104
+LeafRot311,1,Leaf Rot,0.9999995231628418
+LeafRot312,1,Leaf Rot,0.9999994039535522
+LeafRot313,1,Leaf Rot,0.9997163414955139
+LeafRot319,1,Leaf Rot,1.0
+LeafRot320,1,Leaf Rot,1.0
+LeafRot323,1,Leaf Rot,1.0
+LeafRot324,1,Leaf Rot,1.0
+LeafRot325,1,Leaf Rot,1.0
+LeafRot329,1,Leaf Rot,1.0
+LeafRot330,1,Leaf Rot,1.0
+LeafRot331,1,Leaf Rot,1.0
+LeafRot333,1,Leaf Rot,1.0
+LeafRot340,1,Leaf Rot,0.9999978542327881
+LeafRot344,1,Leaf Rot,0.9999955892562866
+LeafRot353,1,Leaf Rot,1.0
+LeafRot358,1,Leaf Rot,0.9984657764434814
+LeafRot364,1,Leaf Rot,0.9999973773956299
+LeafRot367,1,Leaf Rot,0.9999978542327881
+LeafRot377,1,Leaf Rot,0.9999955892562866
+LeafRot385,1,Leaf Rot,0.9999988079071045
+LeafRot393,1,Leaf Rot,0.9999998807907104
+LeafRot402,1,Leaf Rot,0.9999998807907104
+LeafRot411,1,Leaf Rot,0.9999998807907104
+LeafRot414,1,Leaf Rot,0.9999997615814209
+LeafRot415,1,Leaf Rot,0.999998927116394
+LeafRot420,1,Leaf Rot,0.9999996423721313
+LeafRot423,1,Leaf Rot,0.9999840259552002
+LeafRot424,1,Leaf Rot,0.9999992847442627
+LeafRot429,1,Leaf Rot,1.0
+LeafRot433,1,Leaf Rot,1.0
+LeafRot437,1,Leaf Rot,1.0
+LeafRot438,1,Leaf Rot,1.0
+LeafRot441,1,Leaf Rot,0.999996542930603
+LeafRot445,1,Leaf Rot,0.9999629259109497
+LeafRot446,1,Leaf Rot,0.999977707862854
+LeafRot448,1,Leaf Rot,0.9985791444778442
+LeafRot449,1,Leaf Rot,0.9998582601547241
+LeafRot456,1,Leaf Rot,0.9999656677246094
+LeafRot457,1,Leaf Rot,0.9999979734420776
+LeafRot458,1,Leaf Rot,0.9999991655349731
+LeafRot460,1,Leaf Rot,0.9999958276748657
+LeafRot463,1,Leaf Rot,0.999998927116394
+LeafRot465,1,Leaf Rot,0.9999994039535522
+LeafRot470,1,Leaf Rot,0.9999998807907104
+LeafRot476,1,Leaf Rot,0.999988317489624
+LeafRot495,1,Leaf Rot,0.9999904632568359
+LeafRot498,1,Leaf Rot,0.9990789890289307
+LeafRot502,1,Leaf Rot,1.0
+LeafRot504,1,Leaf Rot,1.0
+LeafRot505,1,Leaf Rot,1.0
+LeafRot509,1,Leaf Rot,1.0
+LeafRot514,1,Leaf Rot,1.0
+LeafRot518,1,Leaf Rot,1.0
+LeafRot519,1,Leaf Rot,1.0
+LeafRot529,1,Leaf Rot,1.0
+LeafRot535,1,Leaf Rot,1.0
+LeafRot537,1,Leaf Rot,0.9999992847442627
+LeafRot538,1,Leaf Rot,1.0
+LeafRot539,1,Leaf Rot,1.0
+LeafRot541,1,Leaf Rot,1.0
+LeafRot547,1,Leaf Rot,0.9999799728393555
+LeafRot552,1,Leaf Rot,1.0
+LeafRot562,1,Leaf Rot,1.0
+LeafRot564,1,Leaf Rot,0.9999998807907104
+LeafRot566,1,Leaf Rot,0.9999991655349731
+LeafRot567,1,Leaf Rot,0.9999992847442627
+LeafRot571,1,Leaf Rot,0.9999947547912598
+LeafRot573,1,Leaf Rot,0.9999997615814209
+LeafRot584,1,Leaf Rot,1.0
+LeafRot586,1,Leaf Rot,1.0
+LeafRot587,1,Leaf Rot,1.0
+LeafRot606,1,Leaf Rot,1.0
+LeafRot618,1,Leaf Rot,1.0
+LeafRot619,1,Leaf Rot,1.0
+LeafRot620,1,Leaf Rot,1.0
+LeafRot621,1,Leaf Rot,1.0
+LeafRot631,1,Leaf Rot,1.0
+LeafRot632,1,Leaf Rot,1.0
+LeafRot639,1,Leaf Rot,1.0
+LeafRot640,1,Leaf Rot,1.0
+LeafRot646,1,Leaf Rot,1.0
+LeafRot647,1,Leaf Rot,1.0
+LeafRot663,1,Leaf Rot,1.0
+LeafRot669,1,Leaf Rot,1.0
+LeafRot674,1,Leaf Rot,0.9999476671218872
+LeafRot691,1,Leaf Rot,1.0
+LeafRot692,1,Leaf Rot,1.0
+LeafRot693,1,Leaf Rot,1.0
+LeafRot694,1,Leaf Rot,1.0
+LeafRot702,1,Leaf Rot,1.0
+LeafRot715,1,Leaf Rot,1.0
+LeafRot720,1,Leaf Rot,0.9999740123748779
+LeafRot721,1,Leaf Rot,0.9999995231628418
+LeafRot734,1,Leaf Rot,0.9999996423721313
+LeafRot735,1,Leaf Rot,0.9999994039535522
+LeafRot737,1,Leaf Rot,0.9999966621398926
+LeafRot743,1,Leaf Rot,1.0
+LeafRot747,1,Leaf Rot,1.0
+LeafRot748,1,Leaf Rot,0.9999998807907104
+LeafRot751,1,Leaf Rot,0.9999998807907104
+LeafRot757,1,Leaf Rot,1.0
+LeafRot761,1,Leaf Rot,0.9999970197677612
+LeafRot762,1,Leaf Rot,0.9999978542327881
+LeafRot769,1,Leaf Rot,0.9999995231628418
+LeafRot770,1,Leaf Rot,0.9999955892562866
+LeafRot773,1,Leaf Rot,0.9999998807907104
+LeafRot777,1,Leaf Rot,0.9998112320899963
+LeafRot791,1,Leaf Rot,0.9999972581863403
+LeafRot801,1,Leaf Rot,0.9999966621398926
+LeafRot802,1,Leaf Rot,0.9999940395355225
+LeafRot810,1,Leaf Rot,0.9999995231628418
+LeafRot813,1,Leaf Rot,0.9999969005584717
+LeafRot816,1,Leaf Rot,0.9999958276748657
+LeafRot817,1,Leaf Rot,0.9999985694885254
+LeafRot820,1,Leaf Rot,0.9999967813491821
+LeafRot830,1,Leaf Rot,1.0
+LeafRot833,1,Leaf Rot,1.0
+LeafRot837,1,Leaf Rot,0.9999995231628418
+LeafRot841,1,Leaf Rot,0.9999804496765137
+LeafRot843,1,Leaf Rot,0.9999996423721313
+LeafRot845,1,Leaf Rot,0.9999996423721313
+LeafRot853,1,Leaf Rot,1.0
+LeafRot859,1,Leaf Rot,0.9975537657737732
+LeafRot867,1,Leaf Rot,0.9999942779541016
+LeafRot868,1,Leaf Rot,0.9999996423721313
+LeafRot872,1,Leaf Rot,0.9999964237213135
+LeafRot876,1,Leaf Rot,0.9999982118606567
+LeafRot877,1,Leaf Rot,0.9999995231628418
+LeafRot885,1,Leaf Rot,0.9996882677078247
+LeafRot890,1,Leaf Rot,0.9999231100082397
+LeafRot902,1,Leaf Rot,0.9999997615814209
+LeafRot913,1,Leaf Rot,0.9999983310699463
+LeafRot914,1,Leaf Rot,0.9999991655349731
+LeafRot915,1,Leaf Rot,1.0
+LeafRot932,1,Leaf Rot,0.999929666519165
+LeafRot938,1,Leaf Rot,0.9999954700469971
+LeafRot952,1,Leaf Rot,0.9999998807907104
+LeafRot954,1,Leaf Rot,0.9999998807907104
+LeafRot955,1,Leaf Rot,1.0
+LeafRot957,1,Leaf Rot,1.0
+LeafRot958,1,Leaf Rot,1.0
+LeafRot960,1,Leaf Rot,1.0
+LeafRot962,1,Leaf Rot,1.0
+LeafRot967,1,Leaf Rot,0.9984886646270752
+LeafRot970,1,Leaf Rot,0.9963414072990417
+LeafRot974,1,Leaf Rot,1.0
+LeafRot984,1,Leaf Rot,1.0
+LeafRot989,1,Leaf Rot,1.0
+LeafRot991,1,Leaf Rot,0.9999992847442627
+LeafRot999,1,Leaf Rot,0.9999938011169434
+GrayLeafSpot010,2,Gray Leaf Spot,1.0
+GrayLeafSpot022,2,Gray Leaf Spot,1.0
+GrayLeafSpot029,2,Gray Leaf Spot,1.0
+GrayLeafSpot034,2,Gray Leaf Spot,1.0
+GrayLeafSpot038,2,Gray Leaf Spot,1.0
+GrayLeafSpot039,2,Gray Leaf Spot,1.0
+GrayLeafSpot042,2,Gray Leaf Spot,1.0
+GrayLeafSpot051,2,Gray Leaf Spot,1.0
+GrayLeafSpot057,2,Gray Leaf Spot,1.0
+GrayLeafSpot063,2,Gray Leaf Spot,1.0
+GrayLeafSpot070,2,Gray Leaf Spot,1.0
+GrayLeafSpot075,2,Gray Leaf Spot,1.0
+GrayLeafSpot086,2,Gray Leaf Spot,1.0
+GrayLeafSpot087,2,Gray Leaf Spot,1.0
+GrayLeafSpot090,2,Gray Leaf Spot,1.0
+GrayLeafSpot093,2,Gray Leaf Spot,1.0
+GrayLeafSpot1002,2,Gray Leaf Spot,1.0
+GrayLeafSpot1005,2,Gray Leaf Spot,1.0
+GrayLeafSpot1007,2,Gray Leaf Spot,1.0
+GrayLeafSpot1014,2,Gray Leaf Spot,1.0
+GrayLeafSpot102,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1021,2,Gray Leaf Spot,1.0
+GrayLeafSpot1022,2,Gray Leaf Spot,1.0
+GrayLeafSpot1030,2,Gray Leaf Spot,1.0
+GrayLeafSpot1031,2,Gray Leaf Spot,1.0
+GrayLeafSpot1036,2,Gray Leaf Spot,1.0
+GrayLeafSpot1039,2,Gray Leaf Spot,1.0
+GrayLeafSpot1041,2,Gray Leaf Spot,1.0
+GrayLeafSpot1060,2,Gray Leaf Spot,1.0
+GrayLeafSpot1061,2,Gray Leaf Spot,1.0
+GrayLeafSpot1068,2,Gray Leaf Spot,1.0
+GrayLeafSpot1069,2,Gray Leaf Spot,1.0
+GrayLeafSpot1074,2,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1078,2,Gray Leaf Spot,1.0
+GrayLeafSpot1087,2,Gray Leaf Spot,1.0
+GrayLeafSpot1099,2,Gray Leaf Spot,1.0
+GrayLeafSpot1102,2,Gray Leaf Spot,1.0
+GrayLeafSpot1105,2,Gray Leaf Spot,1.0
+GrayLeafSpot1107,2,Gray Leaf Spot,1.0
+GrayLeafSpot1113,2,Gray Leaf Spot,1.0
+GrayLeafSpot1120,2,Gray Leaf Spot,1.0
+GrayLeafSpot1125,2,Gray Leaf Spot,1.0
+GrayLeafSpot1129,2,Gray Leaf Spot,1.0
+GrayLeafSpot113,2,Gray Leaf Spot,1.0
+GrayLeafSpot1131,2,Gray Leaf Spot,1.0
+GrayLeafSpot1139,2,Gray Leaf Spot,1.0
+GrayLeafSpot114,2,Gray Leaf Spot,1.0
+GrayLeafSpot1140,2,Gray Leaf Spot,1.0
+GrayLeafSpot1143,2,Gray Leaf Spot,1.0
+GrayLeafSpot1146,2,Gray Leaf Spot,1.0
+GrayLeafSpot1148,2,Gray Leaf Spot,1.0
+GrayLeafSpot1149,2,Gray Leaf Spot,1.0
+GrayLeafSpot1150,2,Gray Leaf Spot,1.0
+GrayLeafSpot1156,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot116,2,Gray Leaf Spot,1.0
+GrayLeafSpot1165,2,Gray Leaf Spot,0.9999861717224121
+GrayLeafSpot117,2,Gray Leaf Spot,1.0
+GrayLeafSpot1176,2,Gray Leaf Spot,1.0
+GrayLeafSpot1183,2,Gray Leaf Spot,1.0
+GrayLeafSpot1188,2,Gray Leaf Spot,1.0
+GrayLeafSpot1195,2,Gray Leaf Spot,1.0
+GrayLeafSpot120,2,Gray Leaf Spot,0.9969006776809692
+GrayLeafSpot1200,2,Gray Leaf Spot,1.0
+GrayLeafSpot1205,2,Gray Leaf Spot,1.0
+GrayLeafSpot1212,2,Gray Leaf Spot,1.0
+GrayLeafSpot1218,2,Gray Leaf Spot,1.0
+GrayLeafSpot1222,2,Gray Leaf Spot,1.0
+GrayLeafSpot1241,2,Gray Leaf Spot,1.0
+GrayLeafSpot1252,2,Gray Leaf Spot,0.9999808073043823
+GrayLeafSpot1253,2,Gray Leaf Spot,0.9998393058776855
+GrayLeafSpot1257,2,Gray Leaf Spot,0.999967098236084
+GrayLeafSpot1260,2,Gray Leaf Spot,1.0
+GrayLeafSpot1264,2,Gray Leaf Spot,1.0
+GrayLeafSpot1272,2,Gray Leaf Spot,1.0
+GrayLeafSpot1273,2,Gray Leaf Spot,1.0
+GrayLeafSpot1274,2,Gray Leaf Spot,1.0
+GrayLeafSpot1282,2,Gray Leaf Spot,1.0
+GrayLeafSpot1284,2,Gray Leaf Spot,1.0
+GrayLeafSpot1292,2,Gray Leaf Spot,1.0
+GrayLeafSpot1299,2,Gray Leaf Spot,1.0
+GrayLeafSpot1305,2,Gray Leaf Spot,1.0
+GrayLeafSpot1310,2,Gray Leaf Spot,1.0
+GrayLeafSpot1312,2,Gray Leaf Spot,1.0
+GrayLeafSpot1314,2,Gray Leaf Spot,1.0
+GrayLeafSpot1316,2,Gray Leaf Spot,1.0
+GrayLeafSpot1330,2,Gray Leaf Spot,1.0
+GrayLeafSpot1334,2,Gray Leaf Spot,1.0
+GrayLeafSpot1336,2,Gray Leaf Spot,1.0
+GrayLeafSpot1338,2,Gray Leaf Spot,1.0
+GrayLeafSpot1346,2,Gray Leaf Spot,1.0
+GrayLeafSpot1347,2,Gray Leaf Spot,1.0
+GrayLeafSpot1351,2,Gray Leaf Spot,1.0
+GrayLeafSpot1352,2,Gray Leaf Spot,1.0
+GrayLeafSpot1361,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1367,2,Gray Leaf Spot,0.9980535507202148
+GrayLeafSpot1368,2,Gray Leaf Spot,0.9999381303787231
+GrayLeafSpot1375,2,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1377,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1378,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1392,2,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot1393,2,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1398,2,Gray Leaf Spot,1.0
+GrayLeafSpot140,2,Gray Leaf Spot,0.9999953508377075
+GrayLeafSpot1401,2,Gray Leaf Spot,1.0
+GrayLeafSpot1403,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1404,2,Gray Leaf Spot,1.0
+GrayLeafSpot1405,2,Gray Leaf Spot,1.0
+GrayLeafSpot1407,2,Gray Leaf Spot,1.0
+GrayLeafSpot1414,2,Gray Leaf Spot,1.0
+GrayLeafSpot1416,2,Gray Leaf Spot,1.0
+GrayLeafSpot1419,2,Gray Leaf Spot,1.0
+GrayLeafSpot1422,2,Gray Leaf Spot,1.0
+GrayLeafSpot1423,2,Gray Leaf Spot,1.0
+GrayLeafSpot1430,2,Gray Leaf Spot,1.0
+GrayLeafSpot1431,2,Gray Leaf Spot,1.0
+GrayLeafSpot1434,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1436,2,Gray Leaf Spot,1.0
+GrayLeafSpot1437,2,Gray Leaf Spot,1.0
+GrayLeafSpot1442,2,Gray Leaf Spot,1.0
+GrayLeafSpot1443,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1445,2,Gray Leaf Spot,1.0
+GrayLeafSpot145,2,Gray Leaf Spot,1.0
+GrayLeafSpot1451,2,Gray Leaf Spot,1.0
+GrayLeafSpot1455,2,Gray Leaf Spot,1.0
+GrayLeafSpot1460,2,Gray Leaf Spot,0.9999829530715942
+GrayLeafSpot1468,2,Gray Leaf Spot,0.9999567270278931
+GrayLeafSpot1471,2,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot1477,2,Gray Leaf Spot,1.0
+GrayLeafSpot1480,2,Gray Leaf Spot,1.0
+GrayLeafSpot1486,2,Gray Leaf Spot,0.9999873638153076
+GrayLeafSpot1488,2,Gray Leaf Spot,0.9965052604675293
+GrayLeafSpot1497,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1499,2,Gray Leaf Spot,0.9999980926513672
+GrayLeafSpot1502,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1505,2,Gray Leaf Spot,1.0
+GrayLeafSpot1506,2,Gray Leaf Spot,1.0
+GrayLeafSpot1508,2,Gray Leaf Spot,1.0
+GrayLeafSpot1511,2,Gray Leaf Spot,1.0
+GrayLeafSpot1519,2,Gray Leaf Spot,1.0
+GrayLeafSpot152,2,Gray Leaf Spot,0.9996117949485779
+GrayLeafSpot1520,2,Gray Leaf Spot,1.0
+GrayLeafSpot1525,2,Gray Leaf Spot,1.0
+GrayLeafSpot1529,2,Gray Leaf Spot,1.0
+GrayLeafSpot1530,2,Gray Leaf Spot,1.0
+GrayLeafSpot1533,2,Gray Leaf Spot,1.0
+GrayLeafSpot1534,2,Gray Leaf Spot,1.0
+GrayLeafSpot154,2,Gray Leaf Spot,1.0
+GrayLeafSpot1542,2,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1546,2,Gray Leaf Spot,1.0
+GrayLeafSpot1549,2,Gray Leaf Spot,1.0
+GrayLeafSpot1554,2,Gray Leaf Spot,1.0
+GrayLeafSpot1556,2,Gray Leaf Spot,1.0
+GrayLeafSpot1560,2,Gray Leaf Spot,1.0
+GrayLeafSpot1562,2,Gray Leaf Spot,1.0
+GrayLeafSpot1565,2,Gray Leaf Spot,1.0
+GrayLeafSpot1571,2,Gray Leaf Spot,1.0
+GrayLeafSpot1572,2,Gray Leaf Spot,1.0
+GrayLeafSpot1574,2,Gray Leaf Spot,1.0
+GrayLeafSpot1577,2,Gray Leaf Spot,1.0
+GrayLeafSpot1578,2,Gray Leaf Spot,1.0
+GrayLeafSpot1579,2,Gray Leaf Spot,1.0
+GrayLeafSpot1582,2,Gray Leaf Spot,1.0
+GrayLeafSpot1585,2,Gray Leaf Spot,1.0
+GrayLeafSpot1587,2,Gray Leaf Spot,1.0
+GrayLeafSpot1590,2,Gray Leaf Spot,1.0
+GrayLeafSpot1593,2,Gray Leaf Spot,1.0
+GrayLeafSpot1595,2,Gray Leaf Spot,1.0
+GrayLeafSpot1605,2,Gray Leaf Spot,1.0
+GrayLeafSpot1606,2,Gray Leaf Spot,1.0
+GrayLeafSpot1608,2,Gray Leaf Spot,1.0
+GrayLeafSpot1609,2,Gray Leaf Spot,1.0
+GrayLeafSpot1623,2,Gray Leaf Spot,0.9999979734420776
+GrayLeafSpot1629,2,Gray Leaf Spot,0.9999983310699463
+GrayLeafSpot1631,2,Gray Leaf Spot,0.999995231628418
+GrayLeafSpot1632,2,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot1656,2,Gray Leaf Spot,1.0
+GrayLeafSpot1658,2,Gray Leaf Spot,1.0
+GrayLeafSpot1663,2,Gray Leaf Spot,0.9999855756759644
+GrayLeafSpot1669,2,Gray Leaf Spot,1.0
+GrayLeafSpot1677,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1678,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1680,2,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1681,2,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot1684,2,Gray Leaf Spot,1.0
+GrayLeafSpot1694,2,Gray Leaf Spot,1.0
+GrayLeafSpot1695,2,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1714,2,Gray Leaf Spot,1.0
+GrayLeafSpot1716,2,Gray Leaf Spot,1.0
+GrayLeafSpot1731,2,Gray Leaf Spot,1.0
+GrayLeafSpot1734,2,Gray Leaf Spot,1.0
+GrayLeafSpot1740,2,Gray Leaf Spot,1.0
+GrayLeafSpot1746,2,Gray Leaf Spot,1.0
+GrayLeafSpot1747,2,Gray Leaf Spot,1.0
+GrayLeafSpot1750,2,Gray Leaf Spot,1.0
+GrayLeafSpot1752,2,Gray Leaf Spot,1.0
+GrayLeafSpot1754,2,Gray Leaf Spot,1.0
+GrayLeafSpot176,2,Gray Leaf Spot,1.0
+GrayLeafSpot1763,2,Gray Leaf Spot,1.0
+GrayLeafSpot1770,2,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1773,2,Gray Leaf Spot,0.9999964237213135
+GrayLeafSpot1787,2,Gray Leaf Spot,1.0
+GrayLeafSpot1791,2,Gray Leaf Spot,1.0
+GrayLeafSpot1794,2,Gray Leaf Spot,1.0
+GrayLeafSpot1797,2,Gray Leaf Spot,1.0
+GrayLeafSpot1802,2,Gray Leaf Spot,1.0
+GrayLeafSpot1810,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1816,2,Gray Leaf Spot,1.0
+GrayLeafSpot1819,2,Gray Leaf Spot,1.0
+GrayLeafSpot1828,2,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot183,2,Gray Leaf Spot,1.0
+GrayLeafSpot1832,2,Gray Leaf Spot,1.0
+GrayLeafSpot1837,2,Gray Leaf Spot,1.0
+GrayLeafSpot1840,2,Gray Leaf Spot,1.0
+GrayLeafSpot1842,2,Gray Leaf Spot,1.0
+GrayLeafSpot1843,2,Gray Leaf Spot,1.0
+GrayLeafSpot1849,2,Gray Leaf Spot,1.0
+GrayLeafSpot1851,2,Gray Leaf Spot,1.0
+GrayLeafSpot1852,2,Gray Leaf Spot,1.0
+GrayLeafSpot1856,2,Gray Leaf Spot,1.0
+GrayLeafSpot1865,2,Gray Leaf Spot,1.0
+GrayLeafSpot1867,2,Gray Leaf Spot,1.0
+GrayLeafSpot1883,2,Gray Leaf Spot,1.0
+GrayLeafSpot1886,2,Gray Leaf Spot,1.0
+GrayLeafSpot1888,2,Gray Leaf Spot,1.0
+GrayLeafSpot190,2,Gray Leaf Spot,1.0
+GrayLeafSpot1903,2,Gray Leaf Spot,1.0
+GrayLeafSpot1918,2,Gray Leaf Spot,1.0
+GrayLeafSpot1919,2,Gray Leaf Spot,1.0
+GrayLeafSpot1921,2,Gray Leaf Spot,1.0
+GrayLeafSpot1925,2,Gray Leaf Spot,1.0
+GrayLeafSpot1927,2,Gray Leaf Spot,1.0
+GrayLeafSpot1947,2,Gray Leaf Spot,1.0
+GrayLeafSpot195,2,Gray Leaf Spot,1.0
+GrayLeafSpot1954,2,Gray Leaf Spot,1.0
+GrayLeafSpot1960,2,Gray Leaf Spot,1.0
+GrayLeafSpot1968,2,Gray Leaf Spot,1.0
+GrayLeafSpot1970,2,Gray Leaf Spot,1.0
+GrayLeafSpot1977,2,Gray Leaf Spot,1.0
+GrayLeafSpot1978,2,Gray Leaf Spot,1.0
+GrayLeafSpot1982,2,Gray Leaf Spot,1.0
+GrayLeafSpot1983,2,Gray Leaf Spot,1.0
+GrayLeafSpot1984,2,Gray Leaf Spot,1.0
+GrayLeafSpot1994,2,Gray Leaf Spot,1.0
+GrayLeafSpot1998,2,Gray Leaf Spot,1.0
+GrayLeafSpot2007,2,Gray Leaf Spot,1.0
+GrayLeafSpot2011,2,Gray Leaf Spot,1.0
+GrayLeafSpot2016,2,Gray Leaf Spot,1.0
+GrayLeafSpot2017,2,Gray Leaf Spot,1.0
+GrayLeafSpot2020,2,Gray Leaf Spot,1.0
+GrayLeafSpot2026,2,Gray Leaf Spot,1.0
+GrayLeafSpot2027,2,Gray Leaf Spot,1.0
+GrayLeafSpot2040,2,Gray Leaf Spot,1.0
+GrayLeafSpot2047,2,Gray Leaf Spot,1.0
+GrayLeafSpot2055,2,Gray Leaf Spot,1.0
+GrayLeafSpot2057,2,Gray Leaf Spot,1.0
+GrayLeafSpot2060,2,Gray Leaf Spot,1.0
+GrayLeafSpot2063,2,Gray Leaf Spot,1.0
+GrayLeafSpot2065,2,Gray Leaf Spot,1.0
+GrayLeafSpot2066,2,Gray Leaf Spot,1.0
+GrayLeafSpot2067,2,Gray Leaf Spot,1.0
+GrayLeafSpot2068,2,Gray Leaf Spot,1.0
+GrayLeafSpot2078,2,Gray Leaf Spot,1.0
+GrayLeafSpot2081,2,Gray Leaf Spot,1.0
+GrayLeafSpot2088,2,Gray Leaf Spot,1.0
+GrayLeafSpot2089,2,Gray Leaf Spot,1.0
+GrayLeafSpot209,2,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot2090,2,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot2091,2,Gray Leaf Spot,1.0
+GrayLeafSpot2097,2,Gray Leaf Spot,1.0
+GrayLeafSpot2098,2,Gray Leaf Spot,1.0
+GrayLeafSpot211,2,Gray Leaf Spot,1.0
+GrayLeafSpot2118,2,Gray Leaf Spot,1.0
+GrayLeafSpot2125,2,Gray Leaf Spot,1.0
+GrayLeafSpot2126,2,Gray Leaf Spot,1.0
+GrayLeafSpot2133,2,Gray Leaf Spot,1.0
+GrayLeafSpot2134,2,Gray Leaf Spot,1.0
+GrayLeafSpot215,2,Gray Leaf Spot,1.0
+GrayLeafSpot217,2,Gray Leaf Spot,1.0
+GrayLeafSpot219,2,Gray Leaf Spot,1.0
+GrayLeafSpot225,2,Gray Leaf Spot,1.0
+GrayLeafSpot226,2,Gray Leaf Spot,1.0
+GrayLeafSpot229,2,Gray Leaf Spot,1.0
+GrayLeafSpot232,2,Gray Leaf Spot,1.0
+GrayLeafSpot234,2,Gray Leaf Spot,1.0
+GrayLeafSpot237,2,Gray Leaf Spot,1.0
+GrayLeafSpot246,2,Gray Leaf Spot,1.0
+GrayLeafSpot251,2,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot260,2,Gray Leaf Spot,1.0
+GrayLeafSpot265,2,Gray Leaf Spot,1.0
+GrayLeafSpot269,2,Gray Leaf Spot,1.0
+GrayLeafSpot272,2,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot278,2,Gray Leaf Spot,1.0
+GrayLeafSpot280,2,Gray Leaf Spot,1.0
+GrayLeafSpot281,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot282,2,Gray Leaf Spot,1.0
+GrayLeafSpot288,2,Gray Leaf Spot,1.0
+GrayLeafSpot302,2,Gray Leaf Spot,0.9999934434890747
+GrayLeafSpot310,2,Gray Leaf Spot,0.9999897480010986
+GrayLeafSpot312,2,Gray Leaf Spot,0.9999219179153442
+GrayLeafSpot328,2,Leaf Rot,0.8647254109382629
+GrayLeafSpot329,2,Leaf Rot,0.8535897731781006
+GrayLeafSpot334,2,Leaf Rot,0.7655513882637024
+GrayLeafSpot335,2,Leaf Rot,0.7843905091285706
+GrayLeafSpot336,2,Leaf Rot,0.7997632622718811
+GrayLeafSpot337,2,Leaf Rot,0.7778067588806152
+GrayLeafSpot338,2,Leaf Rot,0.8054132461547852
+GrayLeafSpot339,2,Leaf Rot,0.7820421457290649
+GrayLeafSpot342,2,Leaf Rot,0.752604603767395
+GrayLeafSpot357,2,Gray Leaf Spot,1.0
+GrayLeafSpot359,2,Gray Leaf Spot,1.0
+GrayLeafSpot367,2,Gray Leaf Spot,1.0
+GrayLeafSpot374,2,Gray Leaf Spot,1.0
+GrayLeafSpot391,2,Gray Leaf Spot,1.0
+GrayLeafSpot392,2,Gray Leaf Spot,1.0
+GrayLeafSpot393,2,Gray Leaf Spot,1.0
+GrayLeafSpot405,2,Gray Leaf Spot,1.0
+GrayLeafSpot419,2,Gray Leaf Spot,1.0
+GrayLeafSpot420,2,Gray Leaf Spot,1.0
+GrayLeafSpot425,2,Gray Leaf Spot,1.0
+GrayLeafSpot427,2,Gray Leaf Spot,1.0
+GrayLeafSpot432,2,Gray Leaf Spot,1.0
+GrayLeafSpot434,2,Gray Leaf Spot,1.0
+GrayLeafSpot435,2,Gray Leaf Spot,1.0
+GrayLeafSpot436,2,Gray Leaf Spot,1.0
+GrayLeafSpot437,2,Gray Leaf Spot,1.0
+GrayLeafSpot441,2,Gray Leaf Spot,1.0
+GrayLeafSpot446,2,Gray Leaf Spot,1.0
+GrayLeafSpot447,2,Gray Leaf Spot,1.0
+GrayLeafSpot449,2,Gray Leaf Spot,1.0
+GrayLeafSpot451,2,Gray Leaf Spot,1.0
+GrayLeafSpot454,2,Gray Leaf Spot,1.0
+GrayLeafSpot455,2,Gray Leaf Spot,1.0
+GrayLeafSpot458,2,Gray Leaf Spot,1.0
+GrayLeafSpot468,2,Gray Leaf Spot,1.0
+GrayLeafSpot474,2,Gray Leaf Spot,1.0
+GrayLeafSpot478,2,Gray Leaf Spot,1.0
+GrayLeafSpot489,2,Gray Leaf Spot,1.0
+GrayLeafSpot495,2,Gray Leaf Spot,1.0
+GrayLeafSpot496,2,Gray Leaf Spot,1.0
+GrayLeafSpot502,2,Gray Leaf Spot,1.0
+GrayLeafSpot507,2,Gray Leaf Spot,1.0
+GrayLeafSpot512,2,Gray Leaf Spot,1.0
+GrayLeafSpot517,2,Gray Leaf Spot,1.0
+GrayLeafSpot530,2,Gray Leaf Spot,1.0
+GrayLeafSpot547,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot550,2,Gray Leaf Spot,1.0
+GrayLeafSpot553,2,Gray Leaf Spot,0.9999973773956299
+GrayLeafSpot557,2,Gray Leaf Spot,1.0
+GrayLeafSpot563,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot577,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot578,2,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot583,2,Gray Leaf Spot,0.9999852180480957
+GrayLeafSpot588,2,Gray Leaf Spot,1.0
+GrayLeafSpot589,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot590,2,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot592,2,Gray Leaf Spot,1.0
+GrayLeafSpot599,2,Gray Leaf Spot,1.0
+GrayLeafSpot605,2,Gray Leaf Spot,1.0
+GrayLeafSpot613,2,Gray Leaf Spot,0.9999634027481079
+GrayLeafSpot616,2,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot627,2,Gray Leaf Spot,1.0
+GrayLeafSpot631,2,Gray Leaf Spot,1.0
+GrayLeafSpot639,2,Gray Leaf Spot,1.0
+GrayLeafSpot641,2,Gray Leaf Spot,1.0
+GrayLeafSpot643,2,Gray Leaf Spot,1.0
+GrayLeafSpot662,2,Gray Leaf Spot,1.0
+GrayLeafSpot665,2,Gray Leaf Spot,1.0
+GrayLeafSpot666,2,Gray Leaf Spot,1.0
+GrayLeafSpot668,2,Gray Leaf Spot,1.0
+GrayLeafSpot675,2,Gray Leaf Spot,0.9999926090240479
+GrayLeafSpot678,2,Gray Leaf Spot,0.9999977350234985
+GrayLeafSpot684,2,Gray Leaf Spot,1.0
+GrayLeafSpot685,2,Gray Leaf Spot,1.0
+GrayLeafSpot688,2,Gray Leaf Spot,1.0
+GrayLeafSpot691,2,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot699,2,Gray Leaf Spot,1.0
+GrayLeafSpot700,2,Gray Leaf Spot,1.0
+GrayLeafSpot701,2,Gray Leaf Spot,1.0
+GrayLeafSpot703,2,Gray Leaf Spot,0.9999983310699463
+GrayLeafSpot714,2,Gray Leaf Spot,1.0
+GrayLeafSpot716,2,Gray Leaf Spot,1.0
+GrayLeafSpot717,2,Gray Leaf Spot,1.0
+GrayLeafSpot720,2,Gray Leaf Spot,1.0
+GrayLeafSpot729,2,Gray Leaf Spot,1.0
+GrayLeafSpot740,2,Gray Leaf Spot,1.0
+GrayLeafSpot743,2,Gray Leaf Spot,1.0
+GrayLeafSpot745,2,Gray Leaf Spot,1.0
+GrayLeafSpot748,2,Gray Leaf Spot,1.0
+GrayLeafSpot752,2,Gray Leaf Spot,1.0
+GrayLeafSpot753,2,Gray Leaf Spot,1.0
+GrayLeafSpot754,2,Gray Leaf Spot,1.0
+GrayLeafSpot760,2,Gray Leaf Spot,1.0
+GrayLeafSpot762,2,Gray Leaf Spot,1.0
+GrayLeafSpot772,2,Gray Leaf Spot,1.0
+GrayLeafSpot779,2,Gray Leaf Spot,0.9999730587005615
+GrayLeafSpot787,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot790,2,Gray Leaf Spot,1.0
+GrayLeafSpot792,2,Gray Leaf Spot,1.0
+GrayLeafSpot794,2,Gray Leaf Spot,1.0
+GrayLeafSpot795,2,Gray Leaf Spot,1.0
+GrayLeafSpot800,2,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot803,2,Gray Leaf Spot,0.999980092048645
+GrayLeafSpot804,2,Gray Leaf Spot,0.999997615814209
+GrayLeafSpot810,2,Gray Leaf Spot,0.9999842643737793
+GrayLeafSpot812,2,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot815,2,Gray Leaf Spot,1.0
+GrayLeafSpot816,2,Gray Leaf Spot,1.0
+GrayLeafSpot820,2,Gray Leaf Spot,1.0
+GrayLeafSpot825,2,Gray Leaf Spot,1.0
+GrayLeafSpot829,2,Gray Leaf Spot,1.0
+GrayLeafSpot833,2,Gray Leaf Spot,1.0
+GrayLeafSpot840,2,Gray Leaf Spot,1.0
+GrayLeafSpot841,2,Gray Leaf Spot,1.0
+GrayLeafSpot842,2,Gray Leaf Spot,1.0
+GrayLeafSpot865,2,Gray Leaf Spot,1.0
+GrayLeafSpot873,2,Gray Leaf Spot,1.0
+GrayLeafSpot879,2,Gray Leaf Spot,1.0
+GrayLeafSpot881,2,Gray Leaf Spot,1.0
+GrayLeafSpot884,2,Gray Leaf Spot,1.0
+GrayLeafSpot887,2,Gray Leaf Spot,1.0
+GrayLeafSpot894,2,Gray Leaf Spot,1.0
+GrayLeafSpot899,2,Gray Leaf Spot,1.0
+GrayLeafSpot906,2,Gray Leaf Spot,1.0
+GrayLeafSpot910,2,Gray Leaf Spot,1.0
+GrayLeafSpot918,2,Gray Leaf Spot,1.0
+GrayLeafSpot920,2,Gray Leaf Spot,1.0
+GrayLeafSpot925,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot926,2,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot929,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot931,2,Gray Leaf Spot,1.0
+GrayLeafSpot933,2,Gray Leaf Spot,1.0
+GrayLeafSpot941,2,Gray Leaf Spot,1.0
+GrayLeafSpot942,2,Gray Leaf Spot,1.0
+GrayLeafSpot946,2,Gray Leaf Spot,1.0
+GrayLeafSpot966,2,Gray Leaf Spot,0.9999977350234985
+GrayLeafSpot973,2,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot975,2,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot983,2,Gray Leaf Spot,0.9999825954437256
+GrayLeafSpot989,2,Gray Leaf Spot,1.0
+GrayLeafSpot990,2,Gray Leaf Spot,1.0
+GrayLeafSpot991,2,Gray Leaf Spot,1.0
+GrayLeafSpot994,2,Gray Leaf Spot,1.0
+GrayLeafSpot996,2,Gray Leaf Spot,1.0
+GrayLeafSpot997,2,Gray Leaf Spot,1.0
+LeafRot002,2,Leaf Rot,1.0
+LeafRot015,2,Leaf Rot,1.0
+LeafRot020,2,Leaf Rot,1.0
+LeafRot021,2,Leaf Rot,1.0
+LeafRot023,2,Leaf Rot,0.9999997615814209
+LeafRot025,2,Leaf Rot,0.9999994039535522
+LeafRot029,2,Leaf Rot,0.6069641709327698
+LeafRot030,2,Leaf Rot,0.624467134475708
+LeafRot032,2,Leaf Rot,0.5341149568557739
+LeafRot051,2,Leaf Rot,0.7424246072769165
+LeafRot054,2,Leaf Rot,0.7626007199287415
+LeafRot056,2,Leaf Rot,1.0
+LeafRot058,2,Leaf Rot,1.0
+LeafRot062,2,Leaf Rot,1.0
+LeafRot073,2,Leaf Rot,1.0
+LeafRot079,2,Leaf Rot,0.9996973276138306
+LeafRot084,2,Leaf Rot,0.9999998807907104
+LeafRot094,2,Leaf Rot,1.0
+LeafRot096,2,Leaf Rot,1.0
+LeafRot098,2,Leaf Rot,1.0
+LeafRot100,2,Leaf Rot,1.0
+LeafRot1000,2,Leaf Rot,1.0
+LeafRot1018,2,Leaf Rot,1.0
+LeafRot1025,2,Leaf Rot,1.0
+LeafRot1026,2,Leaf Rot,1.0
+LeafRot1027,2,Leaf Rot,1.0
+LeafRot1031,2,Leaf Rot,1.0
+LeafRot1034,2,Leaf Rot,1.0
+LeafRot1035,2,Leaf Rot,1.0
+LeafRot1036,2,Leaf Rot,1.0
+LeafRot104,2,Leaf Rot,0.999998927116394
+LeafRot1044,2,Leaf Rot,1.0
+LeafRot1051,2,Leaf Rot,0.9999489784240723
+LeafRot1054,2,Leaf Rot,0.999998927116394
+LeafRot1056,2,Leaf Rot,0.9999825954437256
+LeafRot1063,2,Leaf Rot,0.999996542930603
+LeafRot1065,2,Leaf Rot,0.9999998807907104
+LeafRot1066,2,Leaf Rot,1.0
+LeafRot1074,2,Leaf Rot,1.0
+LeafRot1084,2,Leaf Rot,0.9994070529937744
+LeafRot1086,2,Leaf Rot,0.9999436140060425
+LeafRot1087,2,Leaf Rot,0.9996017813682556
+LeafRot1090,2,Leaf Rot,0.9999984502792358
+LeafRot1092,2,Leaf Rot,0.999998927116394
+LeafRot1094,2,Leaf Rot,1.0
+LeafRot1096,2,Leaf Rot,1.0
+LeafRot1099,2,Leaf Rot,1.0
+LeafRot1100,2,Leaf Rot,1.0
+LeafRot1112,2,Leaf Rot,1.0
+LeafRot1118,2,Leaf Rot,1.0
+LeafRot1125,2,Leaf Rot,0.9999691247940063
+LeafRot1136,2,Leaf Rot,0.9999967813491821
+LeafRot1143,2,Leaf Rot,0.9999698400497437
+LeafRot1155,2,Leaf Rot,0.9999992847442627
+LeafRot1164,2,Leaf Rot,0.9999997615814209
+LeafRot1168,2,Leaf Rot,0.9999908208847046
+LeafRot1174,2,Leaf Rot,0.9999998807907104
+LeafRot1179,2,Leaf Rot,0.9999947547912598
+LeafRot1180,2,Leaf Rot,0.9999983310699463
+LeafRot1182,2,Leaf Rot,0.9999988079071045
+LeafRot1189,2,Leaf Rot,1.0
+LeafRot1190,2,Leaf Rot,1.0
+LeafRot1191,2,Leaf Rot,1.0
+LeafRot1221,2,Leaf Rot,0.9999083280563354
+LeafRot1229,2,Leaf Rot,0.9999780654907227
+LeafRot1234,2,Leaf Rot,1.0
+LeafRot1237,2,Leaf Rot,1.0
+LeafRot1239,2,Leaf Rot,1.0
+LeafRot124,2,Leaf Rot,0.9999998807907104
+LeafRot1254,2,Leaf Rot,1.0
+LeafRot1257,2,Leaf Rot,1.0
+LeafRot126,2,Leaf Rot,0.9999996423721313
+LeafRot1263,2,Leaf Rot,0.9999996423721313
+LeafRot1265,2,Leaf Rot,0.9999998807907104
+LeafRot1266,2,Leaf Rot,1.0
+LeafRot1267,2,Leaf Rot,1.0
+LeafRot1269,2,Leaf Rot,1.0
+LeafRot1271,2,Leaf Rot,1.0
+LeafRot1272,2,Leaf Rot,1.0
+LeafRot1277,2,Leaf Rot,1.0
+LeafRot1278,2,Leaf Rot,1.0
+LeafRot1279,2,Leaf Rot,1.0
+LeafRot1281,2,Leaf Rot,0.9998879432678223
+LeafRot1284,2,Leaf Rot,0.9999330043792725
+LeafRot1291,2,Leaf Rot,0.9999994039535522
+LeafRot1302,2,Leaf Rot,1.0
+LeafRot1307,2,Leaf Rot,0.999988317489624
+LeafRot1310,2,Leaf Rot,1.0
+LeafRot1314,2,Leaf Rot,0.9999996423721313
+LeafRot1317,2,Leaf Rot,0.9999998807907104
+LeafRot1318,2,Leaf Rot,0.999997615814209
+LeafRot1320,2,Leaf Rot,0.9999998807907104
+LeafRot1329,2,Leaf Rot,0.9999998807907104
+LeafRot134,2,Leaf Rot,0.9998456239700317
+LeafRot1342,2,Leaf Rot,1.0
+LeafRot1343,2,Leaf Rot,1.0
+LeafRot1344,2,Leaf Rot,1.0
+LeafRot1345,2,Leaf Rot,1.0
+LeafRot1347,2,Leaf Rot,1.0
+LeafRot1349,2,Leaf Rot,1.0
+LeafRot1352,2,Leaf Rot,1.0
+LeafRot1355,2,Leaf Rot,1.0
+LeafRot1356,2,Leaf Rot,1.0
+LeafRot1363,2,Leaf Rot,1.0
+LeafRot1376,2,Leaf Rot,0.9999997615814209
+LeafRot1383,2,Leaf Rot,0.9999998807907104
+LeafRot1384,2,Leaf Rot,0.9999995231628418
+LeafRot1386,2,Leaf Rot,1.0
+LeafRot1389,2,Leaf Rot,1.0
+LeafRot1390,2,Leaf Rot,1.0
+LeafRot1393,2,Leaf Rot,0.9999997615814209
+LeafRot1394,2,Leaf Rot,0.9999998807907104
+LeafRot1395,2,Leaf Rot,0.9999985694885254
+LeafRot1397,2,Leaf Rot,1.0
+LeafRot1415,2,Leaf Rot,1.0
+LeafRot1417,2,Leaf Rot,0.9999955892562866
+LeafRot1418,2,Leaf Rot,0.9999997615814209
+LeafRot142,2,Leaf Rot,0.9934355020523071
+LeafRot1423,2,Leaf Rot,0.9999998807907104
+LeafRot1425,2,Leaf Rot,0.9999964237213135
+LeafRot1427,2,Leaf Rot,0.9999938011169434
+LeafRot1447,2,Leaf Rot,0.9999988079071045
+LeafRot1450,2,Leaf Rot,0.9997846484184265
+LeafRot1462,2,Leaf Rot,1.0
+LeafRot1468,2,Leaf Rot,1.0
+LeafRot1470,2,Leaf Rot,1.0
+LeafRot1472,2,Leaf Rot,1.0
+LeafRot1477,2,Leaf Rot,1.0
+LeafRot1478,2,Leaf Rot,0.9999996423721313
+LeafRot1484,2,Leaf Rot,1.0
+LeafRot1490,2,Leaf Rot,1.0
+LeafRot1499,2,Leaf Rot,1.0
+LeafRot150,2,Leaf Rot,1.0
+LeafRot1503,2,Leaf Rot,0.9999988079071045
+LeafRot1507,2,Leaf Rot,1.0
+LeafRot1518,2,Leaf Rot,1.0
+LeafRot1521,2,Leaf Rot,1.0
+LeafRot1523,2,Leaf Rot,0.9999959468841553
+LeafRot1524,2,Leaf Rot,0.9999992847442627
+LeafRot1525,2,Leaf Rot,1.0
+LeafRot1526,2,Leaf Rot,0.9999998807907104
+LeafRot153,2,Leaf Rot,0.9999995231628418
+LeafRot1544,2,Leaf Rot,1.0
+LeafRot1546,2,Leaf Rot,0.9999992847442627
+LeafRot1557,2,Leaf Rot,1.0
+LeafRot156,2,Leaf Rot,0.9999533891677856
+LeafRot1562,2,Leaf Rot,1.0
+LeafRot1563,2,Leaf Rot,1.0
+LeafRot1575,2,Leaf Rot,1.0
+LeafRot1577,2,Leaf Rot,1.0
+LeafRot1582,2,Leaf Rot,1.0
+LeafRot1589,2,Leaf Rot,0.9999775886535645
+LeafRot1594,2,Leaf Rot,1.0
+LeafRot1595,2,Leaf Rot,1.0
+LeafRot161,2,Leaf Rot,1.0
+LeafRot1616,2,Leaf Rot,1.0
+LeafRot1620,2,Leaf Rot,1.0
+LeafRot1621,2,Leaf Rot,1.0
+LeafRot1622,2,Leaf Rot,1.0
+LeafRot163,2,Leaf Rot,0.9999988079071045
+LeafRot1632,2,Leaf Rot,0.9999997615814209
+LeafRot1633,2,Leaf Rot,1.0
+LeafRot1642,2,Leaf Rot,1.0
+LeafRot1648,2,Leaf Rot,1.0
+LeafRot1671,2,Leaf Rot,1.0
+LeafRot175,2,Leaf Rot,0.9999998807907104
+LeafRot187,2,Leaf Rot,0.9999991655349731
+LeafRot188,2,Leaf Rot,0.9999815225601196
+LeafRot199,2,Leaf Rot,0.9999836683273315
+LeafRot200,2,Leaf Rot,0.9999843835830688
+LeafRot201,2,Leaf Rot,0.999994158744812
+LeafRot202,2,Leaf Rot,0.9999803304672241
+LeafRot206,2,Leaf Rot,0.9999539852142334
+LeafRot227,2,Leaf Rot,1.0
+LeafRot234,2,Leaf Rot,0.9970180988311768
+LeafRot235,2,Leaf Rot,0.9928032755851746
+LeafRot240,2,Leaf Rot,0.9998136162757874
+LeafRot246,2,Leaf Rot,0.9999880790710449
+LeafRot247,2,Leaf Rot,0.999998927116394
+LeafRot253,2,Leaf Rot,1.0
+LeafRot255,2,Leaf Rot,1.0
+LeafRot257,2,Leaf Rot,1.0
+LeafRot269,2,Leaf Rot,0.9999990463256836
+LeafRot276,2,Leaf Rot,1.0
+LeafRot280,2,Leaf Rot,1.0
+LeafRot288,2,Leaf Rot,0.999998927116394
+LeafRot293,2,Leaf Rot,0.9999860525131226
+LeafRot303,2,Leaf Rot,0.9999997615814209
+LeafRot316,2,Leaf Rot,1.0
+LeafRot328,2,Leaf Rot,1.0
+LeafRot345,2,Leaf Rot,0.9998204112052917
+LeafRot348,2,Leaf Rot,0.9993341565132141
+LeafRot352,2,Leaf Rot,0.9999998807907104
+LeafRot362,2,Leaf Rot,0.9920324087142944
+LeafRot368,2,Leaf Rot,0.9995180368423462
+LeafRot370,2,Leaf Rot,0.997205913066864
+LeafRot371,2,Leaf Rot,0.9999277591705322
+LeafRot372,2,Leaf Rot,0.9999508857727051
+LeafRot373,2,Leaf Rot,0.9998475313186646
+LeafRot374,2,Leaf Rot,0.8814456462860107
+LeafRot375,2,Leaf Rot,0.9915801882743835
+LeafRot376,2,Leaf Rot,0.9317433834075928
+LeafRot378,2,Leaf Rot,0.9979092478752136
+LeafRot380,2,Leaf Rot,0.9984045624732971
+LeafRot383,2,Leaf Rot,1.0
+LeafRot389,2,Leaf Rot,1.0
+LeafRot390,2,Leaf Rot,1.0
+LeafRot406,2,Leaf Rot,1.0
+LeafRot412,2,Leaf Rot,0.9999995231628418
+LeafRot413,2,Leaf Rot,0.9999998807907104
+LeafRot416,2,Leaf Rot,0.9999992847442627
+LeafRot418,2,Leaf Rot,1.0
+LeafRot419,2,Leaf Rot,0.9999998807907104
+LeafRot421,2,Leaf Rot,0.9998642206192017
+LeafRot430,2,Leaf Rot,1.0
+LeafRot432,2,Leaf Rot,1.0
+LeafRot442,2,Leaf Rot,0.9957477450370789
+LeafRot444,2,Leaf Rot,0.9836106300354004
+LeafRot450,2,Leaf Rot,0.9991772770881653
+LeafRot454,2,Leaf Rot,0.9976147413253784
+LeafRot455,2,Leaf Rot,0.9972251653671265
+LeafRot466,2,Leaf Rot,0.9999765157699585
+LeafRot472,2,Leaf Rot,0.9999942779541016
+LeafRot475,2,Leaf Rot,0.9999911785125732
+LeafRot479,2,Leaf Rot,0.9999662637710571
+LeafRot484,2,Leaf Rot,0.9999977350234985
+LeafRot491,2,Leaf Rot,0.99998939037323
+LeafRot494,2,Leaf Rot,0.9998420476913452
+LeafRot517,2,Leaf Rot,1.0
+LeafRot522,2,Leaf Rot,1.0
+LeafRot525,2,Leaf Rot,1.0
+LeafRot528,2,Leaf Rot,1.0
+LeafRot533,2,Leaf Rot,1.0
+LeafRot534,2,Leaf Rot,1.0
+LeafRot546,2,Leaf Rot,1.0
+LeafRot549,2,Leaf Rot,0.9988357424736023
+LeafRot556,2,Leaf Rot,1.0
+LeafRot563,2,Leaf Rot,1.0
+LeafRot570,2,Leaf Rot,1.0
+LeafRot581,2,Leaf Rot,1.0
+LeafRot585,2,Leaf Rot,1.0
+LeafRot589,2,Leaf Rot,1.0
+LeafRot593,2,Leaf Rot,1.0
+LeafRot595,2,Leaf Rot,0.9999945163726807
+LeafRot599,2,Leaf Rot,1.0
+LeafRot602,2,Leaf Rot,1.0
+LeafRot608,2,Leaf Rot,1.0
+LeafRot610,2,Leaf Rot,1.0
+LeafRot614,2,Leaf Rot,1.0
+LeafRot615,2,Leaf Rot,1.0
+LeafRot622,2,Leaf Rot,1.0
+LeafRot624,2,Leaf Rot,1.0
+LeafRot625,2,Leaf Rot,1.0
+LeafRot626,2,Leaf Rot,1.0
+LeafRot641,2,Leaf Rot,1.0
+LeafRot645,2,Leaf Rot,1.0
+LeafRot648,2,Leaf Rot,1.0
+LeafRot652,2,Leaf Rot,1.0
+LeafRot654,2,Leaf Rot,1.0
+LeafRot657,2,Leaf Rot,1.0
+LeafRot662,2,Leaf Rot,1.0
+LeafRot664,2,Leaf Rot,1.0
+LeafRot667,2,Leaf Rot,1.0
+LeafRot681,2,Leaf Rot,1.0
+LeafRot700,2,Leaf Rot,1.0
+LeafRot703,2,Leaf Rot,1.0
+LeafRot704,2,Leaf Rot,0.9999980926513672
+LeafRot711,2,Leaf Rot,0.9999994039535522
+LeafRot719,2,Leaf Rot,0.9736673831939697
+LeafRot726,2,Leaf Rot,0.999394416809082
+LeafRot731,2,Leaf Rot,1.0
+LeafRot732,2,Leaf Rot,1.0
+LeafRot736,2,Leaf Rot,1.0
+LeafRot744,2,Leaf Rot,1.0
+LeafRot745,2,Leaf Rot,1.0
+LeafRot752,2,Leaf Rot,1.0
+LeafRot755,2,Leaf Rot,1.0
+LeafRot763,2,Leaf Rot,0.9999394416809082
+LeafRot766,2,Leaf Rot,0.9999945163726807
+LeafRot767,2,Leaf Rot,0.9999891519546509
+LeafRot768,2,Leaf Rot,0.9999881982803345
+LeafRot778,2,Leaf Rot,0.9983803033828735
+LeafRot784,2,Leaf Rot,0.999601423740387
+LeafRot797,2,Leaf Rot,0.9999997615814209
+LeafRot799,2,Leaf Rot,0.9999998807907104
+LeafRot809,2,Leaf Rot,0.9999971389770508
+LeafRot821,2,Leaf Rot,0.9999998807907104
+LeafRot824,2,Leaf Rot,0.9999995231628418
+LeafRot825,2,Leaf Rot,0.9999983310699463
+LeafRot828,2,Leaf Rot,1.0
+LeafRot831,2,Leaf Rot,1.0
+LeafRot834,2,Leaf Rot,1.0
+LeafRot840,2,Leaf Rot,1.0
+LeafRot844,2,Leaf Rot,1.0
+LeafRot847,2,Leaf Rot,1.0
+LeafRot854,2,Leaf Rot,1.0
+LeafRot855,2,Leaf Rot,1.0
+LeafRot869,2,Leaf Rot,1.0
+LeafRot870,2,Leaf Rot,1.0
+LeafRot871,2,Leaf Rot,1.0
+LeafRot882,2,Leaf Rot,0.9999998807907104
+LeafRot886,2,Leaf Rot,1.0
+LeafRot889,2,Leaf Rot,0.9999998807907104
+LeafRot895,2,Leaf Rot,1.0
+LeafRot897,2,Leaf Rot,1.0
+LeafRot899,2,Leaf Rot,1.0
+LeafRot900,2,Leaf Rot,1.0
+LeafRot903,2,Leaf Rot,1.0
+LeafRot904,2,Leaf Rot,1.0
+LeafRot906,2,Leaf Rot,1.0
+LeafRot910,2,Leaf Rot,1.0
+LeafRot916,2,Leaf Rot,1.0
+LeafRot924,2,Leaf Rot,1.0
+LeafRot927,2,Leaf Rot,1.0
+LeafRot929,2,Leaf Rot,1.0
+LeafRot931,2,Leaf Rot,1.0
+LeafRot936,2,Leaf Rot,1.0
+LeafRot942,2,Leaf Rot,1.0
+LeafRot944,2,Leaf Rot,1.0
+LeafRot956,2,Leaf Rot,1.0
+LeafRot961,2,Leaf Rot,1.0
+LeafRot963,2,Leaf Rot,1.0
+LeafRot966,2,Leaf Rot,0.999996542930603
+LeafRot968,2,Leaf Rot,1.0
+LeafRot975,2,Leaf Rot,0.9999997615814209
+LeafRot986,2,Leaf Rot,0.9999998807907104
+LeafRot992,2,Leaf Rot,1.0
+GrayLeafSpot003,3,Gray Leaf Spot,1.0
+GrayLeafSpot005,3,Gray Leaf Spot,1.0
+GrayLeafSpot013,3,Gray Leaf Spot,1.0
+GrayLeafSpot015,3,Gray Leaf Spot,1.0
+GrayLeafSpot021,3,Gray Leaf Spot,1.0
+GrayLeafSpot025,3,Gray Leaf Spot,1.0
+GrayLeafSpot027,3,Gray Leaf Spot,1.0
+GrayLeafSpot028,3,Gray Leaf Spot,1.0
+GrayLeafSpot037,3,Gray Leaf Spot,1.0
+GrayLeafSpot041,3,Gray Leaf Spot,1.0
+GrayLeafSpot045,3,Gray Leaf Spot,1.0
+GrayLeafSpot052,3,Gray Leaf Spot,1.0
+GrayLeafSpot059,3,Gray Leaf Spot,1.0
+GrayLeafSpot062,3,Gray Leaf Spot,1.0
+GrayLeafSpot064,3,Gray Leaf Spot,1.0
+GrayLeafSpot073,3,Gray Leaf Spot,1.0
+GrayLeafSpot076,3,Gray Leaf Spot,1.0
+GrayLeafSpot081,3,Gray Leaf Spot,1.0
+GrayLeafSpot088,3,Gray Leaf Spot,1.0
+GrayLeafSpot091,3,Gray Leaf Spot,1.0
+GrayLeafSpot100,3,Gray Leaf Spot,1.0
+GrayLeafSpot1000,3,Gray Leaf Spot,1.0
+GrayLeafSpot1008,3,Gray Leaf Spot,1.0
+GrayLeafSpot1009,3,Gray Leaf Spot,1.0
+GrayLeafSpot1010,3,Gray Leaf Spot,1.0
+GrayLeafSpot1013,3,Gray Leaf Spot,1.0
+GrayLeafSpot1015,3,Gray Leaf Spot,1.0
+GrayLeafSpot1017,3,Gray Leaf Spot,1.0
+GrayLeafSpot1023,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1025,3,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1033,3,Gray Leaf Spot,1.0
+GrayLeafSpot1034,3,Gray Leaf Spot,1.0
+GrayLeafSpot1040,3,Gray Leaf Spot,1.0
+GrayLeafSpot1044,3,Gray Leaf Spot,1.0
+GrayLeafSpot1045,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1049,3,Gray Leaf Spot,1.0
+GrayLeafSpot105,3,Gray Leaf Spot,1.0
+GrayLeafSpot1052,3,Gray Leaf Spot,0.9999971389770508
+GrayLeafSpot1054,3,Gray Leaf Spot,0.999966025352478
+GrayLeafSpot1057,3,Gray Leaf Spot,0.9999860525131226
+GrayLeafSpot1058,3,Gray Leaf Spot,0.9970665574073792
+GrayLeafSpot1059,3,Gray Leaf Spot,0.9995530247688293
+GrayLeafSpot1067,3,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1071,3,Gray Leaf Spot,0.9989523887634277
+GrayLeafSpot1073,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1079,3,Gray Leaf Spot,1.0
+GrayLeafSpot1080,3,Gray Leaf Spot,1.0
+GrayLeafSpot1082,3,Gray Leaf Spot,1.0
+GrayLeafSpot1092,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1094,3,Gray Leaf Spot,1.0
+GrayLeafSpot1100,3,Gray Leaf Spot,1.0
+GrayLeafSpot1110,3,Gray Leaf Spot,1.0
+GrayLeafSpot1111,3,Gray Leaf Spot,1.0
+GrayLeafSpot1115,3,Gray Leaf Spot,1.0
+GrayLeafSpot1118,3,Gray Leaf Spot,1.0
+GrayLeafSpot1119,3,Gray Leaf Spot,1.0
+GrayLeafSpot1126,3,Gray Leaf Spot,1.0
+GrayLeafSpot1128,3,Gray Leaf Spot,1.0
+GrayLeafSpot1130,3,Gray Leaf Spot,1.0
+GrayLeafSpot1132,3,Gray Leaf Spot,1.0
+GrayLeafSpot1134,3,Gray Leaf Spot,1.0
+GrayLeafSpot1135,3,Gray Leaf Spot,1.0
+GrayLeafSpot1147,3,Gray Leaf Spot,1.0
+GrayLeafSpot1151,3,Gray Leaf Spot,1.0
+GrayLeafSpot1158,3,Gray Leaf Spot,1.0
+GrayLeafSpot1161,3,Gray Leaf Spot,1.0
+GrayLeafSpot1164,3,Gray Leaf Spot,1.0
+GrayLeafSpot1177,3,Gray Leaf Spot,1.0
+GrayLeafSpot1181,3,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot1185,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1186,3,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1204,3,Gray Leaf Spot,1.0
+GrayLeafSpot1209,3,Gray Leaf Spot,1.0
+GrayLeafSpot1214,3,Gray Leaf Spot,1.0
+GrayLeafSpot1217,3,Gray Leaf Spot,1.0
+GrayLeafSpot1236,3,Gray Leaf Spot,1.0
+GrayLeafSpot1240,3,Gray Leaf Spot,1.0
+GrayLeafSpot1242,3,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1243,3,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1245,3,Gray Leaf Spot,1.0
+GrayLeafSpot1251,3,Gray Leaf Spot,0.999991774559021
+GrayLeafSpot1256,3,Gray Leaf Spot,0.9999703168869019
+GrayLeafSpot1258,3,Gray Leaf Spot,0.9999550580978394
+GrayLeafSpot1263,3,Gray Leaf Spot,1.0
+GrayLeafSpot1266,3,Gray Leaf Spot,1.0
+GrayLeafSpot1280,3,Gray Leaf Spot,1.0
+GrayLeafSpot1285,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1300,3,Gray Leaf Spot,0.9999929666519165
+GrayLeafSpot1321,3,Gray Leaf Spot,0.999970555305481
+GrayLeafSpot1327,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1335,3,Gray Leaf Spot,0.9999983310699463
+GrayLeafSpot1339,3,Gray Leaf Spot,0.9999712705612183
+GrayLeafSpot1340,3,Gray Leaf Spot,0.9999105930328369
+GrayLeafSpot1344,3,Gray Leaf Spot,1.0
+GrayLeafSpot135,3,Gray Leaf Spot,1.0
+GrayLeafSpot1354,3,Gray Leaf Spot,1.0
+GrayLeafSpot136,3,Gray Leaf Spot,1.0
+GrayLeafSpot1365,3,Gray Leaf Spot,1.0
+GrayLeafSpot1366,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1374,3,Gray Leaf Spot,1.0
+GrayLeafSpot1376,3,Gray Leaf Spot,1.0
+GrayLeafSpot1379,3,Gray Leaf Spot,1.0
+GrayLeafSpot138,3,Gray Leaf Spot,1.0
+GrayLeafSpot1381,3,Gray Leaf Spot,1.0
+GrayLeafSpot1383,3,Gray Leaf Spot,1.0
+GrayLeafSpot1385,3,Gray Leaf Spot,1.0
+GrayLeafSpot1387,3,Gray Leaf Spot,1.0
+GrayLeafSpot1389,3,Gray Leaf Spot,1.0
+GrayLeafSpot1396,3,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot141,3,Gray Leaf Spot,1.0
+GrayLeafSpot1411,3,Gray Leaf Spot,0.9999538660049438
+GrayLeafSpot142,3,Gray Leaf Spot,1.0
+GrayLeafSpot1420,3,Gray Leaf Spot,0.9999974966049194
+GrayLeafSpot1421,3,Gray Leaf Spot,0.9999234676361084
+GrayLeafSpot1424,3,Gray Leaf Spot,0.9999771118164062
+GrayLeafSpot1426,3,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot1429,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1441,3,Gray Leaf Spot,0.995471715927124
+GrayLeafSpot1444,3,Gray Leaf Spot,0.9924117922782898
+GrayLeafSpot1447,3,Gray Leaf Spot,0.9992451667785645
+GrayLeafSpot1449,3,Gray Leaf Spot,0.9998819828033447
+GrayLeafSpot1464,3,Gray Leaf Spot,1.0
+GrayLeafSpot1465,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1467,3,Gray Leaf Spot,1.0
+GrayLeafSpot1473,3,Gray Leaf Spot,1.0
+GrayLeafSpot1474,3,Gray Leaf Spot,1.0
+GrayLeafSpot1476,3,Gray Leaf Spot,1.0
+GrayLeafSpot1487,3,Gray Leaf Spot,0.9999300241470337
+GrayLeafSpot1491,3,Gray Leaf Spot,1.0
+GrayLeafSpot1495,3,Gray Leaf Spot,1.0
+GrayLeafSpot1498,3,Gray Leaf Spot,1.0
+GrayLeafSpot1500,3,Gray Leaf Spot,1.0
+GrayLeafSpot1503,3,Gray Leaf Spot,1.0
+GrayLeafSpot1513,3,Gray Leaf Spot,1.0
+GrayLeafSpot1514,3,Gray Leaf Spot,1.0
+GrayLeafSpot1517,3,Gray Leaf Spot,1.0
+GrayLeafSpot1518,3,Gray Leaf Spot,1.0
+GrayLeafSpot1523,3,Gray Leaf Spot,1.0
+GrayLeafSpot1524,3,Gray Leaf Spot,1.0
+GrayLeafSpot1526,3,Gray Leaf Spot,1.0
+GrayLeafSpot1528,3,Gray Leaf Spot,1.0
+GrayLeafSpot1531,3,Gray Leaf Spot,1.0
+GrayLeafSpot1535,3,Gray Leaf Spot,1.0
+GrayLeafSpot1536,3,Gray Leaf Spot,0.9997920393943787
+GrayLeafSpot1540,3,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1552,3,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot1558,3,Gray Leaf Spot,1.0
+GrayLeafSpot156,3,Gray Leaf Spot,1.0
+GrayLeafSpot1570,3,Gray Leaf Spot,1.0
+GrayLeafSpot1573,3,Gray Leaf Spot,1.0
+GrayLeafSpot158,3,Gray Leaf Spot,1.0
+GrayLeafSpot1581,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1586,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1598,3,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot1600,3,Gray Leaf Spot,0.9999980926513672
+GrayLeafSpot1601,3,Gray Leaf Spot,0.9999973773956299
+GrayLeafSpot1602,3,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1610,3,Gray Leaf Spot,0.9999761581420898
+GrayLeafSpot1612,3,Gray Leaf Spot,0.9999432563781738
+GrayLeafSpot1614,3,Gray Leaf Spot,0.9999797344207764
+GrayLeafSpot1616,3,Gray Leaf Spot,0.999993085861206
+GrayLeafSpot162,3,Gray Leaf Spot,1.0
+GrayLeafSpot1625,3,Gray Leaf Spot,1.0
+GrayLeafSpot1627,3,Gray Leaf Spot,1.0
+GrayLeafSpot1634,3,Gray Leaf Spot,1.0
+GrayLeafSpot1644,3,Gray Leaf Spot,1.0
+GrayLeafSpot1645,3,Gray Leaf Spot,1.0
+GrayLeafSpot1651,3,Gray Leaf Spot,1.0
+GrayLeafSpot1652,3,Gray Leaf Spot,1.0
+GrayLeafSpot1666,3,Gray Leaf Spot,1.0
+GrayLeafSpot1674,3,Gray Leaf Spot,1.0
+GrayLeafSpot1676,3,Gray Leaf Spot,1.0
+GrayLeafSpot168,3,Gray Leaf Spot,1.0
+GrayLeafSpot1686,3,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1691,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1700,3,Gray Leaf Spot,1.0
+GrayLeafSpot1707,3,Gray Leaf Spot,1.0
+GrayLeafSpot1718,3,Gray Leaf Spot,1.0
+GrayLeafSpot1724,3,Gray Leaf Spot,1.0
+GrayLeafSpot1733,3,Gray Leaf Spot,1.0
+GrayLeafSpot1736,3,Gray Leaf Spot,1.0
+GrayLeafSpot1737,3,Gray Leaf Spot,1.0
+GrayLeafSpot1738,3,Gray Leaf Spot,1.0
+GrayLeafSpot1739,3,Gray Leaf Spot,1.0
+GrayLeafSpot1748,3,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot1753,3,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot1758,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1762,3,Gray Leaf Spot,0.9999651908874512
+GrayLeafSpot1765,3,Gray Leaf Spot,0.9999746084213257
+GrayLeafSpot1772,3,Gray Leaf Spot,0.9999978542327881
+GrayLeafSpot1774,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1779,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1785,3,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1786,3,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1799,3,Gray Leaf Spot,1.0
+GrayLeafSpot1803,3,Gray Leaf Spot,0.9999957084655762
+GrayLeafSpot1807,3,Gray Leaf Spot,1.0
+GrayLeafSpot1809,3,Gray Leaf Spot,1.0
+GrayLeafSpot1814,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1821,3,Gray Leaf Spot,1.0
+GrayLeafSpot1823,3,Gray Leaf Spot,0.9999878406524658
+GrayLeafSpot1826,3,Gray Leaf Spot,0.999988317489624
+GrayLeafSpot1827,3,Gray Leaf Spot,0.999977707862854
+GrayLeafSpot1841,3,Gray Leaf Spot,1.0
+GrayLeafSpot1845,3,Gray Leaf Spot,1.0
+GrayLeafSpot1847,3,Gray Leaf Spot,1.0
+GrayLeafSpot1848,3,Gray Leaf Spot,1.0
+GrayLeafSpot1853,3,Gray Leaf Spot,1.0
+GrayLeafSpot1860,3,Gray Leaf Spot,1.0
+GrayLeafSpot1863,3,Gray Leaf Spot,1.0
+GrayLeafSpot1869,3,Gray Leaf Spot,1.0
+GrayLeafSpot1870,3,Gray Leaf Spot,1.0
+GrayLeafSpot1872,3,Gray Leaf Spot,1.0
+GrayLeafSpot1874,3,Gray Leaf Spot,1.0
+GrayLeafSpot188,3,Gray Leaf Spot,1.0
+GrayLeafSpot1885,3,Gray Leaf Spot,1.0
+GrayLeafSpot189,3,Gray Leaf Spot,1.0
+GrayLeafSpot1893,3,Gray Leaf Spot,1.0
+GrayLeafSpot1897,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1900,3,Gray Leaf Spot,0.9999978542327881
+GrayLeafSpot1905,3,Gray Leaf Spot,0.9999896287918091
+GrayLeafSpot1910,3,Gray Leaf Spot,0.9999843835830688
+GrayLeafSpot1914,3,Gray Leaf Spot,0.9999942779541016
+GrayLeafSpot1916,3,Gray Leaf Spot,0.9999643564224243
+GrayLeafSpot1923,3,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot1926,3,Gray Leaf Spot,0.999995231628418
+GrayLeafSpot1928,3,Gray Leaf Spot,1.0
+GrayLeafSpot1930,3,Gray Leaf Spot,1.0
+GrayLeafSpot1932,3,Gray Leaf Spot,1.0
+GrayLeafSpot1937,3,Gray Leaf Spot,1.0
+GrayLeafSpot1938,3,Gray Leaf Spot,1.0
+GrayLeafSpot194,3,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1943,3,Gray Leaf Spot,1.0
+GrayLeafSpot1945,3,Gray Leaf Spot,0.9999889135360718
+GrayLeafSpot1949,3,Gray Leaf Spot,0.9999903440475464
+GrayLeafSpot1953,3,Gray Leaf Spot,0.9968287348747253
+GrayLeafSpot1959,3,Gray Leaf Spot,0.9886477589607239
+GrayLeafSpot1963,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1964,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1965,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1966,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1967,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1976,3,Gray Leaf Spot,0.9999977350234985
+GrayLeafSpot1979,3,Gray Leaf Spot,0.999995231628418
+GrayLeafSpot1980,3,Gray Leaf Spot,0.9999876022338867
+GrayLeafSpot200,3,Gray Leaf Spot,1.0
+GrayLeafSpot2003,3,Gray Leaf Spot,1.0
+GrayLeafSpot2005,3,Gray Leaf Spot,1.0
+GrayLeafSpot2013,3,Gray Leaf Spot,0.9999971389770508
+GrayLeafSpot2015,3,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot2023,3,Gray Leaf Spot,0.9998226761817932
+GrayLeafSpot2024,3,Gray Leaf Spot,0.9998718500137329
+GrayLeafSpot2056,3,Gray Leaf Spot,1.0
+GrayLeafSpot2059,3,Gray Leaf Spot,1.0
+GrayLeafSpot206,3,Gray Leaf Spot,1.0
+GrayLeafSpot207,3,Gray Leaf Spot,1.0
+GrayLeafSpot2072,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot2077,3,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot2083,3,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot2092,3,Gray Leaf Spot,0.9999866485595703
+GrayLeafSpot2099,3,Gray Leaf Spot,0.999987006187439
+GrayLeafSpot210,3,Gray Leaf Spot,1.0
+GrayLeafSpot2100,3,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot2106,3,Gray Leaf Spot,0.9999979734420776
+GrayLeafSpot2108,3,Gray Leaf Spot,0.9999711513519287
+GrayLeafSpot2111,3,Gray Leaf Spot,0.9999423027038574
+GrayLeafSpot2112,3,Gray Leaf Spot,0.999907374382019
+GrayLeafSpot2117,3,Gray Leaf Spot,0.9999611377716064
+GrayLeafSpot212,3,Gray Leaf Spot,1.0
+GrayLeafSpot2120,3,Gray Leaf Spot,0.9999793767929077
+GrayLeafSpot2132,3,Gray Leaf Spot,0.9999954700469971
+GrayLeafSpot2135,3,Gray Leaf Spot,0.9998939037322998
+GrayLeafSpot214,3,Gray Leaf Spot,1.0
+GrayLeafSpot216,3,Gray Leaf Spot,1.0
+GrayLeafSpot220,3,Gray Leaf Spot,1.0
+GrayLeafSpot231,3,Gray Leaf Spot,1.0
+GrayLeafSpot233,3,Gray Leaf Spot,1.0
+GrayLeafSpot244,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot255,3,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot264,3,Gray Leaf Spot,1.0
+GrayLeafSpot267,3,Gray Leaf Spot,1.0
+GrayLeafSpot271,3,Gray Leaf Spot,1.0
+GrayLeafSpot274,3,Gray Leaf Spot,1.0
+GrayLeafSpot276,3,Gray Leaf Spot,1.0
+GrayLeafSpot283,3,Gray Leaf Spot,1.0
+GrayLeafSpot287,3,Gray Leaf Spot,1.0
+GrayLeafSpot289,3,Gray Leaf Spot,1.0
+GrayLeafSpot294,3,Gray Leaf Spot,1.0
+GrayLeafSpot295,3,Gray Leaf Spot,1.0
+GrayLeafSpot298,3,Gray Leaf Spot,1.0
+GrayLeafSpot301,3,Gray Leaf Spot,1.0
+GrayLeafSpot307,3,Gray Leaf Spot,1.0
+GrayLeafSpot316,3,Gray Leaf Spot,1.0
+GrayLeafSpot320,3,Leaf Rot,0.6814256906509399
+GrayLeafSpot322,3,Leaf Rot,0.5642155408859253
+GrayLeafSpot340,3,Gray Leaf Spot,0.5008255839347839
+GrayLeafSpot346,3,Gray Leaf Spot,1.0
+GrayLeafSpot350,3,Gray Leaf Spot,1.0
+GrayLeafSpot356,3,Gray Leaf Spot,1.0
+GrayLeafSpot364,3,Gray Leaf Spot,1.0
+GrayLeafSpot365,3,Gray Leaf Spot,1.0
+GrayLeafSpot370,3,Gray Leaf Spot,1.0
+GrayLeafSpot380,3,Gray Leaf Spot,1.0
+GrayLeafSpot382,3,Gray Leaf Spot,1.0
+GrayLeafSpot383,3,Gray Leaf Spot,1.0
+GrayLeafSpot387,3,Gray Leaf Spot,1.0
+GrayLeafSpot389,3,Gray Leaf Spot,1.0
+GrayLeafSpot396,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot409,3,Gray Leaf Spot,1.0
+GrayLeafSpot416,3,Gray Leaf Spot,1.0
+GrayLeafSpot429,3,Gray Leaf Spot,1.0
+GrayLeafSpot430,3,Gray Leaf Spot,1.0
+GrayLeafSpot438,3,Gray Leaf Spot,1.0
+GrayLeafSpot457,3,Gray Leaf Spot,1.0
+GrayLeafSpot460,3,Gray Leaf Spot,1.0
+GrayLeafSpot465,3,Gray Leaf Spot,1.0
+GrayLeafSpot470,3,Gray Leaf Spot,1.0
+GrayLeafSpot477,3,Gray Leaf Spot,1.0
+GrayLeafSpot488,3,Gray Leaf Spot,1.0
+GrayLeafSpot491,3,Gray Leaf Spot,1.0
+GrayLeafSpot501,3,Gray Leaf Spot,1.0
+GrayLeafSpot504,3,Gray Leaf Spot,1.0
+GrayLeafSpot505,3,Gray Leaf Spot,1.0
+GrayLeafSpot509,3,Gray Leaf Spot,1.0
+GrayLeafSpot519,3,Gray Leaf Spot,1.0
+GrayLeafSpot520,3,Gray Leaf Spot,1.0
+GrayLeafSpot527,3,Gray Leaf Spot,1.0
+GrayLeafSpot531,3,Gray Leaf Spot,1.0
+GrayLeafSpot543,3,Gray Leaf Spot,1.0
+GrayLeafSpot552,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot555,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot560,3,Gray Leaf Spot,1.0
+GrayLeafSpot567,3,Gray Leaf Spot,1.0
+GrayLeafSpot570,3,Gray Leaf Spot,1.0
+GrayLeafSpot575,3,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot582,3,Gray Leaf Spot,0.9999827146530151
+GrayLeafSpot594,3,Gray Leaf Spot,1.0
+GrayLeafSpot596,3,Gray Leaf Spot,1.0
+GrayLeafSpot598,3,Gray Leaf Spot,1.0
+GrayLeafSpot601,3,Gray Leaf Spot,0.9986094236373901
+GrayLeafSpot602,3,Gray Leaf Spot,0.9975608587265015
+GrayLeafSpot606,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot611,3,Gray Leaf Spot,1.0
+GrayLeafSpot618,3,Gray Leaf Spot,1.0
+GrayLeafSpot630,3,Gray Leaf Spot,1.0
+GrayLeafSpot632,3,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot648,3,Gray Leaf Spot,1.0
+GrayLeafSpot649,3,Gray Leaf Spot,1.0
+GrayLeafSpot654,3,Gray Leaf Spot,1.0
+GrayLeafSpot671,3,Gray Leaf Spot,0.9999924898147583
+GrayLeafSpot677,3,Gray Leaf Spot,0.9994984865188599
+GrayLeafSpot690,3,Gray Leaf Spot,0.9999942779541016
+GrayLeafSpot694,3,Gray Leaf Spot,1.0
+GrayLeafSpot696,3,Gray Leaf Spot,1.0
+GrayLeafSpot697,3,Gray Leaf Spot,1.0
+GrayLeafSpot719,3,Gray Leaf Spot,0.9999669790267944
+GrayLeafSpot723,3,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot724,3,Gray Leaf Spot,0.9999978542327881
+GrayLeafSpot727,3,Gray Leaf Spot,0.9999959468841553
+GrayLeafSpot728,3,Gray Leaf Spot,0.999996542930603
+GrayLeafSpot732,3,Gray Leaf Spot,1.0
+GrayLeafSpot734,3,Gray Leaf Spot,1.0
+GrayLeafSpot741,3,Gray Leaf Spot,1.0
+GrayLeafSpot744,3,Gray Leaf Spot,1.0
+GrayLeafSpot746,3,Gray Leaf Spot,1.0
+GrayLeafSpot756,3,Gray Leaf Spot,1.0
+GrayLeafSpot757,3,Gray Leaf Spot,1.0
+GrayLeafSpot758,3,Gray Leaf Spot,1.0
+GrayLeafSpot766,3,Gray Leaf Spot,1.0
+GrayLeafSpot777,3,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot782,3,Gray Leaf Spot,0.9999953508377075
+GrayLeafSpot784,3,Gray Leaf Spot,0.9999822378158569
+GrayLeafSpot791,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot797,3,Gray Leaf Spot,1.0
+GrayLeafSpot798,3,Gray Leaf Spot,1.0
+GrayLeafSpot807,3,Gray Leaf Spot,1.0
+GrayLeafSpot808,3,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot813,3,Gray Leaf Spot,0.9999849796295166
+GrayLeafSpot814,3,Gray Leaf Spot,0.9999948740005493
+GrayLeafSpot821,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot824,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot826,3,Gray Leaf Spot,1.0
+GrayLeafSpot830,3,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot837,3,Gray Leaf Spot,0.9999916553497314
+GrayLeafSpot844,3,Gray Leaf Spot,1.0
+GrayLeafSpot849,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot852,3,Gray Leaf Spot,1.0
+GrayLeafSpot853,3,Gray Leaf Spot,1.0
+GrayLeafSpot854,3,Gray Leaf Spot,1.0
+GrayLeafSpot857,3,Gray Leaf Spot,1.0
+GrayLeafSpot861,3,Gray Leaf Spot,1.0
+GrayLeafSpot863,3,Gray Leaf Spot,1.0
+GrayLeafSpot864,3,Gray Leaf Spot,1.0
+GrayLeafSpot866,3,Gray Leaf Spot,1.0
+GrayLeafSpot867,3,Gray Leaf Spot,1.0
+GrayLeafSpot868,3,Gray Leaf Spot,1.0
+GrayLeafSpot869,3,Gray Leaf Spot,1.0
+GrayLeafSpot875,3,Gray Leaf Spot,1.0
+GrayLeafSpot888,3,Gray Leaf Spot,1.0
+GrayLeafSpot890,3,Gray Leaf Spot,1.0
+GrayLeafSpot892,3,Gray Leaf Spot,1.0
+GrayLeafSpot897,3,Gray Leaf Spot,0.9999964237213135
+GrayLeafSpot898,3,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot904,3,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot907,3,Gray Leaf Spot,0.9999830722808838
+GrayLeafSpot911,3,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot921,3,Gray Leaf Spot,1.0
+GrayLeafSpot927,3,Gray Leaf Spot,1.0
+GrayLeafSpot934,3,Gray Leaf Spot,1.0
+GrayLeafSpot935,3,Gray Leaf Spot,1.0
+GrayLeafSpot948,3,Gray Leaf Spot,1.0
+GrayLeafSpot967,3,Gray Leaf Spot,1.0
+GrayLeafSpot968,3,Gray Leaf Spot,1.0
+GrayLeafSpot969,3,Gray Leaf Spot,1.0
+GrayLeafSpot972,3,Gray Leaf Spot,1.0
+GrayLeafSpot977,3,Gray Leaf Spot,1.0
+GrayLeafSpot979,3,Gray Leaf Spot,1.0
+LeafRot003,3,Leaf Rot,1.0
+LeafRot005,3,Leaf Rot,1.0
+LeafRot008,3,Leaf Rot,1.0
+LeafRot011,3,Leaf Rot,1.0
+LeafRot045,3,Leaf Rot,0.5294045209884644
+LeafRot047,3,Leaf Rot,0.5059947967529297
+LeafRot048,3,Gray Leaf Spot,0.5199666619300842
+LeafRot052,3,Gray Leaf Spot,0.527132511138916
+LeafRot060,3,Leaf Rot,1.0
+LeafRot075,3,Leaf Rot,1.0
+LeafRot076,3,Leaf Rot,1.0
+LeafRot1004,3,Leaf Rot,1.0
+LeafRot101,3,Leaf Rot,0.9999985694885254
+LeafRot1015,3,Leaf Rot,1.0
+LeafRot1019,3,Leaf Rot,1.0
+LeafRot1023,3,Leaf Rot,1.0
+LeafRot1024,3,Leaf Rot,1.0
+LeafRot1032,3,Leaf Rot,1.0
+LeafRot1038,3,Leaf Rot,1.0
+LeafRot1042,3,Leaf Rot,1.0
+LeafRot1045,3,Leaf Rot,1.0
+LeafRot105,3,Leaf Rot,1.0
+LeafRot1060,3,Leaf Rot,1.0
+LeafRot1067,3,Leaf Rot,1.0
+LeafRot1079,3,Leaf Rot,1.0
+LeafRot1081,3,Leaf Rot,1.0
+LeafRot1083,3,Leaf Rot,1.0
+LeafRot1085,3,Leaf Rot,1.0
+LeafRot109,3,Leaf Rot,1.0
+LeafRot1098,3,Leaf Rot,1.0
+LeafRot110,3,Leaf Rot,1.0
+LeafRot1101,3,Leaf Rot,1.0
+LeafRot1102,3,Leaf Rot,1.0
+LeafRot1104,3,Leaf Rot,1.0
+LeafRot1108,3,Leaf Rot,0.9999998807907104
+LeafRot1120,3,Leaf Rot,1.0
+LeafRot1121,3,Leaf Rot,1.0
+LeafRot1122,3,Leaf Rot,1.0
+LeafRot1124,3,Leaf Rot,1.0
+LeafRot1133,3,Leaf Rot,1.0
+LeafRot1137,3,Leaf Rot,1.0
+LeafRot1139,3,Leaf Rot,1.0
+LeafRot1140,3,Leaf Rot,1.0
+LeafRot1147,3,Leaf Rot,1.0
+LeafRot115,3,Leaf Rot,1.0
+LeafRot1151,3,Leaf Rot,1.0
+LeafRot1152,3,Leaf Rot,1.0
+LeafRot1162,3,Leaf Rot,1.0
+LeafRot1163,3,Leaf Rot,1.0
+LeafRot1167,3,Leaf Rot,1.0
+LeafRot1169,3,Leaf Rot,1.0
+LeafRot117,3,Leaf Rot,1.0
+LeafRot1172,3,Leaf Rot,1.0
+LeafRot1177,3,Leaf Rot,1.0
+LeafRot1178,3,Leaf Rot,1.0
+LeafRot1183,3,Leaf Rot,1.0
+LeafRot1194,3,Leaf Rot,1.0
+LeafRot1195,3,Leaf Rot,1.0
+LeafRot1206,3,Leaf Rot,1.0
+LeafRot1209,3,Leaf Rot,1.0
+LeafRot1210,3,Leaf Rot,1.0
+LeafRot1219,3,Leaf Rot,1.0
+LeafRot122,3,Leaf Rot,1.0
+LeafRot1220,3,Leaf Rot,1.0
+LeafRot1223,3,Leaf Rot,1.0
+LeafRot1231,3,Leaf Rot,1.0
+LeafRot1243,3,Leaf Rot,1.0
+LeafRot1244,3,Leaf Rot,1.0
+LeafRot1246,3,Leaf Rot,1.0
+LeafRot1253,3,Leaf Rot,1.0
+LeafRot1264,3,Leaf Rot,1.0
+LeafRot1268,3,Leaf Rot,1.0
+LeafRot1273,3,Leaf Rot,1.0
+LeafRot1274,3,Leaf Rot,1.0
+LeafRot1286,3,Leaf Rot,1.0
+LeafRot1287,3,Leaf Rot,1.0
+LeafRot1288,3,Leaf Rot,1.0
+LeafRot1290,3,Leaf Rot,1.0
+LeafRot1295,3,Leaf Rot,1.0
+LeafRot1296,3,Leaf Rot,1.0
+LeafRot130,3,Leaf Rot,1.0
+LeafRot1304,3,Leaf Rot,1.0
+LeafRot131,3,Leaf Rot,1.0
+LeafRot1316,3,Leaf Rot,1.0
+LeafRot1319,3,Leaf Rot,1.0
+LeafRot1321,3,Leaf Rot,1.0
+LeafRot1327,3,Leaf Rot,1.0
+LeafRot1328,3,Leaf Rot,1.0
+LeafRot1333,3,Leaf Rot,1.0
+LeafRot1334,3,Leaf Rot,1.0
+LeafRot1336,3,Leaf Rot,1.0
+LeafRot1337,3,Leaf Rot,1.0
+LeafRot1340,3,Leaf Rot,1.0
+LeafRot1350,3,Leaf Rot,1.0
+LeafRot136,3,Leaf Rot,1.0
+LeafRot1368,3,Leaf Rot,1.0
+LeafRot1371,3,Leaf Rot,1.0
+LeafRot1372,3,Leaf Rot,0.999970555305481
+LeafRot1377,3,Leaf Rot,1.0
+LeafRot1391,3,Leaf Rot,1.0
+LeafRot1392,3,Leaf Rot,1.0
+LeafRot1396,3,Leaf Rot,1.0
+LeafRot1401,3,Leaf Rot,1.0
+LeafRot1402,3,Leaf Rot,1.0
+LeafRot1409,3,Leaf Rot,1.0
+LeafRot1412,3,Leaf Rot,1.0
+LeafRot1438,3,Leaf Rot,1.0
+LeafRot144,3,Leaf Rot,1.0
+LeafRot1440,3,Leaf Rot,1.0
+LeafRot1441,3,Leaf Rot,1.0
+LeafRot1449,3,Leaf Rot,1.0
+LeafRot1454,3,Leaf Rot,1.0
+LeafRot1456,3,Leaf Rot,1.0
+LeafRot1458,3,Leaf Rot,1.0
+LeafRot1459,3,Leaf Rot,1.0
+LeafRot1461,3,Leaf Rot,1.0
+LeafRot1463,3,Leaf Rot,1.0
+LeafRot1471,3,Leaf Rot,1.0
+LeafRot1474,3,Leaf Rot,1.0
+LeafRot148,3,Leaf Rot,1.0
+LeafRot1483,3,Leaf Rot,1.0
+LeafRot1491,3,Leaf Rot,1.0
+LeafRot1493,3,Leaf Rot,1.0
+LeafRot1496,3,Leaf Rot,1.0
+LeafRot1500,3,Leaf Rot,1.0
+LeafRot1502,3,Leaf Rot,1.0
+LeafRot1504,3,Leaf Rot,1.0
+LeafRot1505,3,Leaf Rot,1.0
+LeafRot1506,3,Leaf Rot,1.0
+LeafRot1509,3,Leaf Rot,1.0
+LeafRot1516,3,Leaf Rot,1.0
+LeafRot1519,3,Leaf Rot,1.0
+LeafRot1529,3,Leaf Rot,1.0
+LeafRot1533,3,Leaf Rot,1.0
+LeafRot1534,3,Leaf Rot,1.0
+LeafRot1536,3,Leaf Rot,1.0
+LeafRot1548,3,Leaf Rot,1.0
+LeafRot1552,3,Leaf Rot,1.0
+LeafRot1554,3,Leaf Rot,1.0
+LeafRot1555,3,Leaf Rot,1.0
+LeafRot1558,3,Leaf Rot,1.0
+LeafRot1561,3,Leaf Rot,1.0
+LeafRot1566,3,Leaf Rot,1.0
+LeafRot1568,3,Leaf Rot,1.0
+LeafRot1574,3,Leaf Rot,1.0
+LeafRot1578,3,Leaf Rot,1.0
+LeafRot158,3,Leaf Rot,1.0
+LeafRot1583,3,Leaf Rot,1.0
+LeafRot1585,3,Leaf Rot,1.0
+LeafRot1586,3,Leaf Rot,1.0
+LeafRot1588,3,Leaf Rot,1.0
+LeafRot1596,3,Leaf Rot,1.0
+LeafRot1598,3,Leaf Rot,1.0
+LeafRot1603,3,Leaf Rot,1.0
+LeafRot1612,3,Leaf Rot,1.0
+LeafRot1613,3,Leaf Rot,1.0
+LeafRot1617,3,Leaf Rot,1.0
+LeafRot1624,3,Leaf Rot,1.0
+LeafRot1629,3,Leaf Rot,1.0
+LeafRot1634,3,Leaf Rot,1.0
+LeafRot1646,3,Leaf Rot,1.0
+LeafRot1649,3,Leaf Rot,1.0
+LeafRot1650,3,Leaf Rot,1.0
+LeafRot1653,3,Leaf Rot,1.0
+LeafRot1655,3,Leaf Rot,1.0
+LeafRot1661,3,Leaf Rot,1.0
+LeafRot1669,3,Leaf Rot,1.0
+LeafRot168,3,Leaf Rot,1.0
+LeafRot172,3,Leaf Rot,1.0
+LeafRot174,3,Leaf Rot,1.0
+LeafRot177,3,Leaf Rot,1.0
+LeafRot179,3,Leaf Rot,1.0
+LeafRot182,3,Leaf Rot,1.0
+LeafRot184,3,Leaf Rot,1.0
+LeafRot185,3,Leaf Rot,1.0
+LeafRot186,3,Leaf Rot,1.0
+LeafRot190,3,Leaf Rot,1.0
+LeafRot191,3,Leaf Rot,1.0
+LeafRot193,3,Leaf Rot,1.0
+LeafRot195,3,Leaf Rot,1.0
+LeafRot198,3,Leaf Rot,1.0
+LeafRot204,3,Leaf Rot,1.0
+LeafRot205,3,Leaf Rot,1.0
+LeafRot208,3,Leaf Rot,1.0
+LeafRot209,3,Leaf Rot,1.0
+LeafRot214,3,Leaf Rot,1.0
+LeafRot223,3,Leaf Rot,1.0
+LeafRot226,3,Leaf Rot,1.0
+LeafRot238,3,Leaf Rot,1.0
+LeafRot244,3,Leaf Rot,1.0
+LeafRot252,3,Leaf Rot,1.0
+LeafRot254,3,Leaf Rot,1.0
+LeafRot256,3,Leaf Rot,1.0
+LeafRot258,3,Leaf Rot,1.0
+LeafRot261,3,Leaf Rot,1.0
+LeafRot263,3,Leaf Rot,1.0
+LeafRot264,3,Leaf Rot,1.0
+LeafRot271,3,Leaf Rot,1.0
+LeafRot272,3,Leaf Rot,1.0
+LeafRot275,3,Leaf Rot,1.0
+LeafRot281,3,Leaf Rot,1.0
+LeafRot301,3,Leaf Rot,1.0
+LeafRot305,3,Leaf Rot,1.0
+LeafRot306,3,Leaf Rot,1.0
+LeafRot309,3,Leaf Rot,1.0
+LeafRot310,3,Leaf Rot,1.0
+LeafRot314,3,Leaf Rot,1.0
+LeafRot334,3,Leaf Rot,1.0
+LeafRot337,3,Leaf Rot,1.0
+LeafRot342,3,Leaf Rot,1.0
+LeafRot343,3,Leaf Rot,1.0
+LeafRot359,3,Leaf Rot,1.0
+LeafRot361,3,Leaf Rot,1.0
+LeafRot363,3,Leaf Rot,1.0
+LeafRot365,3,Leaf Rot,1.0
+LeafRot391,3,Leaf Rot,1.0
+LeafRot394,3,Leaf Rot,1.0
+LeafRot395,3,Leaf Rot,1.0
+LeafRot400,3,Leaf Rot,1.0
+LeafRot410,3,Leaf Rot,1.0
+LeafRot425,3,Leaf Rot,1.0
+LeafRot426,3,Leaf Rot,1.0
+LeafRot427,3,Leaf Rot,1.0
+LeafRot434,3,Leaf Rot,1.0
+LeafRot440,3,Leaf Rot,1.0
+LeafRot447,3,Leaf Rot,0.9999992847442627
+LeafRot453,3,Leaf Rot,1.0
+LeafRot459,3,Leaf Rot,1.0
+LeafRot462,3,Leaf Rot,1.0
+LeafRot467,3,Leaf Rot,1.0
+LeafRot469,3,Leaf Rot,1.0
+LeafRot480,3,Leaf Rot,1.0
+LeafRot482,3,Leaf Rot,1.0
+LeafRot488,3,Leaf Rot,1.0
+LeafRot493,3,Leaf Rot,1.0
+LeafRot497,3,Leaf Rot,1.0
+LeafRot499,3,Leaf Rot,0.9999914169311523
+LeafRot506,3,Leaf Rot,1.0
+LeafRot508,3,Leaf Rot,1.0
+LeafRot510,3,Leaf Rot,1.0
+LeafRot512,3,Leaf Rot,1.0
+LeafRot516,3,Leaf Rot,1.0
+LeafRot521,3,Leaf Rot,1.0
+LeafRot524,3,Leaf Rot,1.0
+LeafRot526,3,Leaf Rot,1.0
+LeafRot527,3,Leaf Rot,1.0
+LeafRot531,3,Leaf Rot,1.0
+LeafRot542,3,Leaf Rot,1.0
+LeafRot543,3,Leaf Rot,1.0
+LeafRot545,3,Leaf Rot,1.0
+LeafRot557,3,Leaf Rot,1.0
+LeafRot559,3,Leaf Rot,1.0
+LeafRot560,3,Leaf Rot,1.0
+LeafRot565,3,Leaf Rot,1.0
+LeafRot569,3,Leaf Rot,1.0
+LeafRot574,3,Leaf Rot,1.0
+LeafRot576,3,Leaf Rot,1.0
+LeafRot579,3,Leaf Rot,1.0
+LeafRot583,3,Leaf Rot,1.0
+LeafRot588,3,Leaf Rot,1.0
+LeafRot590,3,Leaf Rot,1.0
+LeafRot594,3,Leaf Rot,1.0
+LeafRot596,3,Leaf Rot,1.0
+LeafRot601,3,Leaf Rot,1.0
+LeafRot607,3,Leaf Rot,1.0
+LeafRot613,3,Leaf Rot,1.0
+LeafRot617,3,Leaf Rot,1.0
+LeafRot637,3,Leaf Rot,1.0
+LeafRot638,3,Leaf Rot,1.0
+LeafRot651,3,Leaf Rot,1.0
+LeafRot653,3,Leaf Rot,1.0
+LeafRot656,3,Leaf Rot,1.0
+LeafRot658,3,Leaf Rot,1.0
+LeafRot672,3,Leaf Rot,1.0
+LeafRot675,3,Leaf Rot,1.0
+LeafRot680,3,Leaf Rot,1.0
+LeafRot682,3,Leaf Rot,1.0
+LeafRot687,3,Leaf Rot,1.0
+LeafRot689,3,Leaf Rot,1.0
+LeafRot690,3,Leaf Rot,1.0
+LeafRot695,3,Leaf Rot,1.0
+LeafRot696,3,Leaf Rot,1.0
+LeafRot699,3,Leaf Rot,1.0
+LeafRot707,3,Leaf Rot,1.0
+LeafRot714,3,Leaf Rot,1.0
+LeafRot723,3,Leaf Rot,1.0
+LeafRot725,3,Leaf Rot,1.0
+LeafRot727,3,Leaf Rot,1.0
+LeafRot749,3,Leaf Rot,1.0
+LeafRot753,3,Leaf Rot,1.0
+LeafRot758,3,Leaf Rot,1.0
+LeafRot775,3,Leaf Rot,1.0
+LeafRot785,3,Leaf Rot,1.0
+LeafRot786,3,Leaf Rot,1.0
+LeafRot787,3,Leaf Rot,1.0
+LeafRot789,3,Leaf Rot,1.0
+LeafRot790,3,Leaf Rot,1.0
+LeafRot794,3,Leaf Rot,1.0
+LeafRot803,3,Leaf Rot,1.0
+LeafRot808,3,Leaf Rot,1.0
+LeafRot811,3,Leaf Rot,1.0
+LeafRot819,3,Leaf Rot,1.0
+LeafRot822,3,Leaf Rot,1.0
+LeafRot826,3,Leaf Rot,1.0
+LeafRot827,3,Leaf Rot,1.0
+LeafRot829,3,Leaf Rot,1.0
+LeafRot832,3,Leaf Rot,1.0
+LeafRot835,3,Leaf Rot,1.0
+LeafRot836,3,Leaf Rot,1.0
+LeafRot842,3,Leaf Rot,1.0
+LeafRot846,3,Leaf Rot,1.0
+LeafRot850,3,Leaf Rot,1.0
+LeafRot856,3,Leaf Rot,1.0
+LeafRot866,3,Leaf Rot,1.0
+LeafRot879,3,Leaf Rot,1.0
+LeafRot881,3,Leaf Rot,1.0
+LeafRot891,3,Leaf Rot,1.0
+LeafRot898,3,Leaf Rot,1.0
+LeafRot908,3,Leaf Rot,1.0
+LeafRot909,3,Leaf Rot,1.0
+LeafRot917,3,Leaf Rot,1.0
+LeafRot921,3,Leaf Rot,1.0
+LeafRot922,3,Leaf Rot,0.9999986886978149
+LeafRot928,3,Leaf Rot,1.0
+LeafRot930,3,Leaf Rot,1.0
+LeafRot935,3,Leaf Rot,1.0
+LeafRot947,3,Leaf Rot,0.9999986886978149
+LeafRot950,3,Leaf Rot,0.9999915361404419
+LeafRot953,3,Leaf Rot,0.9999966621398926
+LeafRot965,3,Leaf Rot,1.0
+LeafRot971,3,Leaf Rot,1.0
+LeafRot972,3,Leaf Rot,1.0
+LeafRot979,3,Leaf Rot,1.0
+LeafRot980,3,Leaf Rot,1.0
+LeafRot982,3,Leaf Rot,1.0
+LeafRot983,3,Leaf Rot,1.0
+LeafRot985,3,Leaf Rot,1.0
+LeafRot994,3,Leaf Rot,1.0
+LeafRot995,3,Leaf Rot,1.0
+LeafRot996,3,Leaf Rot,1.0
+GrayLeafSpot001,4,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot006,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot008,4,Gray Leaf Spot,0.9999970197677612
+GrayLeafSpot012,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot014,4,Gray Leaf Spot,0.9999946355819702
+GrayLeafSpot017,4,Gray Leaf Spot,0.9999818801879883
+GrayLeafSpot018,4,Gray Leaf Spot,0.9999969005584717
+GrayLeafSpot019,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot030,4,Gray Leaf Spot,0.999995231628418
+GrayLeafSpot031,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot032,4,Gray Leaf Spot,1.0
+GrayLeafSpot033,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot044,4,Gray Leaf Spot,0.999969482421875
+GrayLeafSpot048,4,Gray Leaf Spot,0.9999960660934448
+GrayLeafSpot049,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot058,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot061,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot065,4,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot067,4,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot071,4,Gray Leaf Spot,1.0
+GrayLeafSpot074,4,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot080,4,Gray Leaf Spot,0.9999256134033203
+GrayLeafSpot084,4,Gray Leaf Spot,0.9999881982803345
+GrayLeafSpot085,4,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot092,4,Gray Leaf Spot,1.0
+GrayLeafSpot1006,4,Gray Leaf Spot,1.0
+GrayLeafSpot101,4,Gray Leaf Spot,1.0
+GrayLeafSpot1020,4,Gray Leaf Spot,0.9999361038208008
+GrayLeafSpot1024,4,Gray Leaf Spot,0.9998944997787476
+GrayLeafSpot1035,4,Gray Leaf Spot,0.9999916553497314
+GrayLeafSpot1038,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1042,4,Gray Leaf Spot,0.9999871253967285
+GrayLeafSpot1048,4,Gray Leaf Spot,0.9999113082885742
+GrayLeafSpot1062,4,Gray Leaf Spot,0.9999233484268188
+GrayLeafSpot1065,4,Gray Leaf Spot,0.9999780654907227
+GrayLeafSpot1070,4,Gray Leaf Spot,0.9999936819076538
+GrayLeafSpot1072,4,Gray Leaf Spot,0.9999868869781494
+GrayLeafSpot108,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1088,4,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot109,4,Gray Leaf Spot,0.999995231628418
+GrayLeafSpot1091,4,Gray Leaf Spot,0.9999411106109619
+GrayLeafSpot1095,4,Gray Leaf Spot,1.0
+GrayLeafSpot110,4,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot1106,4,Gray Leaf Spot,1.0
+GrayLeafSpot1116,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1117,4,Gray Leaf Spot,1.0
+GrayLeafSpot1121,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1136,4,Gray Leaf Spot,1.0
+GrayLeafSpot1138,4,Gray Leaf Spot,1.0
+GrayLeafSpot1142,4,Gray Leaf Spot,1.0
+GrayLeafSpot1154,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1162,4,Gray Leaf Spot,0.9999935626983643
+GrayLeafSpot1163,4,Gray Leaf Spot,0.9999986886978149
+GrayLeafSpot1166,4,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot1167,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1170,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1171,4,Gray Leaf Spot,0.9999936819076538
+GrayLeafSpot1175,4,Gray Leaf Spot,0.9999939203262329
+GrayLeafSpot1180,4,Gray Leaf Spot,0.9999986886978149
+GrayLeafSpot1187,4,Gray Leaf Spot,0.9999964237213135
+GrayLeafSpot1189,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1192,4,Gray Leaf Spot,0.9999984502792358
+GrayLeafSpot1196,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1197,4,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot1202,4,Gray Leaf Spot,0.9999852180480957
+GrayLeafSpot1219,4,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot1225,4,Gray Leaf Spot,0.9999983310699463
+GrayLeafSpot1244,4,Gray Leaf Spot,1.0
+GrayLeafSpot125,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1254,4,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot1261,4,Gray Leaf Spot,1.0
+GrayLeafSpot127,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1279,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1281,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1286,4,Gray Leaf Spot,0.9999697208404541
+GrayLeafSpot1287,4,Gray Leaf Spot,0.9998751878738403
+GrayLeafSpot1288,4,Gray Leaf Spot,0.9995067119598389
+GrayLeafSpot129,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1293,4,Gray Leaf Spot,0.9736031889915466
+GrayLeafSpot1294,4,Gray Leaf Spot,0.9565985798835754
+GrayLeafSpot1295,4,Gray Leaf Spot,0.9680342078208923
+GrayLeafSpot1296,4,Gray Leaf Spot,0.9862620830535889
+GrayLeafSpot1297,4,Gray Leaf Spot,0.9798015356063843
+GrayLeafSpot1298,4,Gray Leaf Spot,0.9969404935836792
+GrayLeafSpot1302,4,Gray Leaf Spot,0.9998685121536255
+GrayLeafSpot1311,4,Gray Leaf Spot,0.9996252059936523
+GrayLeafSpot1313,4,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot1317,4,Gray Leaf Spot,0.9999966621398926
+GrayLeafSpot1319,4,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1322,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1323,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1324,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot133,4,Gray Leaf Spot,1.0
+GrayLeafSpot1332,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1337,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1345,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1349,4,Gray Leaf Spot,1.0
+GrayLeafSpot1353,4,Gray Leaf Spot,1.0
+GrayLeafSpot1355,4,Gray Leaf Spot,0.9999973773956299
+GrayLeafSpot1356,4,Gray Leaf Spot,0.9999939203262329
+GrayLeafSpot1357,4,Gray Leaf Spot,0.9999920129776001
+GrayLeafSpot1359,4,Gray Leaf Spot,0.9999794960021973
+GrayLeafSpot1371,4,Gray Leaf Spot,0.9999922513961792
+GrayLeafSpot1388,4,Gray Leaf Spot,0.9999964237213135
+GrayLeafSpot1395,4,Gray Leaf Spot,0.9999858140945435
+GrayLeafSpot1413,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1446,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1448,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1450,4,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot1454,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1472,4,Gray Leaf Spot,0.9999575614929199
+GrayLeafSpot1479,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1483,4,Gray Leaf Spot,0.9999974966049194
+GrayLeafSpot1490,4,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot1509,4,Gray Leaf Spot,1.0
+GrayLeafSpot151,4,Gray Leaf Spot,0.999975323677063
+GrayLeafSpot1515,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1516,4,Gray Leaf Spot,1.0
+GrayLeafSpot1521,4,Gray Leaf Spot,1.0
+GrayLeafSpot1527,4,Gray Leaf Spot,1.0
+GrayLeafSpot1539,4,Gray Leaf Spot,1.0
+GrayLeafSpot1543,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1545,4,Gray Leaf Spot,1.0
+GrayLeafSpot1547,4,Gray Leaf Spot,1.0
+GrayLeafSpot155,4,Gray Leaf Spot,1.0
+GrayLeafSpot1551,4,Gray Leaf Spot,1.0
+GrayLeafSpot1555,4,Gray Leaf Spot,1.0
+GrayLeafSpot1559,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1564,4,Gray Leaf Spot,1.0
+GrayLeafSpot1569,4,Gray Leaf Spot,1.0
+GrayLeafSpot1588,4,Gray Leaf Spot,1.0
+GrayLeafSpot1591,4,Gray Leaf Spot,1.0
+GrayLeafSpot1594,4,Gray Leaf Spot,1.0
+GrayLeafSpot1596,4,Gray Leaf Spot,1.0
+GrayLeafSpot1604,4,Gray Leaf Spot,1.0
+GrayLeafSpot1607,4,Gray Leaf Spot,1.0
+GrayLeafSpot1615,4,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot1617,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1622,4,Gray Leaf Spot,1.0
+GrayLeafSpot1624,4,Gray Leaf Spot,1.0
+GrayLeafSpot1635,4,Gray Leaf Spot,1.0
+GrayLeafSpot1636,4,Gray Leaf Spot,1.0
+GrayLeafSpot1640,4,Gray Leaf Spot,1.0
+GrayLeafSpot1643,4,Gray Leaf Spot,1.0
+GrayLeafSpot1646,4,Gray Leaf Spot,1.0
+GrayLeafSpot165,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1657,4,Gray Leaf Spot,1.0
+GrayLeafSpot1659,4,Gray Leaf Spot,1.0
+GrayLeafSpot1667,4,Gray Leaf Spot,1.0
+GrayLeafSpot1683,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1685,4,Gray Leaf Spot,1.0
+GrayLeafSpot169,4,Gray Leaf Spot,0.9999887943267822
+GrayLeafSpot1692,4,Gray Leaf Spot,0.9999986886978149
+GrayLeafSpot1696,4,Gray Leaf Spot,1.0
+GrayLeafSpot1699,4,Gray Leaf Spot,1.0
+GrayLeafSpot1701,4,Gray Leaf Spot,1.0
+GrayLeafSpot1702,4,Gray Leaf Spot,1.0
+GrayLeafSpot1705,4,Gray Leaf Spot,1.0
+GrayLeafSpot1715,4,Gray Leaf Spot,1.0
+GrayLeafSpot1717,4,Gray Leaf Spot,1.0
+GrayLeafSpot1720,4,Gray Leaf Spot,1.0
+GrayLeafSpot1723,4,Gray Leaf Spot,1.0
+GrayLeafSpot1735,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1742,4,Gray Leaf Spot,1.0
+GrayLeafSpot1743,4,Gray Leaf Spot,1.0
+GrayLeafSpot1749,4,Gray Leaf Spot,1.0
+GrayLeafSpot1751,4,Gray Leaf Spot,1.0
+GrayLeafSpot1757,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1760,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1761,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1764,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1768,4,Gray Leaf Spot,1.0
+GrayLeafSpot177,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot178,4,Gray Leaf Spot,0.9999958276748657
+GrayLeafSpot1780,4,Gray Leaf Spot,0.9999958276748657
+GrayLeafSpot1783,4,Gray Leaf Spot,0.9999921321868896
+GrayLeafSpot1784,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1788,4,Gray Leaf Spot,1.0
+GrayLeafSpot1789,4,Gray Leaf Spot,1.0
+GrayLeafSpot179,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1790,4,Gray Leaf Spot,1.0
+GrayLeafSpot1792,4,Gray Leaf Spot,1.0
+GrayLeafSpot1793,4,Gray Leaf Spot,1.0
+GrayLeafSpot180,4,Gray Leaf Spot,1.0
+GrayLeafSpot1800,4,Gray Leaf Spot,1.0
+GrayLeafSpot181,4,Gray Leaf Spot,1.0
+GrayLeafSpot1812,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1817,4,Gray Leaf Spot,1.0
+GrayLeafSpot182,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1820,4,Gray Leaf Spot,1.0
+GrayLeafSpot1822,4,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1830,4,Gray Leaf Spot,0.9999983310699463
+GrayLeafSpot1833,4,Gray Leaf Spot,0.9999958276748657
+GrayLeafSpot1834,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1835,4,Gray Leaf Spot,1.0
+GrayLeafSpot1836,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot184,4,Gray Leaf Spot,1.0
+GrayLeafSpot1844,4,Gray Leaf Spot,1.0
+GrayLeafSpot1857,4,Gray Leaf Spot,1.0
+GrayLeafSpot186,4,Gray Leaf Spot,1.0
+GrayLeafSpot1862,4,Gray Leaf Spot,1.0
+GrayLeafSpot1877,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1879,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1880,4,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot1889,4,Gray Leaf Spot,0.99997878074646
+GrayLeafSpot1891,4,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot1892,4,Gray Leaf Spot,0.9999969005584717
+GrayLeafSpot1895,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1896,4,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot1898,4,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot1904,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1906,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1907,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1911,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1913,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1917,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1920,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1929,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1933,4,Gray Leaf Spot,1.0
+GrayLeafSpot1935,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1936,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1939,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot1940,4,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot1941,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot1946,4,Gray Leaf Spot,1.0
+GrayLeafSpot1952,4,Gray Leaf Spot,1.0
+GrayLeafSpot1955,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1957,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot1971,4,Gray Leaf Spot,0.9999798536300659
+GrayLeafSpot1973,4,Gray Leaf Spot,0.9998923540115356
+GrayLeafSpot1975,4,Gray Leaf Spot,0.9999746084213257
+GrayLeafSpot198,4,Gray Leaf Spot,1.0
+GrayLeafSpot1986,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot1988,4,Gray Leaf Spot,0.9999929666519165
+GrayLeafSpot1991,4,Gray Leaf Spot,0.9999713897705078
+GrayLeafSpot1993,4,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot1995,4,Gray Leaf Spot,0.9999984502792358
+GrayLeafSpot1996,4,Gray Leaf Spot,0.9999960660934448
+GrayLeafSpot2004,4,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot2009,4,Gray Leaf Spot,1.0
+GrayLeafSpot201,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot2010,4,Gray Leaf Spot,1.0
+GrayLeafSpot2014,4,Gray Leaf Spot,1.0
+GrayLeafSpot2021,4,Gray Leaf Spot,1.0
+GrayLeafSpot2029,4,Gray Leaf Spot,1.0
+GrayLeafSpot203,4,Gray Leaf Spot,1.0
+GrayLeafSpot2034,4,Gray Leaf Spot,1.0
+GrayLeafSpot2046,4,Gray Leaf Spot,1.0
+GrayLeafSpot2048,4,Gray Leaf Spot,1.0
+GrayLeafSpot2053,4,Gray Leaf Spot,1.0
+GrayLeafSpot2058,4,Gray Leaf Spot,1.0
+GrayLeafSpot2061,4,Gray Leaf Spot,1.0
+GrayLeafSpot2079,4,Gray Leaf Spot,0.9999959468841553
+GrayLeafSpot208,4,Gray Leaf Spot,1.0
+GrayLeafSpot2080,4,Gray Leaf Spot,0.9999974966049194
+GrayLeafSpot2082,4,Gray Leaf Spot,0.9999970197677612
+GrayLeafSpot2085,4,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot2095,4,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot2105,4,Gray Leaf Spot,1.0
+GrayLeafSpot2113,4,Gray Leaf Spot,0.9999920129776001
+GrayLeafSpot2114,4,Gray Leaf Spot,0.9999963045120239
+GrayLeafSpot2121,4,Gray Leaf Spot,1.0
+GrayLeafSpot2129,4,Gray Leaf Spot,1.0
+GrayLeafSpot213,4,Gray Leaf Spot,1.0
+GrayLeafSpot2131,4,Gray Leaf Spot,1.0
+GrayLeafSpot222,4,Gray Leaf Spot,1.0
+GrayLeafSpot228,4,Gray Leaf Spot,1.0
+GrayLeafSpot238,4,Gray Leaf Spot,1.0
+GrayLeafSpot239,4,Gray Leaf Spot,1.0
+GrayLeafSpot248,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot249,4,Gray Leaf Spot,1.0
+GrayLeafSpot254,4,Gray Leaf Spot,0.9999958276748657
+GrayLeafSpot261,4,Gray Leaf Spot,0.999996542930603
+GrayLeafSpot277,4,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot284,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot286,4,Gray Leaf Spot,0.9999948740005493
+GrayLeafSpot300,4,Gray Leaf Spot,1.0
+GrayLeafSpot304,4,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot306,4,Gray Leaf Spot,0.9999903440475464
+GrayLeafSpot313,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot326,4,Leaf Rot,0.774565577507019
+GrayLeafSpot327,4,Leaf Rot,0.791086733341217
+GrayLeafSpot333,4,Leaf Rot,0.6450088620185852
+GrayLeafSpot341,4,Leaf Rot,0.7065780758857727
+GrayLeafSpot343,4,Leaf Rot,0.7385910153388977
+GrayLeafSpot345,4,Leaf Rot,0.6786022186279297
+GrayLeafSpot348,4,Gray Leaf Spot,1.0
+GrayLeafSpot355,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot358,4,Gray Leaf Spot,0.9999983310699463
+GrayLeafSpot362,4,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot363,4,Gray Leaf Spot,0.9999029636383057
+GrayLeafSpot368,4,Gray Leaf Spot,0.9999985694885254
+GrayLeafSpot373,4,Gray Leaf Spot,0.9999961853027344
+GrayLeafSpot377,4,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot381,4,Gray Leaf Spot,0.9999988079071045
+GrayLeafSpot385,4,Gray Leaf Spot,0.999996542930603
+GrayLeafSpot386,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot388,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot390,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot399,4,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot400,4,Gray Leaf Spot,0.9999954700469971
+GrayLeafSpot401,4,Gray Leaf Spot,0.9999969005584717
+GrayLeafSpot404,4,Gray Leaf Spot,0.9999986886978149
+GrayLeafSpot406,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot407,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot408,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot410,4,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot412,4,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot415,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot418,4,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot423,4,Gray Leaf Spot,1.0
+GrayLeafSpot428,4,Gray Leaf Spot,0.9999921321868896
+GrayLeafSpot439,4,Gray Leaf Spot,1.0
+GrayLeafSpot443,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot444,4,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot450,4,Gray Leaf Spot,1.0
+GrayLeafSpot452,4,Gray Leaf Spot,1.0
+GrayLeafSpot453,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot459,4,Gray Leaf Spot,1.0
+GrayLeafSpot462,4,Gray Leaf Spot,1.0
+GrayLeafSpot466,4,Gray Leaf Spot,1.0
+GrayLeafSpot471,4,Gray Leaf Spot,1.0
+GrayLeafSpot482,4,Gray Leaf Spot,1.0
+GrayLeafSpot484,4,Gray Leaf Spot,1.0
+GrayLeafSpot485,4,Gray Leaf Spot,1.0
+GrayLeafSpot486,4,Gray Leaf Spot,1.0
+GrayLeafSpot498,4,Gray Leaf Spot,1.0
+GrayLeafSpot506,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot510,4,Gray Leaf Spot,1.0
+GrayLeafSpot513,4,Gray Leaf Spot,1.0
+GrayLeafSpot514,4,Gray Leaf Spot,1.0
+GrayLeafSpot516,4,Gray Leaf Spot,1.0
+GrayLeafSpot518,4,Gray Leaf Spot,1.0
+GrayLeafSpot521,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot522,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot528,4,Gray Leaf Spot,1.0
+GrayLeafSpot532,4,Gray Leaf Spot,1.0
+GrayLeafSpot533,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot537,4,Gray Leaf Spot,1.0
+GrayLeafSpot540,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot545,4,Gray Leaf Spot,1.0
+GrayLeafSpot546,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot551,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot554,4,Gray Leaf Spot,0.9999994039535522
+GrayLeafSpot556,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot561,4,Gray Leaf Spot,1.0
+GrayLeafSpot591,4,Gray Leaf Spot,1.0
+GrayLeafSpot595,4,Gray Leaf Spot,1.0
+GrayLeafSpot597,4,Gray Leaf Spot,1.0
+GrayLeafSpot608,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot609,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot612,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot624,4,Gray Leaf Spot,1.0
+GrayLeafSpot628,4,Gray Leaf Spot,1.0
+GrayLeafSpot635,4,Gray Leaf Spot,1.0
+GrayLeafSpot636,4,Gray Leaf Spot,1.0
+GrayLeafSpot642,4,Gray Leaf Spot,1.0
+GrayLeafSpot656,4,Gray Leaf Spot,0.9999942779541016
+GrayLeafSpot659,4,Gray Leaf Spot,0.9999957084655762
+GrayLeafSpot667,4,Gray Leaf Spot,0.999996542930603
+GrayLeafSpot676,4,Gray Leaf Spot,0.999890923500061
+GrayLeafSpot689,4,Gray Leaf Spot,0.9999954700469971
+GrayLeafSpot693,4,Gray Leaf Spot,0.999998927116394
+GrayLeafSpot695,4,Gray Leaf Spot,1.0
+GrayLeafSpot706,4,Gray Leaf Spot,0.9999027252197266
+GrayLeafSpot707,4,Gray Leaf Spot,0.9999901056289673
+GrayLeafSpot709,4,Gray Leaf Spot,0.9999966621398926
+GrayLeafSpot712,4,Gray Leaf Spot,0.9999583959579468
+GrayLeafSpot715,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot726,4,Gray Leaf Spot,0.9999983310699463
+GrayLeafSpot750,4,Gray Leaf Spot,1.0
+GrayLeafSpot755,4,Gray Leaf Spot,1.0
+GrayLeafSpot759,4,Gray Leaf Spot,0.9999973773956299
+GrayLeafSpot761,4,Gray Leaf Spot,0.9999982118606567
+GrayLeafSpot764,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot768,4,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot769,4,Gray Leaf Spot,0.9999984502792358
+GrayLeafSpot773,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot774,4,Gray Leaf Spot,1.0
+GrayLeafSpot783,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot785,4,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot786,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot788,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot801,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot806,4,Gray Leaf Spot,0.9999986886978149
+GrayLeafSpot809,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot831,4,Gray Leaf Spot,0.9999990463256836
+GrayLeafSpot834,4,Gray Leaf Spot,1.0
+GrayLeafSpot836,4,Gray Leaf Spot,1.0
+GrayLeafSpot843,4,Gray Leaf Spot,1.0
+GrayLeafSpot846,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot850,4,Gray Leaf Spot,1.0
+GrayLeafSpot855,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot856,4,Gray Leaf Spot,1.0
+GrayLeafSpot858,4,Gray Leaf Spot,0.9999998807907104
+GrayLeafSpot872,4,Gray Leaf Spot,1.0
+GrayLeafSpot874,4,Gray Leaf Spot,1.0
+GrayLeafSpot876,4,Gray Leaf Spot,1.0
+GrayLeafSpot886,4,Gray Leaf Spot,0.9999997615814209
+GrayLeafSpot889,4,Gray Leaf Spot,1.0
+GrayLeafSpot893,4,Gray Leaf Spot,1.0
+GrayLeafSpot895,4,Gray Leaf Spot,0.9971108436584473
+GrayLeafSpot900,4,Gray Leaf Spot,0.9989323019981384
+GrayLeafSpot902,4,Gray Leaf Spot,0.9998407363891602
+GrayLeafSpot905,4,Gray Leaf Spot,0.9999858140945435
+GrayLeafSpot908,4,Gray Leaf Spot,0.9999991655349731
+GrayLeafSpot913,4,Gray Leaf Spot,0.9999995231628418
+GrayLeafSpot914,4,Gray Leaf Spot,0.9999992847442627
+GrayLeafSpot923,4,Gray Leaf Spot,0.9999996423721313
+GrayLeafSpot928,4,Gray Leaf Spot,0.9999654293060303
+GrayLeafSpot930,4,Gray Leaf Spot,0.9970831274986267
+GrayLeafSpot939,4,Gray Leaf Spot,0.9998488426208496
+GrayLeafSpot951,4,Gray Leaf Spot,0.9995922446250916
+GrayLeafSpot953,4,Gray Leaf Spot,0.999995231628418
+GrayLeafSpot961,4,Gray Leaf Spot,0.9998088479042053
+GrayLeafSpot964,4,Gray Leaf Spot,0.9993810653686523
+GrayLeafSpot980,4,Gray Leaf Spot,0.9999123811721802
+GrayLeafSpot984,4,Gray Leaf Spot,0.9996906518936157
+GrayLeafSpot986,4,Gray Leaf Spot,0.9995111227035522
+GrayLeafSpot987,4,Gray Leaf Spot,0.9993120431900024
+GrayLeafSpot998,4,Gray Leaf Spot,0.9999998807907104
+LeafRot006,4,Leaf Rot,1.0
+LeafRot007,4,Leaf Rot,1.0
+LeafRot010,4,Leaf Rot,1.0
+LeafRot014,4,Leaf Rot,0.9999690055847168
+LeafRot016,4,Leaf Rot,0.9579023718833923
+LeafRot017,4,Leaf Rot,0.9663861989974976
+LeafRot018,4,Leaf Rot,0.9156332612037659
+LeafRot024,4,Leaf Rot,0.9992607235908508
+LeafRot034,4,Leaf Rot,0.665366530418396
+LeafRot035,4,Leaf Rot,0.7066611647605896
+LeafRot037,4,Leaf Rot,0.791086733341217
+LeafRot038,4,Leaf Rot,0.7127865552902222
+LeafRot039,4,Leaf Rot,0.698159396648407
+LeafRot042,4,Leaf Rot,0.66599041223526
+LeafRot044,4,Leaf Rot,0.6567463278770447
+LeafRot049,4,Leaf Rot,0.640084981918335
+LeafRot053,4,Leaf Rot,0.7385910153388977
+LeafRot063,4,Leaf Rot,1.0
+LeafRot065,4,Leaf Rot,0.9999915361404419
+LeafRot066,4,Leaf Rot,1.0
+LeafRot074,4,Leaf Rot,0.9999985694885254
+LeafRot077,4,Gray Leaf Spot,0.9284716844558716
+LeafRot081,4,Leaf Rot,0.9999949932098389
+LeafRot082,4,Leaf Rot,0.9999990463256836
+LeafRot085,4,Leaf Rot,0.9999990463256836
+LeafRot089,4,Leaf Rot,1.0
+LeafRot092,4,Leaf Rot,0.9999957084655762
+LeafRot093,4,Leaf Rot,0.9999995231628418
+LeafRot1001,4,Leaf Rot,0.9999899864196777
+LeafRot1005,4,Leaf Rot,1.0
+LeafRot1006,4,Leaf Rot,1.0
+LeafRot1007,4,Leaf Rot,1.0
+LeafRot1009,4,Leaf Rot,1.0
+LeafRot1012,4,Leaf Rot,1.0
+LeafRot1013,4,Leaf Rot,1.0
+LeafRot1020,4,Leaf Rot,1.0
+LeafRot1029,4,Leaf Rot,0.9998297691345215
+LeafRot1052,4,Leaf Rot,0.999998927116394
+LeafRot1057,4,Leaf Rot,0.9997895359992981
+LeafRot106,4,Leaf Rot,0.9996719360351562
+LeafRot1069,4,Leaf Rot,0.9995539784431458
+LeafRot1071,4,Leaf Rot,0.9999997615814209
+LeafRot1072,4,Leaf Rot,0.9999936819076538
+LeafRot1077,4,Leaf Rot,0.9999934434890747
+LeafRot1088,4,Leaf Rot,1.0
+LeafRot1095,4,Leaf Rot,0.9999998807907104
+LeafRot1109,4,Leaf Rot,0.9904080033302307
+LeafRot1111,4,Leaf Rot,0.9993365406990051
+LeafRot1117,4,Leaf Rot,0.9999998807907104
+LeafRot1119,4,Leaf Rot,0.9999994039535522
+LeafRot112,4,Leaf Rot,1.0
+LeafRot1130,4,Leaf Rot,1.0
+LeafRot1132,4,Leaf Rot,1.0
+LeafRot1134,4,Leaf Rot,1.0
+LeafRot1135,4,Leaf Rot,1.0
+LeafRot1138,4,Leaf Rot,1.0
+LeafRot1142,4,Leaf Rot,1.0
+LeafRot1144,4,Leaf Rot,1.0
+LeafRot1149,4,Leaf Rot,1.0
+LeafRot1150,4,Leaf Rot,1.0
+LeafRot1156,4,Leaf Rot,1.0
+LeafRot1165,4,Leaf Rot,1.0
+LeafRot1185,4,Leaf Rot,1.0
+LeafRot1187,4,Leaf Rot,1.0
+LeafRot119,4,Leaf Rot,1.0
+LeafRot1193,4,Leaf Rot,0.9999977350234985
+LeafRot1198,4,Leaf Rot,0.9999254941940308
+LeafRot1204,4,Leaf Rot,0.9999938011169434
+LeafRot1207,4,Leaf Rot,1.0
+LeafRot1211,4,Leaf Rot,1.0
+LeafRot1213,4,Leaf Rot,1.0
+LeafRot1226,4,Leaf Rot,1.0
+LeafRot1238,4,Leaf Rot,1.0
+LeafRot1240,4,Leaf Rot,1.0
+LeafRot1245,4,Leaf Rot,1.0
+LeafRot1247,4,Leaf Rot,1.0
+LeafRot1248,4,Leaf Rot,1.0
+LeafRot1252,4,Leaf Rot,1.0
+LeafRot1255,4,Leaf Rot,1.0
+LeafRot1256,4,Leaf Rot,1.0
+LeafRot1258,4,Leaf Rot,1.0
+LeafRot1259,4,Leaf Rot,1.0
+LeafRot1261,4,Leaf Rot,1.0
+LeafRot1262,4,Leaf Rot,1.0
+LeafRot128,4,Leaf Rot,1.0
+LeafRot1280,4,Leaf Rot,0.9999996423721313
+LeafRot1282,4,Leaf Rot,0.9999971389770508
+LeafRot129,4,Leaf Rot,0.9999986886978149
+LeafRot1293,4,Leaf Rot,0.9999984502792358
+LeafRot1297,4,Leaf Rot,1.0
+LeafRot1299,4,Leaf Rot,1.0
+LeafRot1301,4,Leaf Rot,1.0
+LeafRot1303,4,Leaf Rot,1.0
+LeafRot1312,4,Leaf Rot,1.0
+LeafRot1313,4,Leaf Rot,1.0
+LeafRot1315,4,Leaf Rot,1.0
+LeafRot1323,4,Leaf Rot,1.0
+LeafRot1326,4,Leaf Rot,1.0
+LeafRot1338,4,Leaf Rot,1.0
+LeafRot1346,4,Leaf Rot,0.9999995231628418
+LeafRot1348,4,Leaf Rot,0.9999902248382568
+LeafRot135,4,Leaf Rot,1.0
+LeafRot1351,4,Leaf Rot,0.9999961853027344
+LeafRot1353,4,Leaf Rot,0.9999984502792358
+LeafRot1354,4,Leaf Rot,0.9999986886978149
+LeafRot1362,4,Leaf Rot,0.9999996423721313
+LeafRot1364,4,Leaf Rot,0.9995941519737244
+LeafRot1365,4,Leaf Rot,0.9995996356010437
+LeafRot1369,4,Leaf Rot,0.9997876286506653
+LeafRot137,4,Leaf Rot,1.0
+LeafRot1373,4,Leaf Rot,0.9999998807907104
+LeafRot1375,4,Leaf Rot,1.0
+LeafRot138,4,Leaf Rot,0.9999998807907104
+LeafRot1381,4,Leaf Rot,0.9999998807907104
+LeafRot139,4,Leaf Rot,0.9999994039535522
+LeafRot140,4,Leaf Rot,0.9999996423721313
+LeafRot1403,4,Leaf Rot,1.0
+LeafRot1405,4,Leaf Rot,1.0
+LeafRot1406,4,Leaf Rot,1.0
+LeafRot1408,4,Leaf Rot,1.0
+LeafRot1411,4,Leaf Rot,1.0
+LeafRot1414,4,Leaf Rot,1.0
+LeafRot1419,4,Leaf Rot,1.0
+LeafRot1421,4,Leaf Rot,1.0
+LeafRot1465,4,Leaf Rot,1.0
+LeafRot1469,4,Leaf Rot,1.0
+LeafRot1473,4,Leaf Rot,1.0
+LeafRot1479,4,Leaf Rot,1.0
+LeafRot1481,4,Leaf Rot,1.0
+LeafRot1488,4,Leaf Rot,1.0
+LeafRot1489,4,Leaf Rot,1.0
+LeafRot149,4,Leaf Rot,1.0
+LeafRot1497,4,Leaf Rot,1.0
+LeafRot1498,4,Leaf Rot,1.0
+LeafRot1508,4,Leaf Rot,1.0
+LeafRot1510,4,Leaf Rot,1.0
+LeafRot1511,4,Leaf Rot,1.0
+LeafRot1515,4,Leaf Rot,1.0
+LeafRot1520,4,Leaf Rot,1.0
+LeafRot1522,4,Leaf Rot,1.0
+LeafRot1530,4,Leaf Rot,1.0
+LeafRot1535,4,Leaf Rot,1.0
+LeafRot154,4,Leaf Rot,1.0
+LeafRot1541,4,Leaf Rot,1.0
+LeafRot1547,4,Leaf Rot,1.0
+LeafRot1559,4,Leaf Rot,1.0
+LeafRot1567,4,Leaf Rot,1.0
+LeafRot1576,4,Leaf Rot,1.0
+LeafRot1580,4,Leaf Rot,1.0
+LeafRot1584,4,Leaf Rot,1.0
+LeafRot160,4,Leaf Rot,1.0
+LeafRot1601,4,Leaf Rot,0.9999998807907104
+LeafRot1609,4,Leaf Rot,1.0
+LeafRot1615,4,Leaf Rot,1.0
+LeafRot1627,4,Leaf Rot,0.9966805577278137
+LeafRot1628,4,Leaf Rot,0.9998937845230103
+LeafRot1638,4,Leaf Rot,1.0
+LeafRot1643,4,Leaf Rot,0.9999958276748657
+LeafRot1645,4,Leaf Rot,1.0
+LeafRot1651,4,Leaf Rot,1.0
+LeafRot1652,4,Leaf Rot,1.0
+LeafRot1657,4,Leaf Rot,1.0
+LeafRot1659,4,Leaf Rot,1.0
+LeafRot1662,4,Leaf Rot,1.0
+LeafRot167,4,Leaf Rot,0.9997079968452454
+LeafRot169,4,Leaf Rot,0.9999963045120239
+LeafRot173,4,Leaf Rot,1.0
+LeafRot181,4,Leaf Rot,1.0
+LeafRot217,4,Leaf Rot,0.9999912977218628
+LeafRot231,4,Leaf Rot,0.99967360496521
+LeafRot233,4,Leaf Rot,0.9998636245727539
+LeafRot236,4,Leaf Rot,0.9675518870353699
+LeafRot239,4,Leaf Rot,0.9986458420753479
+LeafRot248,4,Leaf Rot,0.9999998807907104
+LeafRot250,4,Leaf Rot,1.0
+LeafRot277,4,Leaf Rot,1.0
+LeafRot279,4,Leaf Rot,1.0
+LeafRot283,4,Leaf Rot,1.0
+LeafRot287,4,Leaf Rot,1.0
+LeafRot289,4,Leaf Rot,1.0
+LeafRot294,4,Leaf Rot,0.9999960660934448
+LeafRot295,4,Leaf Rot,0.9999958276748657
+LeafRot299,4,Leaf Rot,0.9999998807907104
+LeafRot304,4,Leaf Rot,1.0
+LeafRot308,4,Leaf Rot,1.0
+LeafRot321,4,Leaf Rot,1.0
+LeafRot322,4,Leaf Rot,1.0
+LeafRot326,4,Leaf Rot,1.0
+LeafRot335,4,Leaf Rot,0.999997615814209
+LeafRot346,4,Leaf Rot,1.0
+LeafRot347,4,Leaf Rot,0.9999983310699463
+LeafRot349,4,Leaf Rot,0.999998927116394
+LeafRot350,4,Leaf Rot,0.9999998807907104
+LeafRot351,4,Leaf Rot,1.0
+LeafRot355,4,Leaf Rot,1.0
+LeafRot357,4,Leaf Rot,0.9999998807907104
+LeafRot360,4,Leaf Rot,0.9737935066223145
+LeafRot366,4,Leaf Rot,1.0
+LeafRot369,4,Leaf Rot,1.0
+LeafRot379,4,Leaf Rot,0.9999992847442627
+LeafRot381,4,Leaf Rot,0.9999926090240479
+LeafRot382,4,Leaf Rot,0.9999996423721313
+LeafRot384,4,Leaf Rot,0.9999743700027466
+LeafRot388,4,Leaf Rot,0.9999643564224243
+LeafRot397,4,Leaf Rot,0.9999997615814209
+LeafRot409,4,Leaf Rot,1.0
+LeafRot417,4,Leaf Rot,1.0
+LeafRot428,4,Leaf Rot,1.0
+LeafRot431,4,Leaf Rot,1.0
+LeafRot436,4,Leaf Rot,1.0
+LeafRot439,4,Leaf Rot,1.0
+LeafRot451,4,Leaf Rot,0.9999774694442749
+LeafRot452,4,Leaf Rot,0.9999960660934448
+LeafRot471,4,Leaf Rot,0.9999363422393799
+LeafRot481,4,Leaf Rot,0.9985466599464417
+LeafRot485,4,Leaf Rot,1.0
+LeafRot486,4,Leaf Rot,1.0
+LeafRot492,4,Leaf Rot,0.984333336353302
+LeafRot496,4,Leaf Rot,0.9954865574836731
+LeafRot500,4,Leaf Rot,0.9748213887214661
+LeafRot507,4,Leaf Rot,1.0
+LeafRot530,4,Leaf Rot,0.999997615814209
+LeafRot532,4,Leaf Rot,0.9999992847442627
+LeafRot540,4,Leaf Rot,0.9999865293502808
+LeafRot550,4,Leaf Rot,0.9760429263114929
+LeafRot551,4,Leaf Rot,1.0
+LeafRot553,4,Leaf Rot,1.0
+LeafRot555,4,Leaf Rot,1.0
+LeafRot561,4,Leaf Rot,1.0
+LeafRot575,4,Leaf Rot,1.0
+LeafRot578,4,Leaf Rot,0.9999990463256836
+LeafRot580,4,Leaf Rot,1.0
+LeafRot591,4,Leaf Rot,1.0
+LeafRot597,4,Leaf Rot,0.9999998807907104
+LeafRot598,4,Leaf Rot,1.0
+LeafRot609,4,Leaf Rot,1.0
+LeafRot627,4,Leaf Rot,1.0
+LeafRot628,4,Leaf Rot,1.0
+LeafRot629,4,Leaf Rot,1.0
+LeafRot635,4,Leaf Rot,1.0
+LeafRot636,4,Leaf Rot,1.0
+LeafRot642,4,Leaf Rot,1.0
+LeafRot649,4,Leaf Rot,1.0
+LeafRot660,4,Leaf Rot,1.0
+LeafRot661,4,Leaf Rot,1.0
+LeafRot665,4,Leaf Rot,1.0
+LeafRot678,4,Leaf Rot,1.0
+LeafRot684,4,Leaf Rot,1.0
+LeafRot686,4,Leaf Rot,1.0
+LeafRot688,4,Leaf Rot,1.0
+LeafRot697,4,Leaf Rot,1.0
+LeafRot698,4,Leaf Rot,1.0
+LeafRot706,4,Leaf Rot,1.0
+LeafRot709,4,Leaf Rot,1.0
+LeafRot712,4,Leaf Rot,1.0
+LeafRot713,4,Leaf Rot,1.0
+LeafRot716,4,Leaf Rot,0.9999994039535522
+LeafRot718,4,Leaf Rot,0.9999091625213623
+LeafRot724,4,Leaf Rot,0.9999998807907104
+LeafRot728,4,Leaf Rot,0.9999994039535522
+LeafRot729,4,Leaf Rot,0.9999974966049194
+LeafRot733,4,Leaf Rot,0.9999984502792358
+LeafRot738,4,Leaf Rot,1.0
+LeafRot739,4,Leaf Rot,1.0
+LeafRot740,4,Leaf Rot,1.0
+LeafRot742,4,Leaf Rot,1.0
+LeafRot760,4,Leaf Rot,0.9999997615814209
+LeafRot764,4,Leaf Rot,0.9999749660491943
+LeafRot765,4,Leaf Rot,0.9999980926513672
+LeafRot772,4,Leaf Rot,0.9999756813049316
+LeafRot774,4,Leaf Rot,0.9999998807907104
+LeafRot780,4,Leaf Rot,0.9999911785125732
+LeafRot783,4,Leaf Rot,0.9999936819076538
+LeafRot793,4,Leaf Rot,1.0
+LeafRot796,4,Leaf Rot,0.9999997615814209
+LeafRot798,4,Leaf Rot,0.9999998807907104
+LeafRot800,4,Leaf Rot,0.9999998807907104
+LeafRot812,4,Leaf Rot,1.0
+LeafRot814,4,Leaf Rot,1.0
+LeafRot815,4,Leaf Rot,1.0
+LeafRot818,4,Leaf Rot,0.9999966621398926
+LeafRot823,4,Leaf Rot,0.9999997615814209
+LeafRot838,4,Leaf Rot,1.0
+LeafRot839,4,Leaf Rot,1.0
+LeafRot848,4,Leaf Rot,1.0
+LeafRot849,4,Leaf Rot,1.0
+LeafRot851,4,Leaf Rot,1.0
+LeafRot852,4,Leaf Rot,1.0
+LeafRot858,4,Leaf Rot,0.9809365272521973
+LeafRot862,4,Leaf Rot,1.0
+LeafRot863,4,Leaf Rot,1.0
+LeafRot875,4,Leaf Rot,1.0
+LeafRot878,4,Leaf Rot,1.0
+LeafRot887,4,Leaf Rot,1.0
+LeafRot888,4,Leaf Rot,1.0
+LeafRot893,4,Leaf Rot,1.0
+LeafRot894,4,Leaf Rot,1.0
+LeafRot905,4,Leaf Rot,1.0
+LeafRot907,4,Leaf Rot,1.0
+LeafRot911,4,Leaf Rot,1.0
+LeafRot912,4,Leaf Rot,1.0
+LeafRot919,4,Leaf Rot,1.0
+LeafRot920,4,Leaf Rot,1.0
+LeafRot934,4,Leaf Rot,1.0
+LeafRot940,4,Leaf Rot,1.0
+LeafRot941,4,Leaf Rot,1.0
+LeafRot943,4,Leaf Rot,1.0
+LeafRot945,4,Leaf Rot,1.0
+LeafRot946,4,Leaf Rot,1.0
+LeafRot948,4,Leaf Rot,0.999942421913147
+LeafRot949,4,Leaf Rot,0.9997801184654236
+LeafRot959,4,Leaf Rot,0.9999998807907104
+LeafRot964,4,Leaf Rot,1.0
+LeafRot969,4,Leaf Rot,0.9999908208847046
+LeafRot973,4,Leaf Rot,0.9999934434890747
+LeafRot976,4,Leaf Rot,0.9999983310699463
+LeafRot978,4,Leaf Rot,0.999951958656311
+LeafRot981,4,Leaf Rot,0.9999797344207764
+LeafRot997,4,Leaf Rot,0.9999971389770508

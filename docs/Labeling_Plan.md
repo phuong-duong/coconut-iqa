@@ -31,11 +31,13 @@ Mỗi LF bỏ phiếu cho từng tác vụ: `1` (hữu dụng), `0` (không), ho
 
 **Cạm bẫy tương quan:** LF6 (degrade-mờ) và bất kỳ heuristic mờ nào cùng nhìn một tín hiệu → để label model mô hình hóa tương quan, đừng coi độc lập.
 
+**Output — mỗi LF một file riêng:** mỗi LF ghi `labels/votes/lf<N>_<tên>.csv` theo schema chung (`src/utils/lf_io.ipynb`, long/tidy: `lf, image_id, task, vote, confidence, reason, source, path` + cột extra tuỳ LF). KHÔNG dùng chung một manifest → chạy nhiều LF song song không tranh chấp file. Abstain = bỏ dòng. Bước label model đọc mọi file bằng `fuse_votes(labels/votes)` để dựng ma trận `(image_id, task) × lf`.
+
 ## 2. Kế hoạch triển khai (theo thứ tự ưu tiên)
 
 **Giai đoạn A — Nền (bắt buộc, không bỏ)**
 1. **Gold seed**: chọn ngẫu nhiên phân tầng ~300–500 ảnh, người gán độ hữu dụng thật cho 5 tác vụ. Đây là đòn bẩy cao nhất — không có nó, mọi nhãn tự động đều không kiểm chứng được.
-2. **LF1–LF5 (correctness)**: tích hợp 5 mô hình hạ nguồn (độ-chín / bệnh-lá / bệnh-thân / bệnh-đọt / tàu-lá) vào `notebooks/01_label_correctness.ipynb`. Đã có sẵn phần đọc GT (kể cả nhãn mức chín `dry/green/tender`) + logic; chỉ cần bổ sung hàm suy luận của mô hình.
+2. **LF1–LF5 (correctness)**: tích hợp 5 mô hình hạ nguồn (độ-chín / bệnh-lá / bệnh-thân / bệnh-đọt / tàu-lá) vào `notebooks/lf1-5_correctness.ipynb`. Đã có sẵn phần đọc GT (kể cả nhãn mức chín `dry/green/tender`) + logic; chỉ cần bổ sung hàm suy luận của mô hình.
 
 **Giai đoạn B — Trụ bổ sung**
 3. **LF6 (degradation)**: dựng bộ suy giảm có kiểm soát trên ảnh anchor (ảnh model làm đúng), dò điểm gãy cho từng tác vụ × từng trục.

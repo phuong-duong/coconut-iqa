@@ -1,0 +1,301 @@
+gold_id,image_id,source,task_native,1_maturity_evaluation,2_foliar_disease,3_trunk_disease,4_crown_disease,5_petiole
+G001,635_jpg.rf.a059885df2bce4a69f2999e926631bc3,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G002,107_jpg.rf.5f9841f56e824f142c0f3f483285b93c,"coconut-veirf-v5/train",1_maturity_evaluation,0,0,0,0,0
+G003,40_jpg.rf.76a4805d480e15118c23b8d12afd4406,"coconut-veirf-v5/train",1_maturity_evaluation,1,1,0,0,1
+G004,47_jpg.rf.876ae0012f9fcdcf1b35cc5e6b89c905,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,1
+G005,631_jpg.rf.37becedc41eec2729f5118284c33e49d,"coconut-veirf-v5/train",1_maturity_evaluation,0,0,1,0,0
+G006,613_jpg.rf.dbf55b4e2bd013c6413c709ce72a9419,"coconut-veirf-v5/test",1_maturity_evaluation,1,0,0,0,0
+G007,524_jpg.rf.53f036f4af2f03761aa073c575bde87a,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G008,135_jpg.rf.b210e4eec9664f6abdceb849b997b708,"coconut-veirf-v5/train",1_maturity_evaluation,1,1,0,0,0
+G009,642_jpg.rf.4fd26fe482783d44c5d6491712f0f9ab,"coconut-veirf-v5/train",1_maturity_evaluation,1,1,0,0,1
+G010,676_jpg.rf.adf41f42fbd37e45830b822a54e7031b,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,1
+G011,526_jpg.rf.642462b3b16c75fc0576416d96795c27,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G012,689_jpg.rf.171c98bb07051ad9521ec227756883d1,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G013,049_jpeg.rf.1b21d2bcad75110f76a7d8ea4c143ee9,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G014,70_jpg.rf.352f4779d1fdedaf856cc42d9e6c8ffd,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G015,89_jpg.rf.0ef84b970f393e9a3ac7d374e4659da2,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G016,748_jpg.rf.682425bc996dd9267e812025f251e96c,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,1
+G017,053_jpg.rf.0a5abe5fbf66f06c41dcb869cb43248b,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G018,601_jpg.rf.3e4c772567ccc26f3eb77b04cf1a8c5f,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,1,0,1
+G019,111_jpg.rf.153d0f62cd94c6c3bf44b4d7bc967278,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G020,062_jpg.rf.ac95db25f27ea09ca0c30238c43e8095,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G021,657_jpg.rf.0d9711505e045d97085937a3dd034d02,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G022,503_jpg.rf.9cb32c1b22f1a465a62cc09d8d76d701,"coconut-veirf-v5/test",1_maturity_evaluation,1,0,0,0,0
+G023,637_jpg.rf.314812f2336cd2096a42f2e2ed60c2b6,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G024,090_jpg.rf.746355ed00064913ca06f842f30c30ca,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G025,02_jpg.rf.1a1d0ce506e8a23fe8f78a880e1ba3e5,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G026,081_jpg.rf.449d3c0358eaf9bec929a92fbd41a970,"coconut-veirf-v5/train",1_maturity_evaluation,1,1,0,0,0
+G027,534_jpg.rf.3662e186d5a4c86278f2554c5fe5d0f8,"coconut-veirf-v5/test",1_maturity_evaluation,1,0,0,0,0
+G028,0100_jpg.rf.0d343bad8dab2daf913d921a776694e7,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G029,756_jpg.rf.6310ca62273111c54bd451111b485f7d,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G030,714_jpg.rf.cd5ae7fc3335a8659e318d3b0612ef5e,"coconut-veirf-v5/valid",1_maturity_evaluation,1,1,0,0,0
+G031,90_jpg.rf.1a6838e653005182b1cfc4bc1e7deafe,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G032,639_jpg.rf.b3f264e182e2e87ad17be685e8f5b430,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G033,63_jpg.rf.80a6fb58202f20939c4dc429ccf137b9,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G034,55_jpeg.rf.1b2dd7bacf946b5ba085df8a1d4e7869,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G035,065_jpg.rf.74d068653c1483b865ce3ca36bf93714,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G036,046_jpeg.rf.18fc9e843c6d9d7ff00f26f088357550,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G037,736_jpg.rf.21603b63999ebce50e1372f53d920366,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G038,646_jpg.rf.163c6b3086ff4905a600c6af037760d1,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,1
+G039,07_jpg.rf.0f23d3d4c678de04e163a34aee36da16,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G040,629_jpg.rf.20d7d60339bcdfccb53f55ff730007a2,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G041,85_jpg.rf.8d2d5ea75e6701843381e74b682a9b28,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G042,673_jpg.rf.25a7badcde431c1470c6cd0d0a7e67fa,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,1
+G043,616_jpg.rf.4035ce0e3872d6d3fd9f57b9c8612655,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G044,88_jpg.rf.08ec1f6f2f0d6170b4fc018f72a12543,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G045,04_jpg.rf.1ac4fcee4634cad16b6d444f2ec38d3c,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G046,713_jpg.rf.5b815bd6bdf3b29074453947269bb20f,"coconut-veirf-v5/test",1_maturity_evaluation,1,0,0,0,1
+G047,626_jpg.rf.64e1c5346ff31fccb9e639c6fced54a6,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G048,11_jpg.rf.4abe98a1e65a34a5611aec3a6deb1a1d,"coconut-veirf-v5/test",1_maturity_evaluation,1,0,0,0,0
+G049,721_jpg.rf.4d0734c31e6de0559b311e9f3482334f,"coconut-veirf-v5/test",1_maturity_evaluation,1,0,1,0,1
+G050,26_jpg.rf.b4ad46d76046277a59923eea1ca19add,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G051,51_jpg.rf.5268b43c8550382ff1a17187c5e610d7,"coconut-veirf-v5/test",1_maturity_evaluation,1,0,0,0,0
+G052,08_jpg.rf.0286ef27b25b2857d4ffab88bb5ffaad,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G053,732_jpg.rf.30cffc07083b4ac771c53383970bf763,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G054,055_jpeg.rf.48b25d091dadf1161944a77b019a0985,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G055,612_jpg.rf.3637976aeb727ff87995e468c1ee4dcf,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,1
+G056,27_jpg.rf.a678d2aafba8b585fe5274b44f81df57,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G057,58_jpg.rf.04ec6de6b183c7dacc6f7bde7cb42774,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G058,089_jpg.rf.fa1ba0a7d3f53d8e5987bd14527ffc0d,"coconut-veirf-v5/valid",1_maturity_evaluation,1,0,0,0,0
+G059,757_jpg.rf.22ac0c9431289496601e452c8607b49b,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,1
+G060,718_jpg.rf.23047ea4a26eeecb5d70b2db7d6c86b9,"coconut-veirf-v5/train",1_maturity_evaluation,1,0,0,0,0
+G061,GrayLeafSpot1960,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G062,GrayLeafSpot2083,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G063,GrayLeafSpot781,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G064,LeafRot164,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G065,LeafRot166,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G066,GrayLeafSpot245,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G067,LeafRot1659,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G068,LeafRot1219,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G069,GrayLeafSpot999,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G070,GrayLeafSpot1026,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G071,GrayLeafSpot704,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G072,LeafRot772,"disease/Leaf Rot",2_foliar_disease,0,0,0,0,0
+G073,LeafRot372,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G074,GrayLeafSpot1693,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G075,GrayLeafSpot934,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G076,LeafRot1503,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G077,LeafRot994,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G078,LeafRot365,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G079,GrayLeafSpot1702,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G080,GrayLeafSpot1998,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G081,GrayLeafSpot349,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G082,GrayLeafSpot512,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G083,GrayLeafSpot1951,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G084,LeafRot086,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G085,LeafRot437,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G086,LeafRot140,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G087,GrayLeafSpot1416,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G088,GrayLeafSpot1238,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G089,LeafRot1182,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G090,GrayLeafSpot1668,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G091,LeafRot889,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G092,GrayLeafSpot364,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G093,GrayLeafSpot695,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G094,GrayLeafSpot1427,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G095,GrayLeafSpot517,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G096,GrayLeafSpot378,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G097,LeafRot513,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G098,LeafRot1525,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G099,LeafRot617,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G100,LeafRot139,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G101,LeafRot1012,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G102,GrayLeafSpot1828,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,1,0
+G103,LeafRot1250,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G104,GrayLeafSpot729,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G105,LeafRot1590,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G106,LeafRot392,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G107,GrayLeafSpot157,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G108,LeafRot711,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G109,LeafRot1591,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G110,GrayLeafSpot1162,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G111,GrayLeafSpot1325,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G112,GrayLeafSpot1172,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G113,GrayLeafSpot1647,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G114,GrayLeafSpot1117,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G115,LeafRot1628,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G116,LeafRot986,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G117,LeafRot501,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G118,LeafRot193,"disease/Leaf Rot",2_foliar_disease,0,1,0,0,0
+G119,GrayLeafSpot1727,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G120,GrayLeafSpot1123,"disease/Gray Leaf Spot",2_foliar_disease,0,1,0,0,0
+G121,StemBleeding194,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G122,StemBleeding572,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G123,StemBleeding106,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G124,StemBleeding907,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G125,StemBleeding201,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G126,StemBleeding022,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G127,StemBleeding307,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G128,StemBleeding641,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G129,StemBleeding016,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G130,StemBleeding990,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G131,StemBleeding432,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G132,StemBleeding612,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G133,StemBleeding805,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G134,StemBleeding397,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G135,StemBleeding211,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G136,StemBleeding813,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G137,StemBleeding315,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G138,StemBleeding668,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G139,StemBleeding130,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G140,StemBleeding419,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G141,StemBleeding539,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G142,StemBleeding758,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G143,StemBleeding182,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G144,StemBleeding270,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G145,StemBleeding540,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G146,StemBleeding289,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G147,StemBleeding018,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G148,StemBleeding626,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G149,StemBleeding544,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G150,StemBleeding095,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G151,StemBleeding928,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G152,StemBleeding436,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G153,StemBleeding472,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G154,StemBleeding974,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G155,StemBleeding720,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G156,StemBleeding880,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G157,StemBleeding385,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G158,StemBleeding665,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G159,StemBleeding122,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G160,StemBleeding637,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G161,StemBleeding971,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G162,StemBleeding505,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G163,StemBleeding798,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G164,StemBleeding230,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G165,StemBleeding105,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G166,StemBleeding392,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G167,StemBleeding566,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G168,StemBleeding268,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G169,StemBleeding103,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G170,StemBleeding817,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G171,StemBleeding174,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G172,StemBleeding723,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G173,StemBleeding875,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G174,StemBleeding113,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G175,StemBleeding430,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G176,StemBleeding914,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G177,StemBleeding119,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G178,StemBleeding606,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G179,StemBleeding290,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G180,StemBleeding783,"disease/Stem Bleeding",3_trunk_disease,0,0,1,0,0
+G181,BudRot459,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G182,BudRot056,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G183,BudRot387,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G184,BudRot154,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G185,BudRot390,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G186,BudRot172,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G187,BudRot141,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G188,BudRot128,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G189,BudRot090,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G190,BudRot180,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G191,BudRot458,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G192,BudRot042,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G193,BudRot215,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G194,BudRot182,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G195,BudRot049,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G196,BudRot305,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G197,BudRot136,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G198,BudRot026,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G199,BudRot402,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G200,BudRot181,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G201,BudRot409,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G202,BudRot167,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G203,BudRot014,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G204,BudRot159,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G205,BudRot240,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G206,BudRot241,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G207,BudRot001,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G208,BudRot148,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G209,BudRot137,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G210,BudRot122,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G211,BudRot257,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G212,BudRot080,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G213,BudRot040,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G214,BudRot088,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G215,BudRot413,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G216,BudRot063,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G217,BudRot312,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G218,BudRot273,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G219,BudRot391,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G220,BudRot031,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G221,BudRot228,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G222,BudRot234,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G223,BudRot118,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G224,BudRot262,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G225,BudRot103,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G226,BudRot385,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G227,BudRot348,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G228,BudRot462,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G229,BudRot378,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G230,BudRot210,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G231,BudRot007,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G232,BudRot356,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G233,BudRot448,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G234,BudRot025,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G235,BudRot307,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G236,BudRot226,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G237,BudRot186,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G238,BudRot206,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G239,BudRot260,"disease/Bud Rot",4_crown_disease,0,1,0,1,0
+G240,BudRot444,"disease/Bud Rot",4_crown_disease,0,1,0,1,1
+G241,BudRootDropping120,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G242,BudRootDropping368,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G243,BudRootDropping273,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G244,BudRootDropping002,"disease/Bud Root Dropping",5_petiole,1,1,1,0,1
+G245,BudRootDropping238,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G246,BudRootDropping126,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G247,BudRootDropping341,"disease/Bud Root Dropping",5_petiole,0,1,0,1,1
+G248,BudRootDropping303,"disease/Bud Root Dropping",5_petiole,0,1,0,1,1
+G249,BudRootDropping044,"disease/Bud Root Dropping",5_petiole,0,1,1,0,1
+G250,BudRootDropping224,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G251,BudRootDropping095,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G252,BudRootDropping510,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G253,BudRootDropping222,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G254,BudRootDropping339,"disease/Bud Root Dropping",5_petiole,0,1,0,1,1
+G255,BudRootDropping465,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G256,BudRootDropping483,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G257,BudRootDropping139,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G258,BudRootDropping342,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G259,BudRootDropping154,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G260,BudRootDropping356,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G261,BudRootDropping489,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G262,BudRootDropping079,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G263,BudRootDropping064,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G264,BudRootDropping211,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G265,BudRootDropping140,"disease/Bud Root Dropping",5_petiole,0,1,0,1,1
+G266,BudRootDropping454,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G267,BudRootDropping166,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G268,BudRootDropping218,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G269,BudRootDropping171,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G270,BudRootDropping446,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G271,BudRootDropping366,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G272,BudRootDropping476,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G273,BudRootDropping380,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G274,BudRootDropping184,"disease/Bud Root Dropping",5_petiole,0,1,1,0,1
+G275,BudRootDropping010,"disease/Bud Root Dropping",5_petiole,1,1,1,0,1
+G276,BudRootDropping335,"disease/Bud Root Dropping",5_petiole,0,1,0,1,1
+G277,BudRootDropping231,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G278,BudRootDropping367,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G279,BudRootDropping429,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G280,BudRootDropping029,"disease/Bud Root Dropping",5_petiole,0,0,1,0,1
+G281,BudRootDropping431,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G282,BudRootDropping325,"disease/Bud Root Dropping",5_petiole,0,1,0,1,1
+G283,BudRootDropping389,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G284,BudRootDropping107,"disease/Bud Root Dropping",5_petiole,0,1,1,0,1
+G285,BudRootDropping023,"disease/Bud Root Dropping",5_petiole,0,0,1,0,1
+G286,BudRootDropping243,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G287,BudRootDropping170,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G288,BudRootDropping049,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G289,BudRootDropping382,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G290,BudRootDropping169,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G291,BudRootDropping513,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G292,BudRootDropping127,"disease/Bud Root Dropping",5_petiole,0,1,1,0,1
+G293,BudRootDropping474,"disease/Bud Root Dropping",5_petiole,1,0,0,0,1
+G294,BudRootDropping490,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G295,BudRootDropping281,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1
+G296,BudRootDropping160,"disease/Bud Root Dropping",5_petiole,0,1,0,0,1
+G297,BudRootDropping198,"disease/Bud Root Dropping",5_petiole,0,1,0,1,1
+G298,BudRootDropping298,"disease/Bud Root Dropping",5_petiole,0,1,0,1,1
+G299,BudRootDropping012,"disease/Bud Root Dropping",5_petiole,1,0,0,0,1
+G300,BudRootDropping163,"disease/Bud Root Dropping",5_petiole,0,0,0,0,1

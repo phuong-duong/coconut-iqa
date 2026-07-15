@@ -81,16 +81,24 @@ Bảng labeling function + kế hoạch chi tiết: `docs/Labeling_Plan.md`.
 ```
 paper/Methodology.md                   # Mục Phương pháp hoàn chỉnh — nguồn chân lý về thiết kế
 docs/Labeling_Plan.md                  # Bảng LF + kế hoạch triển khai + ước lượng công sức (nội bộ, không thuộc paper)
-notebooks/01_label_correctness.ipynb   # (chạy trước) LF1–5: sinh nhãn correctness; mô hình hạ nguồn là hàm giữ chỗ (stub, khả thay)
-notebooks/02_pilot_vision_label.ipynb  # (chạy sau)  LF7: gán nhãn bằng vision model + cổng chất lượng
+src/utils/lf_io.ipynb                  # Module dùng chung: schema phiếu chuẩn + writer (make_vote, write_lf_votes, fuse_votes). Notebook LF nạp bằng %run
+notebooks/lf1-5_correctness.ipynb      # LF1–5: scaffold correctness (placeholder), ghi mỗi tác vụ 1 file
+notebooks/lf1_maturity_yolov8.ipynb    # LF1 bản thật (YOLOv8 + cross-fitting) -> labels/votes/lf1_maturity.csv
+notebooks/lf6_degradation.ipynb        # LF6: suy giảm có kiểm soát -> labels/votes/lf6_degradation.csv
+notebooks/lf7_vision_label.ipynb       # LF7: vision model + cổng chất lượng -> labels/votes/lf7_vision.csv
+labels/votes/lf<N>_<tên>.csv           # MỖI LF một file riêng (long schema) -> chạy song song, fusion gộp bằng fuse_votes
 Dataset/                               # Dữ liệu (xem mục 4)
 ```
+
+**Output mỗi LF một file (không dùng chung manifest):** mỗi LF ghi `labels/votes/lf<N>_<tên>.csv` theo
+schema chung (`src/utils/lf_io.ipynb`, long/tidy: `lf, image_id, task, vote, confidence, reason, source, path` + cột extra).
+Nhờ vậy chạy nhiều LF song song không tranh chấp file; bước fusion đọc mọi file bằng `fuse_votes(labels/votes)`.
 
 ## 7. Lộ trình triển khai (thứ tự ưu tiên)
 
 1. **Gold seed**: gán tay ~300–500 ảnh cho 5 tác vụ + viết annotation protocol. (Đòn bẩy cao nhất.)
 2. **Huấn luyện & tích hợp 5 mô hình hạ nguồn** (độ-chín trên `dry/green/tender`; bệnh-lá; bệnh-thân; bệnh-đọt; tàu-lá) vào
-   `DownstreamModels` trong `notebooks/01_label_correctness.ipynb` (xem mục 8).
+   `DownstreamModels` trong `notebooks/lf1-5_correctness.ipynb` (xem mục 8).
 3. **Degradation LF**: bộ suy giảm có kiểm soát + dò điểm gãy cho từng tác vụ × từng trục.
 4. **Label model** (Snorkel hoặc biểu quyết có trọng số) hợp nhất các LF → nhãn xác suất; calibrate theo gold seed.
 5. **Split 70/15/15 group theo ảnh gốc** (gộp ×3 augment cùng split).
@@ -100,8 +108,8 @@ Dataset/                               # Dữ liệu (xem mục 4)
 
 ## 8. Cách chạy & mở rộng
 
-Mở `notebooks/01_label_correctness.ipynb` và chạy tuần tự các cell. Khi mô hình hạ nguồn chưa được
-tích hợp (còn là hàm giữ chỗ), manifest sinh ra ở `labels/lf1-5_correctness_manifest.csv` với các cột nhãn để trống.
+Mở `notebooks/lf1-5_correctness.ipynb` và chạy tuần tự các cell. Khi mô hình hạ nguồn chưa được
+tích hợp (còn là hàm giữ chỗ), mọi phiếu là abstain → các file `labels/votes/lf2_foliar.csv`… chỉ có dòng tiêu đề.
 
 Tích hợp mô hình hạ nguồn thực (sửa cell tạo `DownstreamModels` ở cuối notebook):
 ```python
