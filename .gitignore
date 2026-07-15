@@ -13,3 +13,6 @@ venv/
 
 # Nhãn sinh ra (tái tạo được từ notebook) — bỏ comment nếu không muốn commit
 labels/
+
+# Dataset (dữ liệu lớn, không commit vào repo)
+Dataset/
