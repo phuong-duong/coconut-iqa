@@ -10,7 +10,3 @@ venv/
 
 # Secrets
 .env
-
-
-# Dataset
-Dataset/

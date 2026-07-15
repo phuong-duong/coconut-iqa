@@ -15,6 +15,10 @@ Bốn thư mục bệnh (Mendeley gh56wbsnj5), gán về tác vụ theo required
 
 Lệch lớp **mạnh** (2135 vs 470) → train **class-weighted**; đo tách theo lớp. Ảnh Mendeley **không có augment ×3** (khác Roboflow) → `original_id` = chính nó. Model chạy **offline sinh nhãn** → ưu tiên chính xác, không cần nhẹ (khác model IQA cuối).
 
+## Kiến trúc classifier (chọn + lý do)
+
+Classifier chạy **offline sinh nhãn** (không phải model IQA trên thiết bị) → chọn theo độ chính xác, không theo latency/size. Chọn **EfficientNet-B0** (torchvision, khởi tạo `IMAGENET1K_V1`): ImageNet-1K top-1 = 77.692% với 5.3M tham số, cao hơn MobileNetV3-Large (74.042%, 5.5M) và MobileNetV3-Small (67.668%, 2.5M) ở cùng bậc tham số — biên top-1 +3.65 điểm so với MobileNetV3-Large. Đầu vào 224×224; đầu ra 5 lớp (`gls, leafrot, stembleed, budrot, budroot`); `CrossEntropyLoss` **class-weighted** $w_c = N/(C\cdot n_c)$ bù lệch lớp (2135 vs 470). Kiến trúc thay thế **MobileNetV3-Large** giữ làm tuỳ chọn cờ `ARCH` để so sánh. Triển khai: `notebooks/disease_classifier.ipynb` (đầu ra `labels/disease_clf/oof_predictions.csv`).
+
 ## Ký hiệu và định nghĩa
 
 Lớp thư mục $\mathcal{C}=\{\text{gls, leafrot, stembleed, budrot, budroot}\}$. Ánh xạ view $\text{task}(\cdot)$ đưa mỗi lớp về tác vụ của nó (gls, leafrot $\to$ foliar; stembleed $\to$ trunk; …). Cho ảnh $x$: $g(x)\in\mathcal{C}$ = lớp thật (thư mục nguồn), $\hat{y}(x)$ = lớp dự đoán out-of-fold, $c(x)$ = độ tin, $\tau$ = ngưỡng. Miền của LF3 = ảnh có $\text{task}(g(x))=\text{trunk}$.
@@ -84,7 +88,7 @@ use LF3 (trọng số học được)  if alpha_hat > 0.5 and coverage đủ  el
 
 ## Kế hoạch triển khai
 
-1. **Classifier dùng chung (bước/notebook riêng)** — cross-fit 4 view (5 thư mục), class-weighted, **placeholder-first** (chưa có model → abstain hết → file rỗng, pipeline vẫn chạy). Kiến trúc: transfer nhẹ (MobileNetV3 / EfficientNet-Lite / timm), chọn + lý do ghi ở doc, không narrate trong notebook. Đầu ra: `labels/disease_clf/oof_predictions.csv` (`image_id, pred, conf, fold`).
+1. **Classifier dùng chung (bước/notebook riêng)** — cross-fit 4 view (5 thư mục), class-weighted, **placeholder-first** (chưa có model → abstain hết → file rỗng, pipeline vẫn chạy). Kiến trúc: transfer nhẹ (MobileNetV3 / EfficientNet-Lite / timm), chọn + lý do ghi ở doc, không narrate trong notebook. Đầu ra: `labels/disease_clf/oof_predictions.csv` (`image_id, source, path, gt_class, gt_task, pred_class, pred_task, conf, fold, p_gls, p_leafrot, p_stembleed, p_budrot, p_budroot`).
 2. **LF3** `notebooks/lf3_trunk.ipynb` — đọc oof, lọc ảnh view trunk, áp công thức $\lambda_3$, ghi `labels/votes/lf3_trunk.csv` (schema chung `src/utils/lf_io.ipynb`; `lf='lf3_trunk'`, `task='3_trunk_disease'`; cột extra `pred, conf, fold`).
 3. **Tái dùng** — LF2/LF4/LF5 đọc **cùng** oof, đổi view đích (foliar/crown/petiole) → mỗi LF một file `labels/votes/lf<N>_*.csv`.
 4. **LF6** đọc các file votes để chọn anchor (đúng & `conf>TAU_HIGH`) thay vì re-infer tại delta=0.
